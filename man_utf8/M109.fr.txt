@@ -6,14 +6,14 @@
 1 0 1 0 0 #• Nom?#
 #Jonaka.#
 1 0 2 0 0 #• Profession?#
-#Je connais beaucoup de choses sur la science médicale.#
-1 0 3 9 0 #• Dépendance thérapeutique.#
-#Traitement de l’empoisonnement 20 yuans. *Veuillez sélectionner une personne pour le traitement!#
-1 0 4 7 0 #• Dé-pétrification.#
-#Ascenseur pétrochimique 100 yuans. *Veuillez sélectionner une personne pour le traitement!#
-1 0 5 10 0 #• Résurrection.#
-#Les frais de résurrection sont de 200 yuans, veuillez sélectionner un partenaire.#
-1 0 6 3 0 #• Acheter des médicaments.#
+#Je connais beaucoup de choses sur la science medicale.#
+1 0 3 9 0 #• Dependance therapeutique.#
+#Traitement de l'empoisonnement 20 yuans. *Veuillez selectionner une personne pour le traitement!#
+1 0 4 7 0 #• De-petrification.#
+#Ascenseur petrochimique 100 yuans. *Veuillez selectionner une personne pour le traitement!#
+1 0 5 10 0 #• Resurrection.#
+#Les frais de resurrection sont de 200 yuans, veuillez selectionner un partenaire.#
+1 0 6 3 0 #• Acheter des medicaments.#
 #Ramassez-le!#
 1 0 7 1 0 #• Au revoir.#
-#Il y aura une période plus tard.#
+#Il y aura une periode plus tard.#

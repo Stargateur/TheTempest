@@ -1,19 +1,19 @@
 
 
 
-#Hé! Vous êtes de là, et le pont vers l’extérieur est brisé depuis longtemps!#
-#J’aimerais que tout soit pareil comme par le passé !#
+#He! Vous etes de la, et le pont vers l'exterieur est brise depuis longtemps!#
+#J'aimerais que tout soit pareil comme par le passe !#
 1 0 1 0 0 #• Nom?#
 #Quake Foster.#
 1 59 2 0 1 3 #• Pont?#
-#Ouf... Quand je pense au pont, je pense à mon père, qui est architecte, mais il a été attrapé par les méchants.#
-0 59 3 0 0 #• Les méchants ?#
-#Ils ont dit qu’ils aideraient un grand général à construire une ville royale, et quand ils sont partis, ils ont fait sauter le pont, et maintenant il ne reste plus que quelques femmes et enfants vieux et faibles.#
-59 60 4 0 0 #• Dessins de construction trouvés!#
-#Je ne m’attendais pas à ce que vous trouviez les dessins de construction, alors dépêchez-vous et trouvez Christie.#
+#Ouf... Quand je pense au pont, je pense a mon pere, qui est architecte, mais il a ete attrape par les mechants.#
+0 59 3 0 0 #• Les mechants ?#
+#Ils ont dit qu'ils aideraient un grand general a construire une ville royale, et quand ils sont partis, ils ont fait sauter le pont, et maintenant il ne reste plus que quelques femmes et enfants vieux et faibles.#
+59 60 4 0 0 #• Dessins de construction trouves!#
+#Je ne m'attendais pas a ce que vous trouviez les dessins de construction, alors depechez-vous et trouvez Christie.#
 60 65 5 0 0 #• Idem ?#
-#Bonnes choses à faire jusqu’à la fin, s’il vous plaît aidez-nous à sauver la famille d’accord?#
+#Bonnes choses a faire jusqu'a la fin, s'il vous plait aidez-nous a sauver la famille d'accord?#
 65 0 6 0 0 #• Idem ?#
-#Nous pouvons être réunis, grâce à vous.#
+#Nous pouvons etre reunis, grace a vous.#
 1 0 7 1 0 #• Au revoir.#
 #Au revoir.#

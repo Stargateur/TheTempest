@@ -1,17 +1,17 @@
 
 
 
-#Mon père et mon mari me manquent.#
-#En surface, nous avons l’air calme, mais nous ne le faisons pas.#
+#Mon pere et mon mari me manquent.#
+#En surface, nous avons l'air calme, mais nous ne le faisons pas.#
 1 0 1 0 0 #• Nom?#
 #Jessica.#
 1 0 2 0 1 3 #• Profession?#
-#Mon mari et mon père se sont lancés dans les affaires ensemble, mais ils sont tous les deux morts au combat.#
-0 0 3 0 1 4 #• Tué au combat?#
-#Quand Kate est arrivée sur l’île, le village a été forcé de remettre une grande quantité de céréales chaque jour pour approvisionner son armée, et plus tard nous n’avons pas pu payer assez de céréales, et ils ont pris tous les enfants! Les hommes du village prévoient d’assassiner Kate tout en transportant le grain restant dans le temple, mais ils meurent tous au combat, et aucun d’entre eux ne survit... Dans le village, il ne reste plus que des femmes...#
-0 0 4 0 0 #• Quelle cruauté !#
-#Ensuite, JeepLoy a pris en charge le village et a jeté une malédiction que tous les hommes visibles ne pourraient plus jamais entrer dans le village, et elle a mis en place un mur magique sur la seule route du village au temple, afin que personne ne puisse plus menacer la sécurité de Kate!#
-75 0 5 0 0 #• Malédiction levée ?#
-#Grâce à vous, cette terrible malédiction peut être levée.#
+#Mon mari et mon pere se sont lances dans les affaires ensemble, mais ils sont tous les deux morts au combat.#
+0 0 3 0 1 4 #• Tue au combat?#
+#Quand Kate est arrivee sur l'ile, le village a ete force de remettre une grande quantite de cereales chaque jour pour approvisionner son armee, et plus tard nous n'avons pas pu payer assez de cereales, et ils ont pris tous les enfants! Les hommes du village prevoient d'assassiner Kate tout en transportant le grain restant dans le temple, mais ils meurent tous au combat, et aucun d'entre eux ne survit... Dans le village, il ne reste plus que des femmes...#
+0 0 4 0 0 #• Quelle cruaute !#
+#Ensuite, JeepLoy a pris en charge le village et a jete une malediction que tous les hommes visibles ne pourraient plus jamais entrer dans le village, et elle a mis en place un mur magique sur la seule route du village au temple, afin que personne ne puisse plus menacer la securite de Kate!#
+75 0 5 0 0 #• Malediction levee ?#
+#Grace a vous, cette terrible malediction peut etre levee.#
 1 0 6 1 0 #• Au revoir.#
-#Que Dieu vous bénisse.#
+#Que Dieu vous benisse.#

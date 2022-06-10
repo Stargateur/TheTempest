@@ -1,13 +1,13 @@
 
 
 
-#C’est une zone interdite.#
-#Rien à faire ne vous approchez pas d’ici!#
+#C'est une zone interdite.#
+#Rien a faire ne vous approchez pas d'ici!#
 1 0 1 0 0 #• Nom?#
 #Rosen.#
 1 0 2 0 0 #• Profession?#
-#Monter la garde ici, bien sûr, vous ne devriez pas partir sans permission.#
+#Monter la garde ici, bien sur, vous ne devriez pas partir sans permission.#
 1 53 3 0 0 #• Zones interdites?#
-#Il a été nommé par l’oncle Karabang pour superviser le poste.#
+#Il a ete nomme par l'oncle Karabang pour superviser le poste.#
 1 0 4 1 0 #• Au revoir!#
 #Ne me cherchez pas.#

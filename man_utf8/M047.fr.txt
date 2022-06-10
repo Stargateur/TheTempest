@@ -1,23 +1,23 @@
 
 
 
-#Je séjourne temporairement dans cet hôtel.#
-#Je séjourne temporairement dans cet hôtel.#
+#Je sejourne temporairement dans cet hotel.#
+#Je sejourne temporairement dans cet hotel.#
 1 0 1 0 0 #• Nom?#
 #Si vous deviez me demander mon vrai nom, je ne pourrais que vous dire mon nom actuel, Isaac.#
-1 24 2 0 0 #• Séjourner temporairement dans un hôtel ?#
-#Parce qu’il y avait une guerre dans ma ville natale, j’ai vécu ici pour le moment, et je ne pensais pas que ce village n’était pas très stable, et je ne vous en dirais pas trop à moins d’être sûr que c’était une bonne personne.#
-24 32 3 0 1 4 #• Séjourner temporairement dans un hôtel ?#
-#J’ai entendu dire que vous avez sauvé le chef du village, et vous êtes vraiment le héros de ce village.#
-0 32 4 0 1 5 #• Héros?#
-#Oh oui! Puisque vous êtes un homme juste, je vous le dis, je suis du village d’Enok, et l’autre jour, nous nous sommes affrontés avec les nains d’à côté.#
+1 24 2 0 0 #• Sejourner temporairement dans un hotel ?#
+#Parce qu'il y avait une guerre dans ma ville natale, j'ai vecu ici pour le moment, et je ne pensais pas que ce village n'etait pas tres stable, et je ne vous en dirais pas trop a moins d'etre sur que c'etait une bonne personne.#
+24 32 3 0 1 4 #• Sejourner temporairement dans un hotel ?#
+#J'ai entendu dire que vous avez sauve le chef du village, et vous etes vraiment le heros de ce village.#
+0 32 4 0 1 5 #• Heros?#
+#Oh oui! Puisque vous etes un homme juste, je vous le dis, je suis du village d'Enok, et l'autre jour, nous nous sommes affrontes avec les nains d'a cote.#
 0 32 5 0 2 6 7 #• Conflit?#
-#Puits! Les Nains vivaient dans la grotte des Nains au mont St. Kelly, et les deux villages étaient paisibles jusqu’à ce que le roi nain soit tué. Après l’incident, il a été dit que c’était un empoisonneur sous les gens de mon village, et personne ne savait qui était le meurtrier, alors pour éviter d’être blâmé, il a marché et s’est enfui.#
+#Puits! Les Nains vivaient dans la grotte des Nains au mont St. Kelly, et les deux villages etaient paisibles jusqu'a ce que le roi nain soit tue. Apres l'incident, il a ete dit que c'etait un empoisonneur sous les gens de mon village, et personne ne savait qui etait le meurtrier, alors pour eviter d'etre blame, il a marche et s'est enfui.#
 0 32 6 0 0 #• Qui est le vrai coupable?#
-#Qui admettrait qu’il était le meurtrier, qui a osé affirmer sans preuve, de toute façon, les gens de notre village ont été tués.#
+#Qui admettrait qu'il etait le meurtrier, qui a ose affirmer sans preuve, de toute facon, les gens de notre village ont ete tues.#
 0 32 7 95 0 #• Grotte des Nains?#
-#Pour vous rendre à la grotte des Nains pour traverser la montagne enneigée, votre seul moyen est de prendre un bateau, après être allé à terre et vous être dirigé vers le nord, vous pouvez voir une colline de St. Kelly, il y a beaucoup de gardes nains, ce devrait être l’entrée de la grotte des Nains.#
-32 0 8 0 0 #• La vérité est sortie.#
-#Je vous suis tellement reconnaissant d’avoir pu découvrir la vérité ! Comment quelqu’un d’aussi gentil que nous pourrait-il tuer le roi nain, et après un certain temps, je retournerais dans ma ville natale, merci beaucoup.#
+#Pour vous rendre a la grotte des Nains pour traverser la montagne enneigee, votre seul moyen est de prendre un bateau, apres etre alle a terre et vous etre dirige vers le nord, vous pouvez voir une colline de St. Kelly, il y a beaucoup de gardes nains, ce devrait etre l'entree de la grotte des Nains.#
+32 0 8 0 0 #• La verite est sortie.#
+#Je vous suis tellement reconnaissant d'avoir pu decouvrir la verite ! Comment quelqu'un d'aussi gentil que nous pourrait-il tuer le roi nain, et apres un certain temps, je retournerais dans ma ville natale, merci beaucoup.#
 1 0 9 1 0 #• Au revoir.#
-#Il y aura une période après cela!#
+#Il y aura une periode apres cela!#

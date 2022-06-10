@@ -1,17 +1,17 @@
 
 
 
-#Je n’ai pas beaucoup vu mon père ces derniers temps, et il ne semble pas se soucier de moi du tout.#
-#Hé! Apprenez-moi à jouer avec des épées, d’accord?#
+#Je n'ai pas beaucoup vu mon pere ces derniers temps, et il ne semble pas se soucier de moi du tout.#
+#He! Apprenez-moi a jouer avec des epees, d'accord?#
 1 0 1 0 0 #• Nom?#
 #Frise.#
 1 33 2 0 1 3 #• Papa?#
-#Était-il un homme d’affaires célèbre, Bailey, avait-il entendu parler?#
+#etait-il un homme d'affaires celebre, Bailey, avait-il entendu parler?#
 0 0 3 0 1 4 #• Bailey?#
-#Mon père me faisait du mal, et chaque fois qu’il revenait d’affaires, il apportait beaucoup de cadeaux précieux.#
+#Mon pere me faisait du mal, et chaque fois qu'il revenait d'affaires, il apportait beaucoup de cadeaux precieux.#
 0 33 4 0 0 #• Cadeaux?#
-#Bien qu’il ait gagné beaucoup d’argent cette fois,il a oublié de m’acheter un cadeau, m’a juste emmené à la grotte dans les montagnes du sud, ce que je ne pensais pas être amusant du tout.#
-105 0 5 0 0 #• Jeu d’épée?#
-#J’ai entendu dire que mon père avait été ostracisé par les villageois, et si j’apprenais le maniement de l’épée, je pourrais protéger la terre de mon père.#
+#Bien qu'il ait gagne beaucoup d'argent cette fois,il a oublie de m'acheter un cadeau, m'a juste emmene a la grotte dans les montagnes du sud, ce que je ne pensais pas etre amusant du tout.#
+105 0 5 0 0 #• Jeu d'epee?#
+#J'ai entendu dire que mon pere avait ete ostracise par les villageois, et si j'apprenais le maniement de l'epee, je pourrais proteger la terre de mon pere.#
 1 0 6 1 0 #• Au revoir!#
 #Venez beaucoup jouer avec moi!#

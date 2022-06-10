@@ -2,14 +2,14 @@
 
 
 #Si nous vous rendons malheureux...#
-#Quand je me suis réveillé pour la première fois d’un long sommeil, j’ai entendu ce genre de musique.#
+#Quand je me suis reveille pour la premiere fois d'un long sommeil, j'ai entendu ce genre de musique.#
 1 0 1 0 0 #• Nom?#
 #Berkoff.#
 1 0 2 0 0 #• Profession?#
-#Je suis un barde, et dans mes rêves, les anges ouvrent souvent des portes dans les nuages pour me saluer.#
+#Je suis un barde, et dans mes reves, les anges ouvrent souvent des portes dans les nuages pour me saluer.#
 1 64 3 0 0 #• Malheureux?#
-#Alors vous ne pouvez que blâmer ces piffles avides et riches, ne me dites pas que vous voulez embrouiller l’eau aussi!#
+#Alors vous ne pouvez que blamer ces piffles avides et riches, ne me dites pas que vous voulez embrouiller l'eau aussi!#
 64 0 4 0 0 #• Sonate?#
-#Le son de la justice n’est rien de plus qu’une illusion dans un rêve, et ces drames ennuyeux ne sont qu’un autre rêve...#
+#Le son de la justice n'est rien de plus qu'une illusion dans un reve, et ces drames ennuyeux ne sont qu'un autre reve...#
 1 0 5 1 0 #• Au revoir!#
 #Au revoir.#

@@ -1,11 +1,11 @@
 
 
 
-#Je suis occupé! Ne jouez pas avec moi.#
-#Veuillez m’excuser...#
+#Je suis occupe! Ne jouez pas avec moi.#
+#Veuillez m'excuser...#
 1 0 1 0 0 #• Nom?#
 #Mia.#
 1 0 2 0 0 #• Profession?#
-#Je suis un guerrier entraîné.#
+#Je suis un guerrier entraine.#
 1 0 3 1 0 #• Au revoir.#
 #......#

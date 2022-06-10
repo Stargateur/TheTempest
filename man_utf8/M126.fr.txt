@@ -1,17 +1,17 @@
 
 
 
-#Être l’épouse d’un pêcheur demande beaucoup de courage.#
+#etre l'epouse d'un pecheur demande beaucoup de courage.#
 #Cette belle fille ne savait pas ce qui se passait maintenant.#
 1 0 1 0 0 #• Nom?#
 #Emma.#
 1 0 2 0 0 #• Profession?#
-#Ménagère.#
-1 2 3 0 0 #• La femme du pêcheur?#
-#Je suis la femme de Jeff Daniel, et parfois je pense qu’il est trop curieux, et il vaut mieux garder un peu la bouche fermée pour le bien de mon propre gagne-pain.#
+#Menagere.#
+1 2 3 0 0 #• La femme du pecheur?#
+#Je suis la femme de Jeff Daniel, et parfois je pense qu'il est trop curieux, et il vaut mieux garder un peu la bouche fermee pour le bien de mon propre gagne-pain.#
 2 55 4 0 0 #• Les filles?#
-#Maintenant, je suis enfermé dans un manoir!#
+#Maintenant, je suis enferme dans un manoir!#
 55 0 5 0 0 #• Les filles?#
-#De manière inattendue, le roi a fait preuve de miséricorde cette fois et a libéré la petite fille.#
+#De maniere inattendue, le roi a fait preuve de misericorde cette fois et a libere la petite fille.#
 1 0 6 1 0 #• Au revoir.#
-#J’espère que vous êtes tous les meilleurs.#
+#J'espere que vous etes tous les meilleurs.#

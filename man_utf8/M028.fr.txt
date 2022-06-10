@@ -1,15 +1,15 @@
 
 
 
-#Hé! Je suis un bon ami de Baez.#
-#Vous voulez m’emmener jouer ?#
+#He! Je suis un bon ami de Baez.#
+#Vous voulez m'emmener jouer ?#
 1 0 1 0 0 #• Nom?#
-#Tout le monde m’appelle Paru.#
+#Tout le monde m'appelle Paru.#
 1 0 2 0 2 3 4 #• Baez?#
-#C’est le voisin de Silo !#
+#C'est le voisin de Silo !#
 0 0 3 0 0 #• Voisins.#
-#Quelques-uns d’entre nous avaient l’habitude de se faufiler à l’extérieur du village pour jouer.#
+#Quelques-uns d'entre nous avaient l'habitude de se faufiler a l'exterieur du village pour jouer.#
 0 16 4 0 0 #• Silo ?#
-#Il avait un jouet d’horlogerie amusant, mais il était perdu et nous étions tous tristes.#
+#Il avait un jouet d'horlogerie amusant, mais il etait perdu et nous etions tous tristes.#
 1 0 5 1 0 #• Au revoir.#
-#Amusez-vous n’oubliez pas de me le dire!#
+#Amusez-vous n'oubliez pas de me le dire!#

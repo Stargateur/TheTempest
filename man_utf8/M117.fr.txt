@@ -1,17 +1,17 @@
 
 
 
-#Nous vivons sur l’île de Telok depuis de nombreuses années.#
-#J’ai une fille douce et adorable...#
+#Nous vivons sur l'ile de Telok depuis de nombreuses annees.#
+#J'ai une fille douce et adorable...#
 1 0 1 0 0 #• Nom?#
 #Juliette.#
 1 0 2 0 0 #• Profession?#
-#Mon mari est Kunir, et nous pêchons depuis des générations.#
-1 53 3 0 0 #• Île Telok.#
-#Depuis que Karabang a occupé l’île et converti l’ancien temple en repaire, nous n’avons pas eu une bonne vie.#
+#Mon mari est Kunir, et nous pechons depuis des generations.#
+1 53 3 0 0 #• ile Telok.#
+#Depuis que Karabang a occupe l'ile et converti l'ancien temple en repaire, nous n'avons pas eu une bonne vie.#
 2 55 4 0 0 #• Fille?#
-#Notre famille ne voulait à l’origine que de la nourriture et des vêtements, mais ma pauvre fille est tombée dans les griffes du prince de la ville sous-marine, et j’ai entendu dire que sa personnalité était très cruelle. O ma pauvre fille !#
+#Notre famille ne voulait a l'origine que de la nourriture et des vetements, mais ma pauvre fille est tombee dans les griffes du prince de la ville sous-marine, et j'ai entendu dire que sa personnalite etait tres cruelle. O ma pauvre fille !#
 55 0 5 0 0 #• Fille?#
-#Grand bienfaiteur, je vous suis tellement reconnaissant d’avoir sauvé mon Ruo Di Qian, merci!#
+#Grand bienfaiteur, je vous suis tellement reconnaissant d'avoir sauve mon Ruo Di Qian, merci!#
 1 0 6 1 0 #• Au revoir.#
-#Le jour de la nostalgie de la paix est arrivé plus tôt.#
+#Le jour de la nostalgie de la paix est arrive plus tot.#

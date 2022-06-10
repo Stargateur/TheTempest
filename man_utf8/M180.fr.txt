@@ -1,18 +1,18 @@
 
 
 
-#Quel est le problème, l’hébergement?#
-#Que faut-il d’autre?#
+#Quel est le probleme, l'hebergement?#
+#Que faut-il d'autre?#
 1 0 1 0 0 #• Nom?#
 #Bemiler.#
 1 0 2 0 0 #• Profession?#
 #Je dirige cette auberge.#
-1 0 3 2 2 5 6 #• Hébergement.#
-#Restez ici pour une nuit, 500 yuans c’est bon?#
+1 0 3 2 2 5 6 #• Hebergement.#
+#Restez ici pour une nuit, 500 yuans c'est bon?#
 1 0 4 3 0 #• Shopping.#
 #Choisissez-le lentement!#
-0 0 5 15 0 #• D’accord.#
-#De bons rêves.#
+0 0 5 15 0 #• D'accord.#
+#De bons reves.#
 0 0 6 0 0 #• Ne le faites pas.#
 #Merci pour votre visite.#
 1 0 7 1 0 #• Au revoir.#

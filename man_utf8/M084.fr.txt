@@ -1,19 +1,19 @@
 
 
 
-#Que se passe-t-il, quelque chose ne va pas là-bas, malade?#
+#Que se passe-t-il, quelque chose ne va pas la-bas, malade?#
 #Autre chose? Encore besoin que je vous traite.#
 1 0 1 0 0 #• Nom?#
 #Tom.#
 1 0 2 0 0 #• Profession?#
-#Il est de mon devoir de pratiquer la médecine et de sauver les gens.#
-1 0 3 9 0 #• Dépendance thérapeutique.#
-#Traitement de l’empoisonnement 20 yuans. *Veuillez sélectionner une personne pour le traitement!#
-1 0 4 7 0 #• Dé-pétrification.#
-#Ascenseur pétrochimique 100 yuans. *Veuillez sélectionner une personne pour le traitement!#
-1 0 5 10 0 #• Résurrection.#
-#Les frais de résurrection sont de 200 yuans, veuillez sélectionner un partenaire.#
-1 0 6 3 0 #• Acheter des médicaments.#
-#Veuillez sélectionner la même chose.#
+#Il est de mon devoir de pratiquer la medecine et de sauver les gens.#
+1 0 3 9 0 #• Dependance therapeutique.#
+#Traitement de l'empoisonnement 20 yuans. *Veuillez selectionner une personne pour le traitement!#
+1 0 4 7 0 #• De-petrification.#
+#Ascenseur petrochimique 100 yuans. *Veuillez selectionner une personne pour le traitement!#
+1 0 5 10 0 #• Resurrection.#
+#Les frais de resurrection sont de 200 yuans, veuillez selectionner un partenaire.#
+1 0 6 3 0 #• Acheter des medicaments.#
+#Veuillez selectionner la meme chose.#
 1 0 7 1 0 #• Au revoir.#
 #Fais attention! La route est pleine de dangers.#

@@ -2,12 +2,12 @@
 
 
 #Le paysage du palais royal est rare dans le monde.#
-#La tranchée voisine est sans fond.#
+#La tranchee voisine est sans fond.#
 1 0 1 0 0 #• Nom?#
 #Emmer Jones.#
 1 0 2 0 0 #• Profession?#
-#Juste un garde, un petit rôle.#
+#Juste un garde, un petit role.#
 1 55 3 0 0 #• Vue sur le palais?#
-#Afin de préparer le mariage du prince « suzerain », le palais a été magnifiquement aménagé.#
+#Afin de preparer le mariage du prince "suzerain", le palais a ete magnifiquement amenage.#
 1 0 4 1 0 #• Au revoir.#
-#Je suis occupé, ne venez pas avec moi!#
+#Je suis occupe, ne venez pas avec moi!#

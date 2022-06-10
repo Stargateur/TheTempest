@@ -1,13 +1,13 @@
 
 
 
-#C’est le Parthénon !#
-#Les montagnes du Parthénon sont ma ville natale.#
+#C'est le Parthenon !#
+#Les montagnes du Parthenon sont ma ville natale.#
 1 0 1 0 0 #• Nom?#
 #Jeff Spee.#
 1 0 2 0 0 #• Profession?#
-#On m’a ordonné de garder les collines du Parthénon.#
+#On m'a ordonne de garder les collines du Parthenon.#
 1 65 3 0 0 #• Bartholnon?#
-#Partons sans aucun problème, pour ne pas souffrir des poissons de l’étang.#
+#Partons sans aucun probleme, pour ne pas souffrir des poissons de l'etang.#
 1 0 4 1 0 #• Au revoir.#
 #Au revoir.#

@@ -1,45 +1,45 @@
 
 
 
-#J’attendais ce jour depuis longtemps, Prince Pett.#
-#Je vis dans l’isolement ici depuis longtemps.#
+#J'attendais ce jour depuis longtemps, Prince Pett.#
+#Je vis dans l'isolement ici depuis longtemps.#
 2 0 1 0 0 #• Nom?#
 #Snyder.#
 2 0 2 0 1 3 #• Profession?#
-#J’étais magicien de village avant que Kate ne vienne au village de Proli.#
+#J'etais magicien de village avant que Kate ne vienne au village de Proli.#
 0 71 3 0 1 4 #• Kate!?#
 #Il est venu chercher le badge...#
 0 71 4 0 1 5 #• Des badges ?#
-#La légende raconte que la personne avec les trois insignes de mana, de crédibilité et de moralité deviendra le roi de la magie! Un vrai magicien ! Toute cette magie merveilleuse et mystérieuse sera profondément ancrée dans son âme, et il n’aura plus jamais besoin de ces livres de magie encombrants! Car la puissance abondante qui remplissait le vide attendait son appel à tout moment. Et juste pour obtenir ce pouvoir, Kate a fait sauter le pont Azluksi ...#
+#La legende raconte que la personne avec les trois insignes de mana, de credibilite et de moralite deviendra le roi de la magie! Un vrai magicien ! Toute cette magie merveilleuse et mysterieuse sera profondement ancree dans son ame, et il n'aura plus jamais besoin de ces livres de magie encombrants! Car la puissance abondante qui remplissait le vide attendait son appel a tout moment. Et juste pour obtenir ce pouvoir, Kate a fait sauter le pont Azluksi ...#
 0 71 5 0 1 6 #• Faire sauter des ponts?#
-#Eh bien, Kate craint que l’insigne de crédibilité perdu ne soit retiré de l’île! Alors il a fait sauter le pont !#
-0 71 6 0 1 7 #• Perte de crédibilité des badges ?#
-#À ce moment-là, il avait trouvé l’insigne de mana et l’avait remis au Sorcier de Sang de Gnostic pour le garder, puis il a découvert que l’insigne moral était à Proli, et il savait aussi que l’insigne de crédibilité était perdu à Patnon, alors Kate a également capturé de nombreux architectes à Azluksi tout en balançant son armée sur Proli, prétendant construire une ville royale à Patnon, en fait, c’était juste pour faciliter ses sbires à trouver le dernier badge à Patnon!#
+#Eh bien, Kate craint que l'insigne de credibilite perdu ne soit retire de l'ile! Alors il a fait sauter le pont !#
+0 71 6 0 1 7 #• Perte de credibilite des badges ?#
+#a ce moment-la, il avait trouve l'insigne de mana et l'avait remis au Sorcier de Sang de Gnostic pour le garder, puis il a decouvert que l'insigne moral etait a Proli, et il savait aussi que l'insigne de credibilite etait perdu a Patnon, alors Kate a egalement capture de nombreux architectes a Azluksi tout en balancant son armee sur Proli, pretendant construire une ville royale a Patnon, en fait, c'etait juste pour faciliter ses sbires a trouver le dernier badge a Patnon!#
 0 71 7 0 1 8 #• Swing proli?#
-#Je n’oublierai jamais cette nuit-là, Kate est venue à Prolli avec une armée et nous a demandé de remettre nos badges, et à la lumière de l’incendie, les villageois se sont battus partout, mais qui a arrêté Kate? Dans la cave où nous étions gardés pour la dernière fois, Kate sourit sombrement et apparut hors de l’obscurité...#
+#Je n'oublierai jamais cette nuit-la, Kate est venue a Prolli avec une armee et nous a demande de remettre nos badges, et a la lumiere de l'incendie, les villageois se sont battus partout, mais qui a arrete Kate? Dans la cave ou nous etions gardes pour la derniere fois, Kate sourit sombrement et apparut hors de l'obscurite...#
 0 71 8 0 1 9 #• Et puis quoi ?#
-#Il a utilisé la technique de conquête du cœur pour enlever les âmes des villageois, et Proli est soudainement devenu un village endormi dans un cauchemar profond, mais j’ai été épargné, mais c’était le début de la catastrophe! ...#
-0 71 9 0 1 10 #• Le début d’une catastrophe ?#
-#Il m’a dépouillé de toutes mes forces et m’a forcé à me demander où était mon badge, haha! La vérité ne peut pas succomber à la brutalité ! L’armée a ensuite fouillé tout le village, même la cave était pleine de ses sbires, Kate a finalement ordonné aux soldats de m’exiler à cet endroit, et juste au moment où les soldats étaient sur le point de m’entraîner, Kate m’a donné quelque chose ...#
+#Il a utilise la technique de conquete du coeur pour enlever les ames des villageois, et Proli est soudainement devenu un village endormi dans un cauchemar profond, mais j'ai ete epargne, mais c'etait le debut de la catastrophe! ...#
+0 71 9 0 1 10 #• Le debut d'une catastrophe ?#
+#Il m'a depouille de toutes mes forces et m'a force a me demander ou etait mon badge, haha! La verite ne peut pas succomber a la brutalite ! L'armee a ensuite fouille tout le village, meme la cave etait pleine de ses sbires, Kate a finalement ordonne aux soldats de m'exiler a cet endroit, et juste au moment ou les soldats etaient sur le point de m'entrainer, Kate m'a donne quelque chose ...#
 0 71 10 0 1 11 #• Une chose?#
-#Le Cœur de Vie, le Cœur de Vie, qui contenait les âmes des villageois de tout le village, riait et se moquait de moi que même si j’avais le Cœur de Vie, je ne pourrais pas sauver la vie des villageois.#
+#Le Coeur de Vie, le Coeur de Vie, qui contenait les ames des villageois de tout le village, riait et se moquait de moi que meme si j'avais le Coeur de Vie, je ne pourrais pas sauver la vie des villageois.#
 0 71 11 0 1 12 #• Vous ne pouvez pas sauver?#
-#Seul le Roi de la Magie peut inverser ce sort insoluble ! Alors, Votre Majesté le Prince, j’espère que vous obtiendrez ces trois badges avec une longueur d’avance sur Kate. Lorsque vous trouverez les trois badges, revenez ici et réveillez les villageois de Prolli, qui vous seront certainement d’une grande aide!#
-0 71 12 0 1 13 #• Où est l’insigne moral?#
-#Caché dans la porte secrète au premier étage de la cave de Prolli, vous pouvez trouver l’entrée de la cave dans la maison du forgeron.#
-0 71 13 0 0 #• Porte secrète?#
-#Puits! Vous devrez trouver un escalier différent du deuxième étage au premier étage, et vous trouverez le badge après une porte secrète de mur de briques!#
-83 71 14 68 1 15 #• Les badges sont trouvés!#
-#S’il vous plaît montrez-moi les trois badges! ... Oh mon dieu! Prophétie... La prophétie a été accordée... « Le Roi de la Magie renaîtra au Pays du Sommeil dans l’Arc-en-ciel... » Haha! Peu importe combien c’est! C’est le Cœur de Vie qui a été utilisé pour collecter des âmes en premier lieu, et il vous est donné, à vous, le vrai magicien. Veuillez placer ces quatre objets sur l’autel et les villageois se réveilleront.#
+#Seul le Roi de la Magie peut inverser ce sort insoluble ! Alors, Votre Majeste le Prince, j'espere que vous obtiendrez ces trois badges avec une longueur d'avance sur Kate. Lorsque vous trouverez les trois badges, revenez ici et reveillez les villageois de Prolli, qui vous seront certainement d'une grande aide!#
+0 71 12 0 1 13 #• Ou est l'insigne moral?#
+#Cache dans la porte secrete au premier etage de la cave de Prolli, vous pouvez trouver l'entree de la cave dans la maison du forgeron.#
+0 71 13 0 0 #• Porte secrete?#
+#Puits! Vous devrez trouver un escalier different du deuxieme etage au premier etage, et vous trouverez le badge apres une porte secrete de mur de briques!#
+83 71 14 68 1 15 #• Les badges sont trouves!#
+#S'il vous plait montrez-moi les trois badges! ... Oh mon dieu! Prophetie... La prophetie a ete accordee... "Le Roi de la Magie renaitra au Pays du Sommeil dans l'Arc-en-ciel..." Haha! Peu importe combien c'est! C'est le Coeur de Vie qui a ete utilise pour collecter des ames en premier lieu, et il vous est donne, a vous, le vrai magicien. Veuillez placer ces quatre objets sur l'autel et les villageois se reveilleront.#
 71 72 15 0 0 #• Autel?#
-#L’autel est au sud ici, mettez l’insigne de mana dans l’espace nord, l’insigne de crédibilité dans l’espace est, l’insigne moral dans l’espace ouest, le cœur de la vie sur l’espace au sud de l’autel, et votre pouvoir changera tout cela.#
+#L'autel est au sud ici, mettez l'insigne de mana dans l'espace nord, l'insigne de credibilite dans l'espace est, l'insigne moral dans l'espace ouest, le coeur de la vie sur l'espace au sud de l'autel, et votre pouvoir changera tout cela.#
 72 0 16 0 0 #• Village du sommeil!#
-#Je ne m’attendais pas à ce que vous le fassiez vraiment, et maintenant ce village endormi deviendra probablement un terme historique.#
-1 2 17 0 2 18 19 #• Comment connaissez-vous mon identité?#
-#L’empreinte royale sur le dos de votre main dit tout!#
+#Je ne m'attendais pas a ce que vous le fassiez vraiment, et maintenant ce village endormi deviendra probablement un terme historique.#
+1 2 17 0 2 18 19 #• Comment connaissez-vous mon identite?#
+#L'empreinte royale sur le dos de votre main dit tout!#
 0 0 18 0 0 #• Nom?#
 #Snyder.#
 0 0 19 0 1 3 #• Profession?#
-#J’étais magicien de village avant que Kate ne vienne au village de Proli.#
+#J'etais magicien de village avant que Kate ne vienne au village de Proli.#
 1 0 20 1 0 #• Au revoir.#
-#Il y aura une période plus tard.#
+#Il y aura une periode plus tard.#

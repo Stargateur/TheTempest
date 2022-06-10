@@ -46,7 +46,7 @@
 40 41 21 0 0 #• What else is there to do?#
 #We just promised the little girl that we were going to save her brother!#
 41 42 22 0 0 #• Finally killed the witch!#
-#Let's go find his sister!"#
+#Let's go find his sister!#
 45 50 23 0 0 #• Let's get to Tlock Island!#
 #Well, I can't spare the Karaban guy this time!#
 52 53 24 0 0 #• Calabon will be amazed!#
@@ -90,6 +90,6 @@
 0 0 43 0 0 #• Not good.#
 #What a pity.#
 1 14 44 1 0 #• Goodbye.#
-#I'll be here at any time waiting for your call!"#
-14 0 45 1 0 #• Hmmm! Let's get on our way."#
+#I'll be here at any time waiting for your call!#
+14 0 45 1 0 #• Hmmm! Let's get on our way.#
 #That's right! We have to hurry!#

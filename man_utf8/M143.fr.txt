@@ -1,27 +1,27 @@
 
 
 
-#Bonjour! Je m’appelle Caverny et je suis la fille unique de George.#
-#Le père aime que les autres lui plaisent le plus!#
+#Bonjour! Je m'appelle Caverny et je suis la fille unique de George.#
+#Le pere aime que les autres lui plaisent le plus!#
 1 0 1 0 0 #• Nom?#
 #Caverneux.#
 1 62 2 0 1 3 #• Enfant unique?#
-#Beaucoup d’hommes viennent proposer, ce qui est vraiment accablant.#
+#Beaucoup d'hommes viennent proposer, ce qui est vraiment accablant.#
 0 0 3 0 1 4 #• Mendier... Proposer???#
-#Qui veut que je sois une femme riche et une fille unique, je sais que beaucoup de gens viennent pour de l’argent, ils ne m’aiment pas vraiment, ils veulent juste faire plaisir à leur père.#
+#Qui veut que je sois une femme riche et une fille unique, je sais que beaucoup de gens viennent pour de l'argent, ils ne m'aiment pas vraiment, ils veulent juste faire plaisir a leur pere.#
 0 62 4 0 1 5 #• Pour plaire?#
-#Père a toujours aimé montrer qu’il avait un garde du corps fort, et si quelqu’un venait le défier, c’était la chose la plus heureuse pour lui.#
+#Pere a toujours aime montrer qu'il avait un garde du corps fort, et si quelqu'un venait le defier, c'etait la chose la plus heureuse pour lui.#
 0 62 5 0 2 6 9 #• Garde du corps?#
-#Vous voulez dire Blood Wizard? Écoutez ma mère, il était à l’origine enfermé à la prison de Patnon!#
+#Vous voulez dire Blood Wizard? ecoutez ma mere, il etait a l'origine enferme a la prison de Patnon!#
 0 62 6 0 1 7 #• Sorcier de sang?#
-#Il prétendait être le subordonné d’un général.#
-0 62 7 0 1 8 #• Général?#
-#Je ne sais pas, mais après l’arrivée du Sorcier du Sang, son père a toujours dit qu’il était sur le point de devenir le duc d’Anobap !#
-0 62 8 0 0 #• Duc d’Anobap ?#
-#Père a dit qu’il était le duc qui était en charge des quatre villages voisins!#
+#Il pretendait etre le subordonne d'un general.#
+0 62 7 0 1 8 #• General?#
+#Je ne sais pas, mais apres l'arrivee du Sorcier du Sang, son pere a toujours dit qu'il etait sur le point de devenir le duc d'Anobap !#
+0 62 8 0 0 #• Duc d'Anobap ?#
+#Pere a dit qu'il etait le duc qui etait en charge des quatre villages voisins!#
 0 62 9 0 1 10 #• Bartholnon?#
-#Après la rupture du pont d’Azluxhi, un groupe de troupes se dirigea vers l’est en direction de Patnon via Gnostic, et en quelques jours, Grace et son fils quittèrent Patnon.#
-0 62 10 0 0 #• Déménager?#
-#Oh oui! Après la libération des prisonniers de la prison de Patnon, ils sont sortis à la hâte, les ont écoutés, et quand ils étaient sur le point de partir, les soldats grossiers ont fouillé un par un, comme s’ils cherchaient quelque chose!#
+#Apres la rupture du pont d'Azluxhi, un groupe de troupes se dirigea vers l'est en direction de Patnon via Gnostic, et en quelques jours, Grace et son fils quitterent Patnon.#
+0 62 10 0 0 #• Demenager?#
+#Oh oui! Apres la liberation des prisonniers de la prison de Patnon, ils sont sortis a la hate, les ont ecoutes, et quand ils etaient sur le point de partir, les soldats grossiers ont fouille un par un, comme s'ils cherchaient quelque chose!#
 1 0 11 1 0 #• Au revoir.#
-#J’espère persuader mon père de ne plus utiliser de gardes du corps.#
+#J'espere persuader mon pere de ne plus utiliser de gardes du corps.#

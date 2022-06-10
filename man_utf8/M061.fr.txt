@@ -2,16 +2,16 @@
 
 
 #Je me cultive maintenant, sinon je vais me battre avec toi.#
-#L’hôte a fait ses valises et s’est préparé à fuir.#
+#L'hote a fait ses valises et s'est prepare a fuir.#
 1 0 1 0 0 #• Nom?#
 #Carmon.#
 1 0 2 0 0 #• Profession?#
 #Garde du corps.#
 38 53 3 0 0 #• Grandes Guerres.#
-#Karabang m’a ordonné de tuer quand j’ai vu quelqu’un entrer, mais maintenant qu’il s’enfuit, l’ordre est-il toujours valide ?#
-38 53 4 0 0 #• Évasion ?#
-#Il prit une femme, non, comme s’il s’agissait d’un garçon, et se dirigea vers l’est.#
+#Karabang m'a ordonne de tuer quand j'ai vu quelqu'un entrer, mais maintenant qu'il s'enfuit, l'ordre est-il toujours valide ?#
+38 53 4 0 0 #• evasion ?#
+#Il prit une femme, non, comme s'il s'agissait d'un garcon, et se dirigea vers l'est.#
 53 0 5 0 0 #• Bagages?#
-#Il n’a rien emporté avec lui, il y avait beaucoup de trésors dans la grotte, et nos frères se préparaient à jeter un coup d’œil!#
+#Il n'a rien emporte avec lui, il y avait beaucoup de tresors dans la grotte, et nos freres se preparaient a jeter un coup d'oeil!#
 1 0 6 1 0 #• Au revoir!#
 #Au revoir!#

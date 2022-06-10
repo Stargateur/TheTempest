@@ -2,7 +2,7 @@
 
 
 #If I don't want to see these stupid sheep, I want to play with you.#
-#I have to drive the sheep back after dark!"#
+#I have to drive the sheep back after dark!#
 1 0 1 0 0 #• Name?#
 #Gilda, I'm an orphan with no father and no wife.#
 1 0 2 0 1 3 #• Occupation?#

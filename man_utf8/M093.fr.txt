@@ -2,28 +2,28 @@
 
 
 #Pourquoi rencontrons-nous une telle chose?#
-#J’espère que le monde n’est pas aussi mauvais que je le pensais.#
+#J'espere que le monde n'est pas aussi mauvais que je le pensais.#
 1 0 1 0 1 6 #• Nom?#
-#Je suis Lolia d’Aqua Village.#
+#Je suis Lolia d'Aqua Village.#
 1 41 2 0 1 3 #• Aide?#
-#Mon frère... Ouf... Il était sur le point d’être aspiré de son sang par cette terrible sorcière.#
-0 41 3 2 0 #• Sorcière ?#
-#C’est la sorcière Wadel, qui veut utiliser le sang d’un garçon vierge pour renforcer son mana, s’il vous plaît sauvez mon pauvre frère!#
-41 42 4 0 1 5 #• Le monde ne va pas être trop mauvais.#
-#Notre frère et notre sœur vous remercient de vous avoir sauvé la vie, sans vous, nous ne savons vraiment pas ce qui va se passer.#
-0 107 5 88 0 #• Comment en êtes-vous arrivé là ?#
-#Nous sommes allés sur la côte voisine pour chercher des algues pour la maladie de ma mère, et afin de vous remercier pour votre grâce salvatrice, les perles de moules trouvées dans la mer vous sont données, ce qui est mon petit soin.#
-0 41 6 0 1 7 #• Village d’eau.#
-#Le village de l’eau est un endroit très mystérieux, et personne ne peut montrer la voie.#
+#Mon frere... Ouf... Il etait sur le point d'etre aspire de son sang par cette terrible sorciere.#
+0 41 3 2 0 #• Sorciere ?#
+#C'est la sorciere Wadel, qui veut utiliser le sang d'un garcon vierge pour renforcer son mana, s'il vous plait sauvez mon pauvre frere!#
+41 42 4 0 1 5 #• Le monde ne va pas etre trop mauvais.#
+#Notre frere et notre soeur vous remercient de vous avoir sauve la vie, sans vous, nous ne savons vraiment pas ce qui va se passer.#
+0 107 5 88 0 #• Comment en etes-vous arrive la ?#
+#Nous sommes alles sur la cote voisine pour chercher des algues pour la maladie de ma mere, et afin de vous remercier pour votre grace salvatrice, les perles de moules trouvees dans la mer vous sont donnees, ce qui est mon petit soin.#
+0 41 6 0 1 7 #• Village d'eau.#
+#Le village de l'eau est un endroit tres mysterieux, et personne ne peut montrer la voie.#
 0 0 7 0 0 #• Montrez la voie!#
-#Désolé! J’adorerais t’aider, mais je n’ai pas le temps, je dois d’abord sauver mon frère!#
-41 42 8 0 1 9 #• Village d’eau.#
-#Si vous voulez aller au village d’eau, je peux montrer la voie.#
+#Desole! J'adorerais t'aider, mais je n'ai pas le temps, je dois d'abord sauver mon frere!#
+41 42 8 0 1 9 #• Village d'eau.#
+#Si vous voulez aller au village d'eau, je peux montrer la voie.#
 107 42 9 41 0 #• Montrez la voie!#
-#Ce n’est pas un problème, s’il vous plaît venez avec moi!#
-42 50 10 0 0 #• Mère?#
-#La maladie de notre mère ne s’est toujours pas améliorée, alors comment le Ciel peut-il nous traiter ainsi ?#
-45 0 11 0 0 #• Clés?#
-#Les deux clés que ma mère a mentionnées, j’ai entendu le propriétaire de la librairie mentionner, peut-être qu’il peut vous aider!#
+#Ce n'est pas un probleme, s'il vous plait venez avec moi!#
+42 50 10 0 0 #• Mere?#
+#La maladie de notre mere ne s'est toujours pas amelioree, alors comment le Ciel peut-il nous traiter ainsi ?#
+45 0 11 0 0 #• Cles?#
+#Les deux cles que ma mere a mentionnees, j'ai entendu le proprietaire de la librairie mentionner, peut-etre qu'il peut vous aider!#
 1 0 12 1 0 #• Au revoir.#
 #Au revoir.#

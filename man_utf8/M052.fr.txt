@@ -4,34 +4,34 @@
 #Vous voulez me demander quelque chose de nouveau?#
 #Il semble y avoir peu de nouvelles nouvelles ces derniers temps.#
 1 0 1 0 0 #• Nom?#
-#Je m’appelle Danny, et les gens m’appellent Bag Inquirer.#
+#Je m'appelle Danny, et les gens m'appellent Bag Inquirer.#
 1 32 2 0 1 3 #• Renseignez-vous?#
-#Vous voulez savoir comment Prospero a perdu son trône?#
-0 53 3 0 1 4 #• Perdre le trône ?#
-#Négligeant les affaires du royaume, il vécut entièrement la vie d’un ermite, étudiant une discipline pour récupérer son esprit, mais suscita de manière inattendue les ambitions d’Antonio.#
+#Vous voulez savoir comment Prospero a perdu son trone?#
+0 53 3 0 1 4 #• Perdre le trone ?#
+#Negligeant les affaires du royaume, il vecut entierement la vie d'un ermite, etudiant une discipline pour recuperer son esprit, mais suscita de maniere inattendue les ambitions d'Antonio.#
 0 53 4 0 3 5 6 8 #• Ambition ?#
-#Antonio devint alors arrogant, non seulement arrachant tout ce que son pouvoir pouvait exproprier, mais cooptant également Kate, qui contrôlait l’armée du royaume; La conspiration, étape par étape, s’est réalisée.#
-0 53 5 0 0 #• Armée?#
-#Ne savez-vous pas qu’Antonio a déjà envoyé une grande armée pour établir une force complètement propre ici?!#
+#Antonio devint alors arrogant, non seulement arrachant tout ce que son pouvoir pouvait exproprier, mais cooptant egalement Kate, qui controlait l'armee du royaume; La conspiration, etape par etape, s'est realisee.#
+0 53 5 0 0 #• Armee?#
+#Ne savez-vous pas qu'Antonio a deja envoye une grande armee pour etablir une force completement propre ici?!#
 0 53 6 0 1 7 #• Kate?#
-#L’armée est dirigée par Kate, qui contrôle également certains des elfes et sorciers maléfiques de l’île en tant qu’assistants.#
+#L'armee est dirigee par Kate, qui controle egalement certains des elfes et sorciers malefiques de l'ile en tant qu'assistants.#
 0 53 7 0 1 9 #• Elfes?#
-#Non seulement les elfes, mais aussi Karabang, qui avait été béni par Prospero, sont également devenus ses sbires et ont fait ce qu’il voulait.#
+#Non seulement les elfes, mais aussi Karabang, qui avait ete beni par Prospero, sont egalement devenus ses sbires et ont fait ce qu'il voulait.#
 0 32 8 0 0 #• Conspiration?#
-#Quand Antonio aura pleinement réalisé son complot, l’île ne sera pas sauvée.#
+#Quand Antonio aura pleinement realise son complot, l'ile ne sera pas sauvee.#
 0 79 9 0 0 #• Karabang!#
-#Un gobelin non-conformiste qui vit sur l’île de Telok.#
+#Un gobelin non-conformiste qui vit sur l'ile de Telok.#
 79 53 10 0 1 11 #• Vous connaissez Karabang !#
-#Qu’est-ce qui ne va pas avec un gobelin non-conformiste qui vit sur l’île de Telock?#
-0 53 11 0 1 12 #• Nous sommes en route pour l’île de Telok!#
-#Repaire de Calbon?! Impossible, personne ne veut s’en approcher.#
-0 53 12 0 1 13 #• Il n’y a aucun moyen?#
-#J’ai entendu dire que la cascade à l’est de Saint-Germain est l’entrée de l’île de Troie, mais... Comment se rendre à Saint-Germain ?#
-0 53 13 0 1 14 #• Qu’est-ce que cela signifie ?#
-#Lors d’un tremblement de terre précédent, la masse terrestre de Saint-Germain a coulé et s’est déplacée, formant une falaise abrupte et une mer peu profonde que les bateaux de pêche ne pouvaient pas naviguer, donc si vous deviez aller à Saint-Germain, à moins que vous ne le fassiez...#
-0 53 14 0 1 15 #• Qu’est-ce que ce sera?#
-#Hahaha... Peut voler! Envolez-vous vers le bas de la falaise comme un oiseau. Mais vous devez toujours vaincre le dragon en premier! »#
+#Qu'est-ce qui ne va pas avec un gobelin non-conformiste qui vit sur l'ile de Telock?#
+0 53 11 0 1 12 #• Nous sommes en route pour l'ile de Telok!#
+#Repaire de Calbon?! Impossible, personne ne veut s'en approcher.#
+0 53 12 0 1 13 #• Il n'y a aucun moyen?#
+#J'ai entendu dire que la cascade a l'est de Saint-Germain est l'entree de l'ile de Troie, mais... Comment se rendre a Saint-Germain ?#
+0 53 13 0 1 14 #• Qu'est-ce que cela signifie ?#
+#Lors d'un tremblement de terre precedent, la masse terrestre de Saint-Germain a coule et s'est deplacee, formant une falaise abrupte et une mer peu profonde que les bateaux de peche ne pouvaient pas naviguer, donc si vous deviez aller a Saint-Germain, a moins que vous ne le fassiez...#
+0 53 14 0 1 15 #• Qu'est-ce que ce sera?#
+#Hahaha... Peut voler! Envolez-vous vers le bas de la falaise comme un oiseau. Mais vous devez toujours vaincre le dragon en premier!#
 0 53 15 0 0 #• Des dragons ?#
-#Il suffit de rester à Saint-Germain, et de vous conseiller de rester loin de là!#
+#Il suffit de rester a Saint-Germain, et de vous conseiller de rester loin de la!#
 1 0 16 1 0 #• Au revoir.#
 #Revenez quand vous aurez le temps!#

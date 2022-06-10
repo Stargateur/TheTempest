@@ -1,15 +1,15 @@
 
 
 
-#J’ai fait un cauchemar pendant que je dormais.#
-#J’étais trop paresseux pour sortir et je voulais dormir plus.#
+#J'ai fait un cauchemar pendant que je dormais.#
+#J'etais trop paresseux pour sortir et je voulais dormir plus.#
 72 0 1 0 0 #• Nom?#
 #Simon.#
 72 0 2 0 1 3 #• Cauchemars.#
-#Le rêve est une île avec une grande ville royale, de nombreux soldats lourdement armés, lourdement gardés.#
+#Le reve est une ile avec une grande ville royale, de nombreux soldats lourdement armes, lourdement gardes.#
 73 74 3 0 0 #• Soldats.#
-#Ils battent les gens quand ils les voient, et leurs hommes sont impitoyables, ce qui est terrible, et le résultat est...#
-74 0 4 0 0 #• Résultats.#
-#Et vous vous réveillez !#
+#Ils battent les gens quand ils les voient, et leurs hommes sont impitoyables, ce qui est terrible, et le resultat est...#
+74 0 4 0 0 #• Resultats.#
+#Et vous vous reveillez !#
 1 0 5 1 0 #• Au revoir.#
 #Puits... Bon regard!#

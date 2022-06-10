@@ -1,17 +1,17 @@
 
 
 
-#Pour reconstituer votre endurance, il est préférable de vous reposer ici pendant un certain temps avant de partir.#
-#Notre restaurant a un environnement confortable, je pense que vous l’aimerez.#
+#Pour reconstituer votre endurance, il est preferable de vous reposer ici pendant un certain temps avant de partir.#
+#Notre restaurant a un environnement confortable, je pense que vous l'aimerez.#
 72 0 1 0 0 #• Nom?#
 #Macray.#
 72 0 2 0 0 #• Profession?#
 #Le quartier est le plus confortable pour mon auberge.#
-72 0 3 2 2 4 5 #• Hébergement?#
-#Restez ici pour 500 yuans la nuit, d’accord?#
-0 0 4 15 0 #• D’accord.#
-#Bonne journée.#
+72 0 3 2 2 4 5 #• Hebergement?#
+#Restez ici pour 500 yuans la nuit, d'accord?#
+0 0 4 15 0 #• D'accord.#
+#Bonne journee.#
 0 0 5 0 0 #• Pas bon.#
-#Ça ne fait rien.#
+#ca ne fait rien.#
 1 0 6 1 0 #• Au revoir.#
-#Bienvenue à nouveau.#
+#Bienvenue a nouveau.#

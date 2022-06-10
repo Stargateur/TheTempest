@@ -1,15 +1,15 @@
 
 
 
-#Qu’est-ce qui est si important?#
+#Qu'est-ce qui est si important?#
 #Bienvenue au village de la Kabbale.#
 1 84 1 12 0 #• Nom?#
 #...×△*○?2...#
 1 84 2 12 0 #• Profession?#
 #...×△*○?2...#
 84 0 3 0 0 #• Nom?#
-#Je suis Pirid, y a-t-il quelque chose qui ne va pas chez moi? Je suis très occupé.#
+#Je suis Pirid, y a-t-il quelque chose qui ne va pas chez moi? Je suis tres occupe.#
 84 0 4 0 0 #• Profession?#
-#Le travail des gardes est très important et n’est pas accompagné.#
+#Le travail des gardes est tres important et n'est pas accompagne.#
 1 0 5 1 0 #• Au revoir.#
-#C’est normal de ne pas venir me voir.#
+#C'est normal de ne pas venir me voir.#

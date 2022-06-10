@@ -1,13 +1,13 @@
 
 
 
-#L’autre jour, le roi attrapa une petite sœur et revint!#
-#Bonjour! Frère aîné!#
+#L'autre jour, le roi attrapa une petite soeur et revint!#
+#Bonjour! Frere aine!#
 1 0 1 0 0 #• Nom?#
 #Morrison.#
-1 55 2 0 1 3 #• Petite sœur?#
-#Une très belle sœur yo! Tellement pitoyable, enfermé dans cette grande maison.#
+1 55 2 0 1 3 #• Petite soeur?#
+#Une tres belle soeur yo! Tellement pitoyable, enferme dans cette grande maison.#
 0 0 3 0 0 #• Pourquoi ?#
-#Parce que pour... Puits... Maman a dit que vous ne pouvez pas parler de cette question avec désinvolture, vous devez toujours demander aux autres.#
+#Parce que pour... Puits... Maman a dit que vous ne pouvez pas parler de cette question avec desinvolture, vous devez toujours demander aux autres.#
 1 0 4 1 0 #• Au revoir.#
 #Au revoir!#

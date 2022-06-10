@@ -2,30 +2,30 @@
 
 
 #Envie de prendre un bateau ?#
-#Qu’est-ce qu’ll y a?#
+#Qu'est-ce qu'll y a?#
 1 0 1 0 0 #• Nom?#
-#Je m’appelle Kendall.#
+#Je m'appelle Kendall.#
 1 0 2 2 5 3 4 5 6 12 #• En bateau ?#
-#Où voulez-vous vous y rendre?#
+#Ou voulez-vous vous y rendre?#
 93 0 3 2 2 7 11 #• Village de la Kabbale.#
-#Serait-il agréable de vous facturer 300 yuans?#
-94 0 4 2 2 8 11 #• Village de Galilée.#
-#Serait-il agréable de vous facturer 300 yuans?#
+#Serait-il agreable de vous facturer 300 yuans?#
+94 0 4 2 2 8 11 #• Village de Galilee.#
+#Serait-il agreable de vous facturer 300 yuans?#
 95 0 5 2 2 9 11 #• Grotte des Nains.#
-#Serait-il agréable de vous facturer 300 yuans?#
-96 0 6 2 2 10 11 #• Île Telok.#
+#Serait-il agreable de vous facturer 300 yuans?#
+96 0 6 2 2 10 11 #• ile Telok.#
 #Le tarif du bateau est de 300 yuans, voulez-vous le prendre?#
 0 0 7 22 0 #• Oui.#
-#Le village de la Kabbale est arrivé.#
+#Le village de la Kabbale est arrive.#
 0 0 8 32 0 #• Oui.#
-#Bonne journée.#
+#Bonne journee.#
 0 0 9 77 0 #• Oui.#
-#Bonne journée.#
+#Bonne journee.#
 0 0 10 78 0 #• Oui.#
-#Bonne journée.#
+#Bonne journee.#
 0 0 11 0 0 #• Ne le faites pas.#
 #Le bateau est sur le point de naviguer.#
 0 0 12 0 0 #• Partir.#
 #Vous ne roulez plus ?#
 1 0 13 1 0 #• Au revoir!#
-#Je vais revenir de l’autre côté.#
+#Je vais revenir de l'autre cote.#

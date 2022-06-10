@@ -1,19 +1,19 @@
 
 
 
-#Il n’y a pas de bons hôtels à proximité, alors restons dans un village de pêcheurs.#
-#De quoi d’autre avez-vous besoin?#
+#Il n'y a pas de bons hotels a proximite, alors restons dans un village de pecheurs.#
+#De quoi d'autre avez-vous besoin?#
 1 0 1 0 0 #• Nom?#
 #Prix.#
 1 0 2 0 0 #• Profession?#
-#J’attrape généralement du poisson, je fais des lits pour que les voyageurs restent quand j’ai du temps libre et je vends même des produits d’épicerie ici.#
-1 0 3 2 2 4 5 #• Hébergement.#
-#Vivre une nuit pour vous facturer 200 yuans c’est bien, décider de vivre ?#
+#J'attrape generalement du poisson, je fais des lits pour que les voyageurs restent quand j'ai du temps libre et je vends meme des produits d'epicerie ici.#
+1 0 3 2 2 4 5 #• Hebergement.#
+#Vivre une nuit pour vous facturer 200 yuans c'est bien, decider de vivre ?#
 0 0 4 15 0 #• Oui.#
-#Faites de beaux rêves.#
+#Faites de beaux reves.#
 0 0 5 0 0 #• Non.#
-#Besoin d’autre chose?#
+#Besoin d'autre chose?#
 1 0 6 3 0 #• Achetez des choses.#
-#Ce sont des articles très utiles, oh, achetez plus à emporter avec vous.#
+#Ce sont des articles tres utiles, oh, achetez plus a emporter avec vous.#
 1 0 7 1 0 #• Au revoir.#
 #Au revoir.#

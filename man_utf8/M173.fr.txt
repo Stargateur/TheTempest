@@ -1,13 +1,13 @@
 
 
 
-#Tout notre village peut se réveiller à nouveau, merci à tous.#
-#Si vous voulez faire le plein de votre équipement, vous pouvez vous rendre chez Howard au magasin d’armes.#
+#Tout notre village peut se reveiller a nouveau, merci a tous.#
+#Si vous voulez faire le plein de votre equipement, vous pouvez vous rendre chez Howard au magasin d'armes.#
 72 0 1 0 0 #• Nom?#
 #Je suis la femme de Howard, Norvescon.#
 72 73 2 0 0 #• Profession?#
-#Nous étions dans le commerce du minerai à Barthnon, et nous avons emménagé après que Kate ait libéré les prisonniers, mais moins d’une semaine après son arrivée à Prolly, Kate assiégeait Prolly.#
-73 0 3 0 0 #• Augmenter votre équipement?#
-#Y a-t-il assez d’équipement sur votre corps? Ce n’était pas si facile de faire face à cette Kate.#
+#Nous etions dans le commerce du minerai a Barthnon, et nous avons emmenage apres que Kate ait libere les prisonniers, mais moins d'une semaine apres son arrivee a Prolly, Kate assiegeait Prolly.#
+73 0 3 0 0 #• Augmenter votre equipement?#
+#Y a-t-il assez d'equipement sur votre corps? Ce n'etait pas si facile de faire face a cette Kate.#
 1 0 4 1 0 #• Au revoir.#
 #Je vous souhaite le meilleur.#

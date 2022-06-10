@@ -1,13 +1,13 @@
 
 
 
-#Cette île est dangereuse, ne traînez pas.#
+#Cette ile est dangereuse, ne trainez pas.#
 #Beaucoup de zones toxiques.#
 1 0 1 0 0 #• Nom?#
 #Crowe.#
 1 0 2 0 0 #• Profession?#
-#C’est difficile à regarder ici, il n’y a rien, c’est désolé.#
+#C'est difficile a regarder ici, il n'y a rien, c'est desole.#
 20 0 3 0 0 #• Zone toxique?#
-#Il est difficile pour les gens ordinaires de passer à moins que vous ne puissiez défaire sa malédiction toxique et laisser l’herbe verte pousser de la terre stérile.#
+#Il est difficile pour les gens ordinaires de passer a moins que vous ne puissiez defaire sa malediction toxique et laisser l'herbe verte pousser de la terre sterile.#
 1 0 4 1 0 #• Au revoir!#
-#Que Dieu vous bénisse.#
+#Que Dieu vous benisse.#

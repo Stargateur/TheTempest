@@ -1,19 +1,19 @@
 
 
 
-#L’objet important de l’art n’est pas le public qui manque de compréhension de l’art.#
-#Il est extrêmement rare que les gens servent les arts avec fierté et humilité.#
+#L'objet important de l'art n'est pas le public qui manque de comprehension de l'art.#
+#Il est extremement rare que les gens servent les arts avec fierte et humilite.#
 1 0 1 0 0 #• Nom?#
-#Je m’appelle John Bower, bonjour.#
+#Je m'appelle John Bower, bonjour.#
 1 0 2 0 1 3 #• Profession?#
 #Troubadour.#
-0 0 3 0 2 4 5 #• Poète?#
-#Mon préféré est le doux poème qu’Ariel a écrit quand elle a inventé Miranda et Ferdinand.#
-0 0 4 0 0 #• Des poèmes doux?#
-#Ariel danse et chante avec invisibilité, S’il vous plaît venez sur cette plage de sable jaune, puis tenez-vous à nouveau les mains, en attendant que vous vous embrassiez et saluiez ∼ Le vent menaçant et les vagues également calmes - Vous devez danser légèrement pour entendre le gazouillis du rossignol, écoutez! Écouter! Tu m’entends?#
-0 0 5 0 1 6 #• D’accord?#
-#C’est dommage que cette paire de partenaires enviés ait été si misérable par Antonio!#
+0 0 3 0 2 4 5 #• Poete?#
+#Mon prefere est le doux poeme qu'Ariel a ecrit quand elle a invente Miranda et Ferdinand.#
+0 0 4 0 0 #• Des poemes doux?#
+#Ariel danse et chante avec invisibilite, S'il vous plait venez sur cette plage de sable jaune, puis tenez-vous a nouveau les mains, en attendant que vous vous embrassiez et saluiez ∼ Le vent menacant et les vagues egalement calmes - Vous devez danser legerement pour entendre le gazouillis du rossignol, ecoutez! ecouter! Tu m'entends?#
+0 0 5 0 1 6 #• D'accord?#
+#C'est dommage que cette paire de partenaires envies ait ete si miserable par Antonio!#
 0 0 6 0 0 #• Antonio?#
-#Un homme rude qui rêve de pouvoir toute la journée ! Une bête ingrate ! Hélas, je ne peux pas penser à des mots gentils pour le décrire.#
+#Un homme rude qui reve de pouvoir toute la journee ! Une bete ingrate ! Helas, je ne peux pas penser a des mots gentils pour le decrire.#
 1 0 7 1 0 #• Au revoir.#
-#Puissiez-vous avoir une vie poétique.#
+#Puissiez-vous avoir une vie poetique.#

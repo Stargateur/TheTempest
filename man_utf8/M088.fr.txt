@@ -1,11 +1,11 @@
 
 
 
-#Je n’ai pas le temps de rentrer chez moi et de me reposer.#
+#Je n'ai pas le temps de rentrer chez moi et de me reposer.#
 #Je ne veux pas discuter avec vous.#
 1 0 1 0 0 #• Nom?#
 #Friech.#
 1 0 2 0 0 #• Profession?#
-#Les bons samouraïs ne parlent pas aux gens avec désinvolture.#
+#Les bons samourais ne parlent pas aux gens avec desinvolture.#
 1 0 3 1 0 #• Au revoir.#
 #Au revoir.#

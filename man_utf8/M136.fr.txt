@@ -2,18 +2,18 @@
 
 
 #Avez-vous besoin de moi pour vous servir?#
-#Que faut-il d’autre?#
+#Que faut-il d'autre?#
 1 0 1 0 0 #• Nom?#
 #Midas.#
 1 0 2 0 0 #• Profession?#
-#Je suis le propriétaire de cette auberge.#
-1 0 3 2 2 5 6 #• Hébergement.#
-#Cela ne coûte que 200 yuans pour rester ici pour une nuit, d’accord?#
-1 0 4 3 0 #• Acheter de l’épicerie.#
+#Je suis le proprietaire de cette auberge.#
+1 0 3 2 2 5 6 #• Hebergement.#
+#Cela ne coute que 200 yuans pour rester ici pour une nuit, d'accord?#
+1 0 4 3 0 #• Acheter de l'epicerie.#
 #Choisissez-le lentement!#
 0 0 5 15 0 #• Volontaire.#
-#Bonne chance avec vos rêves!#
-0 0 6 0 0 #• Réticent.#
+#Bonne chance avec vos reves!#
+0 0 6 0 0 #• Reticent.#
 #Merci!#
 1 0 7 1 0 #• Au revoir.#
 #Merci pour votre visite.#

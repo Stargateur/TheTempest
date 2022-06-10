@@ -1,8 +1,8 @@
 
 
 
-#Il est rare de voir des étrangers ici!#
-#Vous semblez me déranger, y a-t-il quelque chose qui ne va pas?#
+#Il est rare de voir des etrangers ici!#
+#Vous semblez me deranger, y a-t-il quelque chose qui ne va pas?#
 1 84 1 12 0 #• Nom?#
 #ㄨ△＊○？ ２...#
 1 84 2 12 0 #• Profession?#
@@ -12,14 +12,14 @@
 84 0 4 0 0 #• Profession?#
 #Je suis le gardien du village de kabbale.#
 84 2 5 0 2 8 9 #• En dehors de la ville?#
-#Vous devez être du village de Galilée, non? Pas simple ! Vous devrez traverser la perfide Forêt-Noire !#
-2 0 6 0 0 #• Village de Galilée?#
-#C’est un petit village sur le côté est de la Forêt-Noire!#
-2 0 7 0 0 #• Forêt-Noire?#
-#Un endroit fantomatique avec un épais brouillard toute l’année, où seuls les chasseurs ont le courage de traîner.#
-0 0 8 0 0 #• Village de Galilée?#
-#Vous n’êtes pas venu de là ? C’est un petit village sur le côté est de la Forêt-Noire!#
-0 0 9 0 0 #• Forêt-Noire?#
-#Un endroit fantomatique avec un épais brouillard toute l’année, où seuls les chasseurs ont le courage de traîner.#
+#Vous devez etre du village de Galilee, non? Pas simple ! Vous devrez traverser la perfide Foret-Noire !#
+2 0 6 0 0 #• Village de Galilee?#
+#C'est un petit village sur le cote est de la Foret-Noire!#
+2 0 7 0 0 #• Foret-Noire?#
+#Un endroit fantomatique avec un epais brouillard toute l'annee, ou seuls les chasseurs ont le courage de trainer.#
+0 0 8 0 0 #• Village de Galilee?#
+#Vous n'etes pas venu de la ? C'est un petit village sur le cote est de la Foret-Noire!#
+0 0 9 0 0 #• Foret-Noire?#
+#Un endroit fantomatique avec un epais brouillard toute l'annee, ou seuls les chasseurs ont le courage de trainer.#
 1 0 10 1 0 #• Au revoir.#
 #Au revoir.#

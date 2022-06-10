@@ -1,15 +1,15 @@
 
 
 
-#Je m’appelle Connery et je suis la femme de George.#
-#Être une femme riche n’est pas facile, et vous êtes étouffante et paniquée toute la journée.#
+#Je m'appelle Connery et je suis la femme de George.#
+#etre une femme riche n'est pas facile, et vous etes etouffante et paniquee toute la journee.#
 1 0 1 0 0 #• Nom?#
 #Connery.#
 1 0 2 0 1 3 #• Georges?#
-#Quand un homme riche a quelque chose de remarquable, ce n’est pas la propriété laissée par ses ancêtres, qui ne sait pas qu’il veut épouser une concubine toute la journée.#
-0 62 3 0 1 4 #• Propriété?#
-#Il a toujours utilisé sa propriété familiale pour écraser les gens à mort, pensant que moi et mon bien-aimé Brevo étions séparés par lui avec de l’argent, et j’étais vraiment inquiet du bonheur de ma fille ...#
+#Quand un homme riche a quelque chose de remarquable, ce n'est pas la propriete laissee par ses ancetres, qui ne sait pas qu'il veut epouser une concubine toute la journee.#
+0 62 3 0 1 4 #• Propriete?#
+#Il a toujours utilise sa propriete familiale pour ecraser les gens a mort, pensant que moi et mon bien-aime Brevo etions separes par lui avec de l'argent, et j'etais vraiment inquiet du bonheur de ma fille ...#
 0 0 4 0 0 #• Le bonheur de sa fille ?#
-#Beaucoup de gens convoitent la richesse et veulent épouser Caverny, alors ils défient le garde du corps sorcier de George pour plaire à George, et ils sont tués.#
+#Beaucoup de gens convoitent la richesse et veulent epouser Caverny, alors ils defient le garde du corps sorcier de George pour plaire a George, et ils sont tues.#
 1 0 5 1 0 #• Au revoir.#
 #Au revoir.#

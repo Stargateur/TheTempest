@@ -1,27 +1,27 @@
 
 
 
-#Désolé, y a-t-il quelque chose qui ne va pas?#
-#C’est la fontaine de Trevi, quel est le problème?#
+#Desole, y a-t-il quelque chose qui ne va pas?#
+#C'est la fontaine de Trevi, quel est le probleme?#
 1 0 1 0 0 #• Nom?#
-#Je m’appelle Jason.#
+#Je m'appelle Jason.#
 1 0 2 0 0 #• Profession?#
 #Il est de mon devoir de garder cette fontaine de Trevi.#
-1 23 3 2 5 4 5 6 7 8 #• Faire un vœu?#
-#Si vous voulez faire un vœu, combien voulez-vous investir dans la fontaine de Trevi?#
+1 23 3 2 5 4 5 6 7 8 #• Faire un voeu?#
+#Si vous voulez faire un voeu, combien voulez-vous investir dans la fontaine de Trevi?#
 0 0 4 80 0 #• 200 yuans.#
-#Merci! Que Dieu vous bénisse.#
+#Merci! Que Dieu vous benisse.#
 0 0 5 81 0 #• 500 yuans.#
 #Merci! Vous serez une personne chanceuse.#
 0 0 6 82 0 #• 1000 yuans.#
-#Pleurage! Tant d’argent... Tu es si généreux.#
+#Pleurage! Tant d'argent... Tu es si genereux.#
 0 0 7 27 0 #• 2000 yuans.#
-#Homme riche, tu prends tellement d’argent pour moi... Non, non, la clé de la porte est ici, vous pouvez la tenir, gardez le secret pour moi!#
-0 0 8 0 0 #• Je ne veux pas faire de vœux.#
-#N’y pense plus! Peut-être que vous n’êtes pas le peuple de Dieu.#
+#Homme riche, tu prends tellement d'argent pour moi... Non, non, la cle de la porte est ici, vous pouvez la tenir, gardez le secret pour moi!#
+0 0 8 0 0 #• Je ne veux pas faire de voeux.#
+#N'y pense plus! Peut-etre que vous n'etes pas le peuple de Dieu.#
 23 0 9 0 1 10 #• Fontaine de Trevi.#
-#Les clés de la fontaine de Trevi vous ont été remises et vous serez libre d’entrer dans la fontaine de Trevi à l’avenir.#
+#Les cles de la fontaine de Trevi vous ont ete remises et vous serez libre d'entrer dans la fontaine de Trevi a l'avenir.#
 0 28 10 0 0 #• Pourquoi verrouiller ?#
-#Récemment, j’ai toujours l’impression que quelqu’un a profité de mon absence, dans et hors de la fontaine de Trevi, sans serrure, les pièces d’or dans la piscine peuvent me mettre à l’aise!#
+#Recemment, j'ai toujours l'impression que quelqu'un a profite de mon absence, dans et hors de la fontaine de Trevi, sans serrure, les pieces d'or dans la piscine peuvent me mettre a l'aise!#
 1 0 11 1 0 #• Au revoir.#
-#Trouvez plus de personnes pour faire un vœu!#
+#Trouvez plus de personnes pour faire un voeu!#

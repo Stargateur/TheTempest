@@ -1,33 +1,33 @@
 
 
 
-#Hélas... Pourquoi y a-t-il tant de problèmes tous les jours?#
-#Ne me demandez pas la vérité tous les jours !#
+#Helas... Pourquoi y a-t-il tant de problemes tous les jours?#
+#Ne me demandez pas la verite tous les jours !#
 1 0 1 0 0 #• Nom?#
 #Bailey.#
 1 0 2 0 1 5 #• Profession?#
-#Pour gagner de l’argent, je sors souvent pour faire des affaires.#
-1 105 3 0 1 4 #• Problème?#
-#Ne savez-vous pas que la douleur d’être un témoin oculaire, d’être interrogé tous les jours, n’est vraiment pas paisible.#
-0 105 4 0 1 8 #• Témoin oculaire?#
-#Quand je vois... Cette personne... Oh! C’est de ce village, mais je ne veux pas être nommé... Il a tué le Roi Nain, et la scène était vraiment insupportable.#
-0 105 5 0 1 6 #• Gagner de l’argent?#
-#Ce n’est pas facile de gagner de l’argent maintenant, comment pouvez-vous vivre sans un peu de revenu supplémentaire?#
-0 105 6 0 0 #• Revenu supplémentaire?#
-#... Carte... Non... Ça ne fait rien! C’est ma vie privée pourquoi devrais-je vous le dire?#
-2 105 7 0 1 9 #• La vérité ?#
-#La vérité est... Pardonnez-moi de ne pas être capable de vous dire la vérité, les gens dans le jianghu, involontairement, jusqu’à présent, ne le poursuivent plus, d’accord?#
-0 105 8 0 0 #• Tué le roi nain?#
-#Droite... Ça pourrait être... Non... Quoi qu’il en soit, certains Jenok tués, ne peuvent pas se tromper...#
-0 105 9 0 0 #• Responsabilité?#
+#Pour gagner de l'argent, je sors souvent pour faire des affaires.#
+1 105 3 0 1 4 #• Probleme?#
+#Ne savez-vous pas que la douleur d'etre un temoin oculaire, d'etre interroge tous les jours, n'est vraiment pas paisible.#
+0 105 4 0 1 8 #• Temoin oculaire?#
+#Quand je vois... Cette personne... Oh! C'est de ce village, mais je ne veux pas etre nomme... Il a tue le Roi Nain, et la scene etait vraiment insupportable.#
+0 105 5 0 1 6 #• Gagner de l'argent?#
+#Ce n'est pas facile de gagner de l'argent maintenant, comment pouvez-vous vivre sans un peu de revenu supplementaire?#
+0 105 6 0 0 #• Revenu supplementaire?#
+#... Carte... Non... ca ne fait rien! C'est ma vie privee pourquoi devrais-je vous le dire?#
+2 105 7 0 1 9 #• La verite ?#
+#La verite est... Pardonnez-moi de ne pas etre capable de vous dire la verite, les gens dans le jianghu, involontairement, jusqu'a present, ne le poursuivent plus, d'accord?#
+0 105 8 0 0 #• Tue le roi nain?#
+#Droite... ca pourrait etre... Non... Quoi qu'il en soit, certains Jenok tues, ne peuvent pas se tromper...#
+0 105 9 0 0 #• Responsabilite?#
 #Ne gaspillez pas votre esprit!#
 115 105 10 87 1 11 #• Votre agenda ?#
-#Jour... Journal intime, comment l’avez-vous trouvé ? Ceci..., hélas... D’accord! Cela étant, je vais vous dire la vérité...#
-0 0 11 0 1 12 #• La vérité ?#
-#Voici la chose... Ce jour-là, j’ai entendu le bruit d’une bagarre dans les bois alors que j’étais en voyage d’affaires, et je me suis caché dans l’herbe et j’ai vu un monstre ressemblant à un singe terroriser le roi nain, espérant qu’il rassemblerait des soldats nains pour attaquer le fils de Prosphélo, et le roi nain a refusé de se venger et est mort sous les flèches. * J’étais sur le point de m’enfuir sous le choc, mais je ne m’attendais pas à être attrapé par les Minions de Karabang.#
-0 0 12 0 1 13 #• Pourquoi ne vous a-t-il pas tué ?#
-#Parce qu’il voulait que je répande des rumeurs selon lesquelles l’Hénoc avait tué le roi nain, je n’aurais pas accepté, mais il a menacé de tuer ma femme et mes enfants, et je n’avais pas d’autre choix que d’accepter. En fait, ces jours-ci, mon cœur est aussi très douloureux, et j’ai toujours voulu dire la vérité, mais ...#
+#Jour... Journal intime, comment l'avez-vous trouve ? Ceci..., helas... D'accord! Cela etant, je vais vous dire la verite...#
+0 0 11 0 1 12 #• La verite ?#
+#Voici la chose... Ce jour-la, j'ai entendu le bruit d'une bagarre dans les bois alors que j'etais en voyage d'affaires, et je me suis cache dans l'herbe et j'ai vu un monstre ressemblant a un singe terroriser le roi nain, esperant qu'il rassemblerait des soldats nains pour attaquer le fils de Prosphelo, et le roi nain a refuse de se venger et est mort sous les fleches. * J'etais sur le point de m'enfuir sous le choc, mais je ne m'attendais pas a etre attrape par les Minions de Karabang.#
+0 0 12 0 1 13 #• Pourquoi ne vous a-t-il pas tue ?#
+#Parce qu'il voulait que je repande des rumeurs selon lesquelles l'Henoc avait tue le roi nain, je n'aurais pas accepte, mais il a menace de tuer ma femme et mes enfants, et je n'avais pas d'autre choix que d'accepter. En fait, ces jours-ci, mon coeur est aussi tres douloureux, et j'ai toujours voulu dire la verite, mais ...#
 0 0 13 0 0 #• Juste quoi?#
-#Ça ne fait rien... Rien de tout cela n’avait plus d’importance, j’expliquerais la vérité à la Reine Naine, et je n’aurais plus de visage ici, et après l’explication, je partirais avec ma femme et mes enfants.#
+#ca ne fait rien... Rien de tout cela n'avait plus d'importance, j'expliquerais la verite a la Reine Naine, et je n'aurais plus de visage ici, et apres l'explication, je partirais avec ma femme et mes enfants.#
 1 0 14 1 0 #• Au revoir.#
 #Au revoir.#

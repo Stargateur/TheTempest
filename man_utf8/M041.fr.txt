@@ -1,23 +1,23 @@
 
 
 
-#Bonjour! Il faisait beau aujourd’hui.#
-#Comment allez-vous à nouveau!#
+#Bonjour! Il faisait beau aujourd'hui.#
+#Comment allez-vous a nouveau!#
 1 0 1 0 1 2 #• Nom?#
 #Je suis Renada, la femme de Vane.#
 0 0 2 0 1 3 #• Renada!#
-#Oh oui! Je suis Renada, quel est le problème!#
-0 29 3 0 1 4 #• Rumeurs sur vous et votre médecin...#
-#Hé! Je n’ai vraiment rien à voir avec ce médecin, vous ne le devinez pas.#
-0 29 4 0 2 5 7 #• Médecin?#
-#N’allez pas vers lui, s’il vous plaît! À l’intérieur de la maison en pierre de cette grotte, nous n’avons rien fait, vraiment.#
+#Oh oui! Je suis Renada, quel est le probleme!#
+0 29 3 0 1 4 #• Rumeurs sur vous et votre medecin...#
+#He! Je n'ai vraiment rien a voir avec ce medecin, vous ne le devinez pas.#
+0 29 4 0 2 5 7 #• Medecin?#
+#N'allez pas vers lui, s'il vous plait! a l'interieur de la maison en pierre de cette grotte, nous n'avons rien fait, vraiment.#
 0 29 5 0 1 6 #• Et alors ?#
-#À l’intérieur de la maison en pierre se trouvait un livre magique et un rouleau de soie, et nous ne savons pas à quoi servait la soie, nous avons juste étudié le contenu du livre là-bas.#
+#a l'interieur de la maison en pierre se trouvait un livre magique et un rouleau de soie, et nous ne savons pas a quoi servait la soie, nous avons juste etudie le contenu du livre la-bas.#
 0 29 6 0 0 #• Des livres?#
-#Cela semble être un sort qui guide les gens à utiliser le pouvoir de la magie pour transformer les illusions personnelles en faits illusoires, de sorte que les personnages autour d’eux croient à tort être réels.#
+#Cela semble etre un sort qui guide les gens a utiliser le pouvoir de la magie pour transformer les illusions personnelles en faits illusoires, de sorte que les personnages autour d'eux croient a tort etre reels.#
 0 29 7 0 1 8 #• Maison troglodyte en pierre?#
-#De l’autre côté de la montagne enneigée, la dernière fois que nous avions pris un bateau, la maison en pierre était verrouillée quand nous sommes partis.#
-0 29 8 0 0 #• Clés?#
-#Perdu sur le chemin du retour! Je dis la vérité, vous n’y croyez pas.#
+#De l'autre cote de la montagne enneigee, la derniere fois que nous avions pris un bateau, la maison en pierre etait verrouillee quand nous sommes partis.#
+0 29 8 0 0 #• Cles?#
+#Perdu sur le chemin du retour! Je dis la verite, vous n'y croyez pas.#
 1 0 9 1 0 #• Au revoir.#
-#Sérieusement, je ne veux plus te revoir.#
+#Serieusement, je ne veux plus te revoir.#

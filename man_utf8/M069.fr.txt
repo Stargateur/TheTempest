@@ -1,23 +1,23 @@
 
 
 
-#Après avoir été un clan, vous devez venger le Roi Nain !#
-#Maintenant que Mon Roi est mort, il n’y a aucun espoir pour quoi que ce soit.#
+#Apres avoir ete un clan, vous devez venger le Roi Nain !#
+#Maintenant que Mon Roi est mort, il n'y a aucun espoir pour quoi que ce soit.#
 1 0 1 0 0 #• Nom?#
-#Il m’appelait Tina, mon roi, et il ne pouvait plus respirer la douceur du monde.#
+#Il m'appelait Tina, mon roi, et il ne pouvait plus respirer la douceur du monde.#
 1 0 2 0 0 #• Profession?#
-#J’étais responsable de la coordination de la politique des Nains.#
+#J'etais responsable de la coordination de la politique des Nains.#
 1 105 3 0 1 7 #• Vengeance ?#
-#Bien sûr, mon autre moitié a été inexplicablement assassinée, et nous devons attaquer les Hénocs pour venger le Roi Nain.#
+#Bien sur, mon autre moitie a ete inexplicablement assassinee, et nous devons attaquer les Henocs pour venger le Roi Nain.#
 30 105 4 0 0 #• Roi nain ?#
-#Il a toujours été gentil avec les autres, jamais dur avec le peuple, les récompenses et les punitions sont claires, ne s’attendait pas à ce que le peuple Jenoch soit si cruel, si l’assaut de la conscription peut forcer le meurtrier, c’est seulement ainsi.#
-32 105 5 0 0 #• S’il vous plaît consulter ce journal!#
-#Le journal a peut-être été fabriqué, et je ne ferais confiance à personne à moins que Bailey lui-même ne vienne ici!#
-105 33 6 35 1 8 #• La vérité est sortie, n’est-ce pas ?#
-#Bailey venait d’arriver, donc je connaissais déjà la vérité, et Karabang était vraiment vicieux, non seulement tuant le roi nain, mais provoquant également la paix entre les tribus et provoquant une guerre terrible, qui pourrait être résolue grâce à votre aide vive. Le roi nain avait un trésor – un minerai mystérieux avant de mourir, et il a entendu dire qu’il pouvait rendre les choses plus légères, alors il vous l’a donné, qui est un cœur du peuple nain pour vous.#
+#Il a toujours ete gentil avec les autres, jamais dur avec le peuple, les recompenses et les punitions sont claires, ne s'attendait pas a ce que le peuple Jenoch soit si cruel, si l'assaut de la conscription peut forcer le meurtrier, c'est seulement ainsi.#
+32 105 5 0 0 #• S'il vous plait consulter ce journal!#
+#Le journal a peut-etre ete fabrique, et je ne ferais confiance a personne a moins que Bailey lui-meme ne vienne ici!#
+105 33 6 35 1 8 #• La verite est sortie, n'est-ce pas ?#
+#Bailey venait d'arriver, donc je connaissais deja la verite, et Karabang etait vraiment vicieux, non seulement tuant le roi nain, mais provoquant egalement la paix entre les tribus et provoquant une guerre terrible, qui pourrait etre resolue grace a votre aide vive. Le roi nain avait un tresor – un minerai mysterieux avant de mourir, et il a entendu dire qu'il pouvait rendre les choses plus legeres, alors il vous l'a donne, qui est un coeur du peuple nain pour vous.#
 0 105 7 0 0 #• Vengeance ?#
-#Les mains des habitants du village d’Enok étaient tachées du sang du roi précédent, et comme ils ne pouvaient pas rendre compte aux nains, ils ne pouvaient que payer la dette de sang.#
-0 0 8 0 0 #• Minerai mystérieux.#
-#Lorsque vous fabriquez des armes, plus vous mélangez de minerai, plus l’arme lourde devient légère.#
+#Les mains des habitants du village d'Enok etaient tachees du sang du roi precedent, et comme ils ne pouvaient pas rendre compte aux nains, ils ne pouvaient que payer la dette de sang.#
+0 0 8 0 0 #• Minerai mysterieux.#
+#Lorsque vous fabriquez des armes, plus vous melangez de minerai, plus l'arme lourde devient legere.#
 1 0 9 1 0 #• Au revoir.#
-#J’espère que vous avez une conduite en douceur.#
+#J'espere que vous avez une conduite en douceur.#

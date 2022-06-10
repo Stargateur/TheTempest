@@ -1,7 +1,7 @@
 
 
 
-#Vous venez si vite! Votre Majesté le Prince !#
-#Vous venez si vite! Votre Majesté le Prince !#
-1 0 1 1 0 #• Êtes-vous sûr que je suis le prince?#
-#Hé! Depuis le début de votre entrée dans Gnostique, il y a eu des rapports quotidiens sur vos allées et venues, et bien que vous soyez devenu le Roi de la Magie, vous êtes tout aussi destiné à vous reposer entre Mes mains, et à la fin de votre vie, faites une dernière prière ! Hahahahaha...#
+#Vous venez si vite! Votre Majeste le Prince !#
+#Vous venez si vite! Votre Majeste le Prince !#
+1 0 1 1 0 #• etes-vous sur que je suis le prince?#
+#He! Depuis le debut de votre entree dans Gnostique, il y a eu des rapports quotidiens sur vos allees et venues, et bien que vous soyez devenu le Roi de la Magie, vous etes tout aussi destine a vous reposer entre Mes mains, et a la fin de votre vie, faites une derniere priere ! Hahahahaha...#

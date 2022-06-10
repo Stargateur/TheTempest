@@ -1,15 +1,15 @@
 
 
 
-#Je suis la femme d’Arnold, et notre ligne de pêche est très célèbre!#
-#Le banc de sable de Thashali est un endroit pour être nostalgique.#
+#Je suis la femme d'Arnold, et notre ligne de peche est tres celebre!#
+#Le banc de sable de Thashali est un endroit pour etre nostalgique.#
 1 0 1 0 0 #• Nom?#
 #Melinda.#
 1 0 2 0 0 #• Profession?#
-#Vous savez aussi comment sera la vie du pêcheur.#
-1 38 3 0 0 #• Ligne de pêche?#
-#La spécialité de Tashali est le fil de pêche en argent, qui est un tissu fin.#
+#Vous savez aussi comment sera la vie du pecheur.#
+1 38 3 0 0 #• Ligne de peche?#
+#La specialite de Tashali est le fil de peche en argent, qui est un tissu fin.#
 1 2 4 0 0 #• Arnold?#
-#Mon mari a dû attendre des mois pour revenir chaque fois qu’il allait en mer, et s’il ne comptait pas sur une petite entreprise, il ne pouvait vraiment pas survivre.#
+#Mon mari a du attendre des mois pour revenir chaque fois qu'il allait en mer, et s'il ne comptait pas sur une petite entreprise, il ne pouvait vraiment pas survivre.#
 1 0 5 1 0 #• Au revoir.#
-#Prenez le temps de vous détendre au bord de la mer!#
+#Prenez le temps de vous detendre au bord de la mer!#

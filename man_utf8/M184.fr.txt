@@ -1,33 +1,33 @@
 
 
 
-#Prendre le bateau ou demander l’itinéraire?#
-#À bientôt!#
+#Prendre le bateau ou demander l'itineraire?#
+#a bientot!#
 1 0 1 0 0 #• Nom?#
-#Je m’appelle Jamie.#
+#Je m'appelle Jamie.#
 1 0 2 2 5 3 4 5 6 12 #• Promenade en bateau.#
-#Où allez-vous?#
+#Ou allez-vous?#
 93 0 3 2 2 7 11 #• Village de la Kabbale.#
 #Le tarif du bateau est de 300 yuans, voulez-vous le prendre?#
-94 0 4 2 2 8 11 #• Village de Galilée.#
+94 0 4 2 2 8 11 #• Village de Galilee.#
 #Le tarif du bateau est de 300 yuans, voulez-vous le prendre?#
-96 0 5 2 2 9 11 #• Île Telok.#
+96 0 5 2 2 9 11 #• ile Telok.#
 #Le tarif du bateau est de 300 yuans, voulez-vous le prendre?#
 97 0 6 2 2 10 11 #• Azluksi Monde.#
 #Le tarif du bateau est de 300 yuans, voulez-vous le prendre?#
 0 0 7 22 0 #• Oui.#
-#Bonne journée.#
-0 0 8 32 0 #• D’accord.#
-#Bonne journée.#
-0 0 9 78 0 #• D’accord.#
-#Bonne journée.#
-0 0 10 79 0 #• D’accord.#
-#Bonne journée.#
+#Bonne journee.#
+0 0 8 32 0 #• D'accord.#
+#Bonne journee.#
+0 0 9 78 0 #• D'accord.#
+#Bonne journee.#
+0 0 10 79 0 #• D'accord.#
+#Bonne journee.#
 0 0 11 0 0 #• Ne le faites pas.#
-#Le tarif que j’ai facturé pour le bateau était raisonnable!#
+#Le tarif que j'ai facture pour le bateau etait raisonnable!#
 0 0 12 0 0 #• Partir.#
 #Besoin de revenir!#
 1 0 13 0 0 #• Demandez votre chemin.#
-#De la jetée à l’ouest se trouvent les montagnes enneigées, au nord à travers ces petites collines, tout au nord se trouvent les nains habités par St. Kelly’s Hill, qui est loin d’ici.#
+#De la jetee a l'ouest se trouvent les montagnes enneigees, au nord a travers ces petites collines, tout au nord se trouvent les nains habites par St. Kelly's Hill, qui est loin d'ici.#
 1 0 14 1 0 #• Au revoir!#
 #Revenez vers moi quand il y a un besoin.#

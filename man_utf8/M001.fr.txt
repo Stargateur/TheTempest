@@ -1,35 +1,35 @@
 
 
 
-#Jusqu’ici, je ne m’attendais pas à ce que le voleur de livres ait le courage d’aller dans la grotte des baleines.#
+#Jusqu'ici, je ne m'attendais pas a ce que le voleur de livres ait le courage d'aller dans la grotte des baleines.#
 #Y a-t-il quelque chose qui se passe?#
 1 0 1 0 1 2 #• Nom.#
-#Je m’appelle Dynes.#
+#Je m'appelle Dynes.#
 0 20 2 0 0 #• Nom.#
-#Ne vous ai-je pas dit cela? Je m’appelle Davis, ne l’oubliez pas!#
+#Ne vous ai-je pas dit cela? Je m'appelle Davis, ne l'oubliez pas!#
 1 2 3 0 2 5 7 #• Voleur de livres?#
-#Un voleur de livres a volé un livre important à mon père, et je l’ai poursuivi jusqu’au légendaire repaire de Kerabon.#
+#Un voleur de livres a vole un livre important a mon pere, et je l'ai poursuivi jusqu'au legendaire repaire de Kerabon.#
 1 2 4 0 0 #• Grotte des baleines?#
-#J’ai entendu dire qu’il y a longtemps, c’était une petite île comme une baleine, et l’accumulation de limon et de sable pendant longtemps a fait que les deux terres se sont réunies.#
+#J'ai entendu dire qu'il y a longtemps, c'etait une petite ile comme une baleine, et l'accumulation de limon et de sable pendant longtemps a fait que les deux terres se sont reunies.#
 0 20 5 0 1 6 #• Karabang?#
-#C’était un gobelin, et j’ai entendu dire qu’il maîtrisait la magie noire rare, et « le regard maléfique sous ses sourcils était effrayant » C’est la description de mon père de lui.#
-0 20 6 0 1 7 #• Père.#
-#C’était un chasseur qui vivait dans une cabane au bord de la mer dans le nord-ouest, et mon père m’aimait beaucoup, et il m’a soutenu dans chaque décision que je prenais.#
+#C'etait un gobelin, et j'ai entendu dire qu'il maitrisait la magie noire rare, et "le regard malefique sous ses sourcils etait effrayant" C'est la description de mon pere de lui.#
+0 20 6 0 1 7 #• Pere.#
+#C'etait un chasseur qui vivait dans une cabane au bord de la mer dans le nord-ouest, et mon pere m'aimait beaucoup, et il m'a soutenu dans chaque decision que je prenais.#
 0 20 7 0 1 8 #• Des livres?#
-#Manuel d’instructions de la cape volante, qui a été laissé par les ancêtres. Le livre enregistre la méthode de fabrication d’une cape volante et, conformément aux instructions du manuel, vous pouvez fabriquer une cape volante, la porter et tomber d’un endroit élevé et être indemne. Maintenant que le livre avait été arraché, j’ai poursuivi jusqu’à l’entrée de la grotte des baleines, mais je n’ai pas osé descendre.#
-0 20 8 2 2 9 10 #• N’osez pas descendre!#
-#Nourrir! Ne me prenez pas pour timide, je n’ai pas encore touché le fond de Karabang, et il n’est pas sage de s’aventurer seul dans la grotte des baleines, si vous en avez le courage, partez à l’aventure avec moi, qu’en pensez-vous?#
+#Manuel d'instructions de la cape volante, qui a ete laisse par les ancetres. Le livre enregistre la methode de fabrication d'une cape volante et, conformement aux instructions du manuel, vous pouvez fabriquer une cape volante, la porter et tomber d'un endroit eleve et etre indemne. Maintenant que le livre avait ete arrache, j'ai poursuivi jusqu'a l'entree de la grotte des baleines, mais je n'ai pas ose descendre.#
+0 20 8 2 2 9 10 #• N'osez pas descendre!#
+#Nourrir! Ne me prenez pas pour timide, je n'ai pas encore touche le fond de Karabang, et il n'est pas sage de s'aventurer seul dans la grotte des baleines, si vous en avez le courage, partez a l'aventure avec moi, qu'en pensez-vous?#
 0 20 9 19 0 #• Oui.#
-#Si vous avez vraiment le courage, si vous pouvez vraiment m’aider à récupérer ce livre, c’est vraiment reconnaissant, et s’il y a un besoin à l’avenir, je vous rembourserai.#
+#Si vous avez vraiment le courage, si vous pouvez vraiment m'aider a recuperer ce livre, c'est vraiment reconnaissant, et s'il y a un besoin a l'avenir, je vous rembourserai.#
 0 20 10 0 0 #• Je ne veux pas.#
-#Oubliez ça, je vais trouver un autre moyen!#
-2 20 11 2 2 12 13 #• Je ne m’attendais pas à ce que vous soyez ici!#
-#Prêt à aider, non?#
+#Oubliez ca, je vais trouver un autre moyen!#
+2 20 11 2 2 12 13 #• Je ne m'attendais pas a ce que vous soyez ici!#
+#Pret a aider, non?#
 0 20 12 19 0 #• Hmmm.#
-#Si vous avez vraiment le courage, si vous pouvez vraiment m’aider à récupérer ce livre, c’est vraiment reconnaissant, et s’il y a un besoin à l’avenir, je vous rembourserai.#
+#Si vous avez vraiment le courage, si vous pouvez vraiment m'aider a recuperer ce livre, c'est vraiment reconnaissant, et s'il y a un besoin a l'avenir, je vous rembourserai.#
 0 20 13 0 0 #• Je ne veux pas.#
-#Oubliez ça, je vais trouver un autre moyen!#
-74 121 14 121 0 #• Dynes, que diriez-vous de m’épouser?#
-#Je.. Je ne sais pas.. Je pense que lorsque nous reviendrons à Milan, je vous donnerai une bonne réponse. D’accord?#
+#Oubliez ca, je vais trouver un autre moyen!#
+74 121 14 121 0 #• Dynes, que diriez-vous de m'epouser?#
+#Je.. Je ne sais pas.. Je pense que lorsque nous reviendrons a Milan, je vous donnerai une bonne reponse. D'accord?#
 1 0 15 1 0 #• Au revoir.#
 #Au revoir.#

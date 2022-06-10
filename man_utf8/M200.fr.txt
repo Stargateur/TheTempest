@@ -1,7 +1,7 @@
 
 
 
-#Bourdonner! Vous êtes enfin arrivé ! Le général Kate est un plan brillant!#
-#Bourdonner! Vous êtes enfin arrivé ! Le général Kate est un plan brillant!#
+#Bourdonner! Vous etes enfin arrive ! Le general Kate est un plan brillant!#
+#Bourdonner! Vous etes enfin arrive ! Le general Kate est un plan brillant!#
 1 0 1 1 0 #• Kate?#
-#Vous voulez le voir? Hey hey hey... Je vois que seule ta tête peut le voir !#
+#Vous voulez le voir? Hey hey hey... Je vois que seule ta tete peut le voir !#

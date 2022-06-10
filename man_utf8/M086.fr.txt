@@ -1,15 +1,15 @@
 
 
 
-#Je n’ai pas beaucoup de temps pour vous parler et aller travailler.#
-#Y a-t-il un bon travail que vous pouvez nous présenter?#
+#Je n'ai pas beaucoup de temps pour vous parler et aller travailler.#
+#Y a-t-il un bon travail que vous pouvez nous presenter?#
 1 0 1 0 0 #• Nom?#
 #Dickson.#
 1 0 2 0 1 3 #• Profession?#
-#Le travail des mineurs est lié à leur vie.#
+#Le travail des mineurs est lie a leur vie.#
 0 0 3 0 0 #• Vendre pour votre vie?#
-#Il vaut mieux se battre pour la vie que de vendre l’estime de soi pour construire un temple pour le diable.#
+#Il vaut mieux se battre pour la vie que de vendre l'estime de soi pour construire un temple pour le diable.#
 2 0 4 0 0 #• Bon travail?#
-#Ne m’envoyez pas creuser de donjons.#
+#Ne m'envoyez pas creuser de donjons.#
 1 0 5 1 0 #• Au revoir.#
 #Au revoir.#

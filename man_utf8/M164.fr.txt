@@ -1,17 +1,17 @@
 
 
 
-#Vous n’avez jamais vu dans le village auparavant?!#
-#Quand y aura-t-il le genre de vie heureuse que nous avions l’habitude d’avoir?#
+#Vous n'avez jamais vu dans le village auparavant?!#
+#Quand y aura-t-il le genre de vie heureuse que nous avions l'habitude d'avoir?#
 1 0 1 0 0 #• Nom?#
 #Michelle.#
 1 0 2 0 0 #• Profession?#
-#Je ne suis qu’une femme au foyer ordinaire.#
-1 75 3 0 1 4 #• Malédiction ?#
-#Avez-vous déjà entendu parler de Gypsy? C’était sa malédiction qu’elle ait dit qu’aucun homme visible ne pouvait passer à travers cette barrière.#
+#Je ne suis qu'une femme au foyer ordinaire.#
+1 75 3 0 1 4 #• Malediction ?#
+#Avez-vous deja entendu parler de Gypsy? C'etait sa malediction qu'elle ait dit qu'aucun homme visible ne pouvait passer a travers cette barriere.#
 0 75 4 0 1 5 #• Gitan?#
-#Elle vivait dans le sud du village, et non seulement elle ne maudissait aucun homme pour envahir la terre, mais elle a également érigé un mur à l’ouest, qui était complètement isolé du monde extérieur. Cependant, j’ai entendu une rumeur.#
+#Elle vivait dans le sud du village, et non seulement elle ne maudissait aucun homme pour envahir la terre, mais elle a egalement erige un mur a l'ouest, qui etait completement isole du monde exterieur. Cependant, j'ai entendu une rumeur.#
 0 75 5 0 0 #• Rumeurs ?#
-#On dit qu’il y a une magie qui peut passer à travers la malédiction du gyproy, mais malheureusement je ne connais pas de magie du tout.#
+#On dit qu'il y a une magie qui peut passer a travers la malediction du gyproy, mais malheureusement je ne connais pas de magie du tout.#
 1 0 6 1 0 #• Au revoir.#
 #Au revoir.#

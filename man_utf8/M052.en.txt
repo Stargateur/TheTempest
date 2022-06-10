@@ -30,7 +30,7 @@
 0 53 13 0 1 14 #• What does it mean?#
 #In a previous earthquake, the land mass of Saint-Germain sank and shifted, forming a steep cliff and shallow sea that fishing boats could not navigate, so if you were to go to Saint-Germain, unless you would...#
 0 53 14 0 1 15 #• What will it be?#
-#Hahaha... Can fly! Fly down the cliff like a bird. But you still have to defeat the dragon first!"#
+#Hahaha... Can fly! Fly down the cliff like a bird. But you still have to defeat the dragon first!#
 0 53 15 0 0 #• Dragons?#
 #Just stay at Saint-Germain, and advise you to stay away from there!#
 1 0 16 1 0 #• Goodbye.#

@@ -6,10 +6,10 @@
 1 0 1 0 0 #• Nom?#
 #Daniel.#
 1 0 2 0 0 #• Profession?#
-#Je dirige ce magasin d’armes et d’armures depuis longtemps.#
+#Je dirige ce magasin d'armes et d'armures depuis longtemps.#
 1 0 3 3 0 #• Quelles armes vendez-vous ?#
-#Notre armement est excellent et constitue un bon équipement pour la chasse.#
-1 0 4 4 0 #• J’aimerais acheter une armure.#
-#Ces packs d’armures en cuir vous satisfont.#
+#Notre armement est excellent et constitue un bon equipement pour la chasse.#
+1 0 4 4 0 #• J'aimerais acheter une armure.#
+#Ces packs d'armures en cuir vous satisfont.#
 1 0 5 1 0 #• Au revoir.#
 #Revenez quand vous en avez besoin.#

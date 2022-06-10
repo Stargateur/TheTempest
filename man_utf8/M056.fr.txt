@@ -1,13 +1,13 @@
 
 
 
-#C’est une île appartenant à des hommes.#
-#Le pouvoir et la dignité sont durement gagnés.#
+#C'est une ile appartenant a des hommes.#
+#Le pouvoir et la dignite sont durement gagnes.#
 75 0 1 0 0 #• Nom?#
 #Tetoro.#
 75 0 2 0 0 #• Profession?#
-#Le travail des gardes est très important.#
-75 78 3 0 0 #• L’île des hommes?#
-#Le roi de l’île n’est autre que Kate.#
+#Le travail des gardes est tres important.#
+75 78 3 0 0 #• L'ile des hommes?#
+#Le roi de l'ile n'est autre que Kate.#
 1 0 4 1 0 #• Au revoir.#
 ##

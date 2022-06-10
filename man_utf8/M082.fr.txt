@@ -1,8 +1,8 @@
 
 
 
-#Par son nom, étranger, le village de Jenok est maintenant sous la loi martiale.#
-#Qu’est-ce qui ne va pas?#
+#Par son nom, etranger, le village de Jenok est maintenant sous la loi martiale.#
+#Qu'est-ce qui ne va pas?#
 1 0 1 0 0 #• Nom?#
 #Virgile.#
 1 0 2 0 0 #• Profession?#

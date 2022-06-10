@@ -10,7 +10,7 @@
 0 0 3 0 2 4 5 #• Engraving?#
 #My most proud work is the rough stone carving, but occasionally I also carve some exquisite pieces, such as jade carvings, wood carvings, and even mussel beads I can carve Wei Miao Wei Xiao.#
 0 44 4 0 0 #• Proud of the work?#
-#When I stopped before "The Birth of Venus," I had to marvel that my work was a stroke of genius.#
+#When I stopped before "The Birth of Venus", I had to marvel that my work was a stroke of genius.#
 0 44 5 2 2 6 7 #• Mussel beads?#
 #This mussel bead can be carved into a key, but it requires superior patience and superb technology, the mussel beads are handed over to me to ensure that you can carve out your ideal key, and only charge you 2500 yuan, okay?#
 0 44 6 46 0 #• Okay.#

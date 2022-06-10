@@ -1,31 +1,31 @@
 
 
 
-#Y a-t-il quelqu’un qui va à Dwarven Mountain? Ou voulez-vous aller ailleurs?#
-#Y a-t-il quelqu’un qui va à Dwarven Mountain? Ou voulez-vous aller ailleurs?#
+#Y a-t-il quelqu'un qui va a Dwarven Mountain? Ou voulez-vous aller ailleurs?#
+#Y a-t-il quelqu'un qui va a Dwarven Mountain? Ou voulez-vous aller ailleurs?#
 1 0 1 0 0 #• Nom?#
-#Je m’appelle Richard.#
+#Je m'appelle Richard.#
 1 0 2 2 4 3 5 6 12 #• Allez ailleurs.#
-#Où allez-vous?#
+#Ou allez-vous?#
 93 0 3 2 2 7 11 #• Allez au village de kabbale.#
-#Serait-il agréable de vous facturer 300 yuans?#
-24 0 4 2 2 8 11 #• Allez à Dwarf Mountain.#
-#Serait-il agréable de vous facturer 300 yuans?#
-96 0 5 2 2 9 11 #• Allez à l’île de Telok.#
-#Serait-il agréable de vous facturer 300 yuans?#
-97 0 6 2 2 10 11 #• Allez dans le monde d’Azluksi.#
-#Serait-il agréable de vous facturer 300 yuans?#
-0 0 7 22 0 #• D’accord.#
-#Bonne journée.#
-0 0 8 77 0 #• D’accord.#
-#Bonne journée.#
-0 0 9 78 0 #• D’accord.#
-#Bonne journée.#
-0 0 10 79 0 #• D’accord.#
-#Bonne journée.#
+#Serait-il agreable de vous facturer 300 yuans?#
+24 0 4 2 2 8 11 #• Allez a Dwarf Mountain.#
+#Serait-il agreable de vous facturer 300 yuans?#
+96 0 5 2 2 9 11 #• Allez a l'ile de Telok.#
+#Serait-il agreable de vous facturer 300 yuans?#
+97 0 6 2 2 10 11 #• Allez dans le monde d'Azluksi.#
+#Serait-il agreable de vous facturer 300 yuans?#
+0 0 7 22 0 #• D'accord.#
+#Bonne journee.#
+0 0 8 77 0 #• D'accord.#
+#Bonne journee.#
+0 0 9 78 0 #• D'accord.#
+#Bonne journee.#
+0 0 10 79 0 #• D'accord.#
+#Bonne journee.#
 0 0 11 0 0 #• Pas bon.#
-#Vous n’y pensez pas ?#
+#Vous n'y pensez pas ?#
 0 0 12 0 0 #• Partir.#
 #Vous ne roulez plus ?#
 1 0 13 1 0 #• Au revoir!#
-#À plus tard.#
+#a plus tard.#

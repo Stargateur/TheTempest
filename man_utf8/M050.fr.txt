@@ -1,21 +1,21 @@
 
 
 
-#Il est difficile d’avoir le temps de se reposer.#
-#Quel est le problème avec moi en tant qu’ouvrier?#
+#Il est difficile d'avoir le temps de se reposer.#
+#Quel est le probleme avec moi en tant qu'ouvrier?#
 1 0 1 0 0 #• Nom?#
-#Le nom n’est qu’un nom de code, que pensez-vous du nom « Kiel »?#
+#Le nom n'est qu'un nom de code, que pensez-vous du nom "Kiel"?#
 1 0 2 0 2 3 6 #• Profession?#
-#Les mineurs sont payés pour leur vie.#
+#Les mineurs sont payes pour leur vie.#
 0 0 3 0 2 4 5 #• Les mineurs?#
-#Certains de mes amis mineurs, afin de gagner de l’argent, ont couru sur une île éloignée pour creuser des donjons.#
+#Certains de mes amis mineurs, afin de gagner de l'argent, ont couru sur une ile eloignee pour creuser des donjons.#
 0 0 4 0 0 #• Creusez des donjons!#
-#C’était un projet très difficile, et beaucoup d’amis mineurs ont perdu la vie!#
-0 0 5 0 0 #• Îlots?#
-#Pas très clair, seulement très loin.#
-0 0 6 0 1 7 #• Rémunération?#
-#Si vous pouvez déterrer du minerai magique, il sera envoyé, mais il est inaccessible.#
+#C'etait un projet tres difficile, et beaucoup d'amis mineurs ont perdu la vie!#
+0 0 5 0 0 #• ilots?#
+#Pas tres clair, seulement tres loin.#
+0 0 6 0 1 7 #• Remuneration?#
+#Si vous pouvez deterrer du minerai magique, il sera envoye, mais il est inaccessible.#
 0 0 7 0 0 #• Minerai magique ?#
-#J’ai entendu dire que quelqu’un a déterré près du mont St. Kelly, ne voulez-vous pas aller jeter un coup d’œil? Garçon!#
+#J'ai entendu dire que quelqu'un a deterre pres du mont St. Kelly, ne voulez-vous pas aller jeter un coup d'oeil? Garcon!#
 1 0 8 1 0 #• Au revoir.#
 #Je vous reparlerai quand je serai libre !#

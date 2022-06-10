@@ -1,17 +1,17 @@
 
 
 
-#En fait, j’aurais dû le voir il y a longtemps!#
+#En fait, j'aurais du le voir il y a longtemps!#
 #Fais attention!#
 91 2 1 0 0 #• Attention?#
-#Oh oui! Les garçons ont quelque chose d’aussi beau que vous.#
+#Oh oui! Les garcons ont quelque chose d'aussi beau que vous.#
 2 0 2 0 0 #• Soyez prudent.#
-#Vous entrez seul dans le village de Yar, et vous ne savez pas quel danger vous rencontrerez, vous devez donc être plus prudent.#
+#Vous entrez seul dans le village de Yar, et vous ne savez pas quel danger vous rencontrerez, vous devez donc etre plus prudent.#
 2 121 3 2 2 4 5 #• Mariage.#
-#Nous avons souffert et partagé en cours de route, je ne m’attendais pas à ce que tu sois vraiment une fille, j’espère t’épouser, prendre soin de toi toute ta vie, veux-tu?#
+#Nous avons souffert et partage en cours de route, je ne m'attendais pas a ce que tu sois vraiment une fille, j'espere t'epouser, prendre soin de toi toute ta vie, veux-tu?#
 0 0 4 121 0 #• Volontaire.#
-#Vraiment, j’étais tellement heureuse que quand nous sommes rentrés à Milan pour sauver mon père, il y a eu un grand mariage.#
-0 0 5 0 0 #• Réticent.#
-#J’espère qu’un jour vous changerez d’avis.#
+#Vraiment, j'etais tellement heureuse que quand nous sommes rentres a Milan pour sauver mon pere, il y a eu un grand mariage.#
+0 0 5 0 0 #• Reticent.#
+#J'espere qu'un jour vous changerez d'avis.#
 1 0 6 1 0 #• Au revoir.#
 #Au revoir.#

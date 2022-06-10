@@ -1,23 +1,23 @@
 
 
 
-#En lisant des milliers de livres, en parcourant des milliers de kilomètres, bien que j’aie voyagé dans la mer sans fin de livres, je me sentais toujours vide.#
-#Peut-être qu’il est temps de faire l’expérience de quelque chose personnellement pour contrer le monde dans les certificats.#
+#En lisant des milliers de livres, en parcourant des milliers de kilometres, bien que j'aie voyage dans la mer sans fin de livres, je me sentais toujours vide.#
+#Peut-etre qu'il est temps de faire l'experience de quelque chose personnellement pour contrer le monde dans les certificats.#
 1 0 1 0 0 #• Nom?#
 #JingDulin.#
 1 0 2 0 1 3 #• Profession?#
-#Diriger cette librairie est quelque chose dont j’ai toujours été fier.#
+#Diriger cette librairie est quelque chose dont j'ai toujours ete fier.#
 0 43 3 0 1 4 #• Fier?#
-#Mon propre pays idéal est l’enfer, parce que nous sommes accablés par trop de péché pour survivre, de sorte que nos livres ne sont que donnés et non vendus.#
-0 43 4 2 2 5 6 #• République?#
-#Un ami m’a présenté un plan pour un pays idéal appelé le Livre des Utopies, si je peux trouver cet énorme livre dans ma vie, mourir sans regrets et échanger mon livre au trésor le plus précieux avec lui, avez-vous ce livre? Voulez-vous échanger avec moi?#
+#Mon propre pays ideal est l'enfer, parce que nous sommes accables par trop de peche pour survivre, de sorte que nos livres ne sont que donnes et non vendus.#
+0 43 4 2 2 5 6 #• Republique?#
+#Un ami m'a presente un plan pour un pays ideal appele le Livre des Utopies, si je peux trouver cet enorme livre dans ma vie, mourir sans regrets et echanger mon livre au tresor le plus precieux avec lui, avez-vous ce livre? Voulez-vous echanger avec moi?#
 0 43 5 45 0 #• Volontaire.#
-#Oh mon dieu! Je ne m’attendais vraiment pas à ce que vous soyez si généreux, alors laissez-moi vous dire qu’il y a des trésors cachés dans le livre au trésor! Profitez-en.#
-0 43 6 0 0 #• Réticent.#
-#Jeune homme, ce livre n’est peut-être pas important pour vous, mais je le considère comme un trésor.#
+#Oh mon dieu! Je ne m'attendais vraiment pas a ce que vous soyez si genereux, alors laissez-moi vous dire qu'il y a des tresors caches dans le livre au tresor! Profitez-en.#
+0 43 6 0 0 #• Reticent.#
+#Jeune homme, ce livre n'est peut-etre pas important pour vous, mais je le considere comme un tresor.#
 2 0 7 0 0 #• Le monde dans le livre ?#
-#Dans la façon d’interpréter toutes choses dans le ciel et la terre, la partie la plus ésotérique doit vraiment être retracée au flux de la pensée et à la direction de la mémoire, et toutes sortes de possibilités se produiront autour de nos vies, ce qui rend trop tard pour prédire ...#
-2 0 8 0 0 #• Expérience pratique?#
-#Avez-vous déjà fait l’expérience du sexisme? Il y a un endroit où les hommes s’arrêtent.#
+#Dans la facon d'interpreter toutes choses dans le ciel et la terre, la partie la plus esoterique doit vraiment etre retracee au flux de la pensee et a la direction de la memoire, et toutes sortes de possibilites se produiront autour de nos vies, ce qui rend trop tard pour predire ...#
+2 0 8 0 0 #• Experience pratique?#
+#Avez-vous deja fait l'experience du sexisme? Il y a un endroit ou les hommes s'arretent.#
 1 0 9 1 0 #• Au revoir.#
-#Comment faire disparaître les idéaux ?#
+#Comment faire disparaitre les ideaux ?#

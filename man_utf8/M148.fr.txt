@@ -1,25 +1,25 @@
 
 
 
-#Hé? D’où venez-vous ? Depuis que le pont a explosé, le village gnostique n’a pas vu d’étrangers!#
-#Y a-t-il quelque chose de spécialement nécessaire?#
-1 2 1 0 1 2 #• Nous sommes de l’autre côté.#
-#Le pont est réparé? Quel miracle ! Lorsque le pont a explosé, nous pensions tous que nous ne reverrions plus jamais nos amis de l’autre côté.#
-0 2 2 0 1 3 #• Y avait-il quelque chose d’inhabituel à ce moment-là?#
-#Oui! Les ingénieurs, poussés par les soldats, titubèrent vers l’est.#
-0 2 3 0 1 4 #• Côté Est?#
-#Droite! À l’est, je suppose que ce devrait être pour aller à Barthonon! J’ai entendu dire qu’une nouvelle ville allait y être construite.#
+#He? D'ou venez-vous ? Depuis que le pont a explose, le village gnostique n'a pas vu d'etrangers!#
+#Y a-t-il quelque chose de specialement necessaire?#
+1 2 1 0 1 2 #• Nous sommes de l'autre cote.#
+#Le pont est repare? Quel miracle ! Lorsque le pont a explose, nous pensions tous que nous ne reverrions plus jamais nos amis de l'autre cote.#
+0 2 2 0 1 3 #• Y avait-il quelque chose d'inhabituel a ce moment-la?#
+#Oui! Les ingenieurs, pousses par les soldats, tituberent vers l'est.#
+0 2 3 0 1 4 #• Cote Est?#
+#Droite! a l'est, je suppose que ce devrait etre pour aller a Barthonon! J'ai entendu dire qu'une nouvelle ville allait y etre construite.#
 0 2 4 0 1 5 #• Bartholnon?#
-#Hélas... Ne le mentionnez pas! Depuis que Kate a libéré les prisonniers, personne ne voulait y aller.#
+#Helas... Ne le mentionnez pas! Depuis que Kate a libere les prisonniers, personne ne voulait y aller.#
 0 2 5 0 1 6 #• Prisonniers?#
-#Non seulement les prisonniers, mais même les sorciers maléfiques de la prison magique ont été libérés par Kate.#
+#Non seulement les prisonniers, mais meme les sorciers malefiques de la prison magique ont ete liberes par Kate.#
 0 2 6 0 0 #• Kate?#
-#Ce général brutal, qu’y a-t-il à mentionner.#
+#Ce general brutal, qu'y a-t-il a mentionner.#
 1 0 7 0 0 #• Nom?#
 #Danomai.#
 1 0 8 0 0 #• Profession?#
-#Je suis ici à garder toute la journée.#
+#Je suis ici a garder toute la journee.#
 1 64 9 0 0 #• Village gnostique ?#
-#Comparé à d’autres villages, c’est un bon revenu ici.#
+#Compare a d'autres villages, c'est un bon revenu ici.#
 1 0 10 1 0 #• Au revoir.#
 #Au revoir.#

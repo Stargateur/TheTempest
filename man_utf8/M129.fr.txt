@@ -1,25 +1,25 @@
 
 
 
-#Cette vie est médiocre, et il n’y a toujours pas de bonne vie.#
-#Les gens honnêtes sont toujours intimidés par ceux qui sont astucieux.#
+#Cette vie est mediocre, et il n'y a toujours pas de bonne vie.#
+#Les gens honnetes sont toujours intimides par ceux qui sont astucieux.#
 1 0 1 0 0 #• Nom?#
-#Je m’appelle Bailey et je suis la femme de Paul.#
+#Je m'appelle Bailey et je suis la femme de Paul.#
 1 0 2 0 1 3 #• Profession?#
 #Mon mari est architecte, donc parfois il est assistant.#
 0 59 3 0 1 4 #• Architecte?#
-#Sa renommée est assez grande sur l’île, mais maintenant... Disparu depuis de nombreux jours...#
+#Sa renommee est assez grande sur l'ile, mais maintenant... Disparu depuis de nombreux jours...#
 0 59 4 0 1 5 #• Manquant?#
-#Vous savez aussi que selon sa personnalité, il est absolument impossible d’aider le démon à concevoir la ville royale, comme contre sa conscience!#
-0 59 5 0 1 6 #• Concevoir la Cité du Roi ?#
-#Quand il a appris la nouvelle, il a eu l’idée de fuir, et cette nuit-là, il s’est enfui et s’est temporairement caché dans une grotte à l’extérieur du village.#
+#Vous savez aussi que selon sa personnalite, il est absolument impossible d'aider le demon a concevoir la ville royale, comme contre sa conscience!#
+0 59 5 0 1 6 #• Concevoir la Cite du Roi ?#
+#Quand il a appris la nouvelle, il a eu l'idee de fuir, et cette nuit-la, il s'est enfui et s'est temporairement cache dans une grotte a l'exterieur du village.#
 0 59 6 0 0 #• Grottes?#
-#Juste au sud du village, où vivait un géant des cavernes nommé Titan, personne n’osait s’en approcher, et Paul s’y cachait avec les dessins de construction, ce qui inquiétait vraiment sa sécurité.#
+#Juste au sud du village, ou vivait un geant des cavernes nomme Titan, personne n'osait s'en approcher, et Paul s'y cachait avec les dessins de construction, ce qui inquietait vraiment sa securite.#
 59 60 7 0 1 8 #• Dessins de construction!#
-#Vous avez trouvé les dessins de construction! Cela... Qu’en est-il de Paul ? Avez-vous déjà vu quelqu’un d’autre? Vous allez dis-le! Il est où?#
-0 0 8 0 1 9 #• Nous ne l’avons pas vu...#
+#Vous avez trouve les dessins de construction! Cela... Qu'en est-il de Paul ? Avez-vous deja vu quelqu'un d'autre? Vous allez dis-le! Il est ou?#
+0 0 8 0 1 9 #• Nous ne l'avons pas vu...#
 #... Paul....#
 0 0 9 0 0 #• Quel dommage...#
-#Hélas! Notre espoir pour l’avenir est en vous seul, et vous vous dépêchez de trouver Christie, croyant qu’elle aura un moyen de reconstruire le pont. J’espère aussi que vous pourrez sauver d’autres architectes et les réunir.#
+#Helas! Notre espoir pour l'avenir est en vous seul, et vous vous depechez de trouver Christie, croyant qu'elle aura un moyen de reconstruire le pont. J'espere aussi que vous pourrez sauver d'autres architectes et les reunir.#
 1 0 10 1 0 #• Au revoir.#
 #Nous prierons pour vous.#

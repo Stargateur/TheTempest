@@ -1,19 +1,19 @@
 
 
 
-#Je suis la Mère de Sirlo.#
+#Je suis la Mere de Sirlo.#
 #Vous me cherchez?#
 1 0 1 0 0 #• Nom?#
-#Je suis Gloria, la mère de Silo.#
+#Je suis Gloria, la mere de Silo.#
 16 17 2 2 2 3 4 #• Silo.#
-#La période pendant laquelle Siro a perdu son jouet a été très triste, et je devrais vous remercier de l’avoir aidé à trouver le jouet. Le père de Shiloh est décédé il y a deux ans, et le casque ne peut plus être utilisé, alors je vais vous le donner. C’est rare que vous soyez si gentil, il y a un livre ici, que Silo a ramassé en jouant sur la plage, de toute façon, je ne connais pas de grands personnages, je vais vous le donner.#
+#La periode pendant laquelle Siro a perdu son jouet a ete tres triste, et je devrais vous remercier de l'avoir aide a trouver le jouet. Le pere de Shiloh est decede il y a deux ans, et le casque ne peut plus etre utilise, alors je vais vous le donner. C'est rare que vous soyez si gentil, il y a un livre ici, que Silo a ramasse en jouant sur la plage, de toute facon, je ne connais pas de grands personnages, je vais vous le donner.#
 0 17 3 18 0 #• Bien.#
 #Merci de venir ici souvent quand vous avez le temps.#
 0 17 4 0 0 #• Pas bon.#
-#Peut-être devrez-vous revenir vers moi plus tard!#
+#Peut-etre devrez-vous revenir vers moi plus tard!#
 1 0 5 0 0 #• Profession?#
-#Ménagère.#
+#Menagere.#
 17 0 6 0 0 #• Silo.#
-#Shiloh était bien mieux de trouver le jouet, merci beaucoup.#
+#Shiloh etait bien mieux de trouver le jouet, merci beaucoup.#
 1 0 7 1 0 #• Au revoir.#
-#À tes souhaits!#
+#a tes souhaits!#

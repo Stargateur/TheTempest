@@ -1,23 +1,23 @@
 
 
 
-#Bonjour, je suis l’épouse du maire, c’est le village de Galilée.#
-#Notre père de famille est une personne gentille.#
+#Bonjour, je suis l'epouse du maire, c'est le village de Galilee.#
+#Notre pere de famille est une personne gentille.#
 1 0 1 0 0 #• Nom?#
 #Rocass.#
 1 27 2 0 1 3 #• Quelle est la situation dans le village ?#
-#Sais-tu? J’essaie de ne pas sortir.#
+#Sais-tu? J'essaie de ne pas sortir.#
 0 27 3 0 1 5 #• Ne sortez pas?#
-#Si vous sortez, vous rencontrerez le démon de l’arbre Banyan à la recherche d’effets personnels.#
+#Si vous sortez, vous rencontrerez le demon de l'arbre Banyan a la recherche d'effets personnels.#
 1 24 4 2 1 6 #• Chef de village?#
-#Hélas! Le vieil homme a été capturé par le démon de l’arbre Banyan.#
-0 53 5 0 0 #• Démon de l’arbre Banyan?#
-#Le démon de l’arbre Banyan est le plus souvent actif près de la fontaine de Trevi, et il disparaît dès qu’il court vers l’arbre! On dirait un singe.#
-0 24 6 0 0 #• Pris là-bas?#
-#Je ne sais pas, personne ne sait où il se trouve, hé! C’est vraiment inquiétant.#
+#Helas! Le vieil homme a ete capture par le demon de l'arbre Banyan.#
+0 53 5 0 0 #• Demon de l'arbre Banyan?#
+#Le demon de l'arbre Banyan est le plus souvent actif pres de la fontaine de Trevi, et il disparait des qu'il court vers l'arbre! On dirait un singe.#
+0 24 6 0 0 #• Pris la-bas?#
+#Je ne sais pas, personne ne sait ou il se trouve, he! C'est vraiment inquietant.#
 28 0 7 0 0 #• Des gens gentils?#
-#Toi aussi! Merci beaucoup d’avoir aidé tout notre village.#
+#Toi aussi! Merci beaucoup d'avoir aide tout notre village.#
 24 0 8 0 0 #• Seigneur ?#
-#En écoutant le vieil homme, la porte Saint-Germain des hautes falaises au sud, j’ai entendu dire que c’est le seul chemin vers le sud.#
+#En ecoutant le vieil homme, la porte Saint-Germain des hautes falaises au sud, j'ai entendu dire que c'est le seul chemin vers le sud.#
 1 0 9 1 0 #• Au revoir.#
-#Nous vous souhaitons tous la réalisation de votre vœu.#
+#Nous vous souhaitons tous la realisation de votre voeu.#

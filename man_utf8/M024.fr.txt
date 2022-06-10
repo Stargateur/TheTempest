@@ -1,17 +1,17 @@
 
 
 
-#Bonjour! L’île vaut bien l’aventure.#
+#Bonjour! L'ile vaut bien l'aventure.#
 #Puis-je vous aider?#
 1 0 1 0 0 #• Nom?#
-#Je m’appelle Vincent et je fais le tour de la maison.#
+#Je m'appelle Vincent et je fais le tour de la maison.#
 1 0 2 0 1 3 #• Profession?#
-#À l’origine en affaires, maintenant voyager à travers le monde.#
-0 0 3 0 1 4 #• Se déplacer?#
-#Dès que vous arrivez sur l’île, vous trouverez des monstres partout, et il y a un endroit pour être très prudent.#
+#a l'origine en affaires, maintenant voyager a travers le monde.#
+0 0 3 0 1 4 #• Se deplacer?#
+#Des que vous arrivez sur l'ile, vous trouverez des monstres partout, et il y a un endroit pour etre tres prudent.#
 0 0 4 0 1 5 #• Quel endroit ?#
-#Dans le marais au sud de la forêt, beaucoup de gens n’osent pas s’approcher, car s’ils ne font pas attention, ils tomberont dans la boue pourpre.#
+#Dans le marais au sud de la foret, beaucoup de gens n'osent pas s'approcher, car s'ils ne font pas attention, ils tomberont dans la boue pourpre.#
 0 0 5 0 0 #• Bourbier violet?#
-#J’ai entendu dire que cela s’appelle une zone de poison crème grise, et si vous la touchez accidentellement, vous empoisonnerez les gens.#
+#J'ai entendu dire que cela s'appelle une zone de poison creme grise, et si vous la touchez accidentellement, vous empoisonnerez les gens.#
 1 0 6 1 0 #• Au revoir.#
-#Veillez à ne pas vous empoisonner.#
+#Veillez a ne pas vous empoisonner.#
