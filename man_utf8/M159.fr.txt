@@ -3,15 +3,15 @@
 
 #Nourrir! Jeune homme, ou aller?#
 #Laisse moi tranquille.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Frankia.#
-1 2 2 0 1 3 #• Profession?#
+1 2 2 0 1 3 #Profession?#
 #Je... Cela necessite un travail, il suffit de se promener et vous aurez de l'argent!#
-0 88 3 0 1 4 #• Se promener?#
+0 88 3 0 1 4 #Se promener?#
 #Vous regardez la-bas, c'est le pont au loin, et puis vous y allez... Avez-vous vu? Ricaner... N'est-ce pas un beau spectacle?#
-0 0 4 67 0 #• Gardez l'argent et utilisez-le!#
+0 0 4 67 0 #Gardez l'argent et utilisez-le!#
 #Roter... Vous... De quoi tu parles?#
-2 0 5 0 0 #• Astuce ou friandise?#
+2 0 5 0 0 #Astuce ou friandise?#
 #Depuis votre arrivee, les trois mains sont devenues de plus en plus difficiles a melanger.#
-1 0 6 1 0 #• Au revoir.#
+1 0 6 1 0 #Au revoir.#
 #Bienvenue a venir me voir souvent.#

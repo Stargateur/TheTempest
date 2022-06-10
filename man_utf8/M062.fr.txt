@@ -3,21 +3,21 @@
 
 #Heros, merci de t'avoir sauve la vie !#
 #Heros salvateur, quel est le probleme?#
-1 0 1 0 1 5 #• Nom?#
+1 0 1 0 1 5 #Nom?#
 #Je suis Joe Louis de la grotte des Nains.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Je vis habituellement en faisant des affaires.#
-30 0 3 0 0 #• Une bouee de sauvetage ?#
+30 0 3 0 0 #Une bouee de sauvetage ?#
 #Quand j'ai rencontre cet ours blanc feroce, j'ai failli perdre la vie, si vous n'etiez pas venu soulager la crise, mon ancienne vie aurait disparu depuis longtemps.#
-0 32 4 0 1 7 #• Bailey?#
+0 32 4 0 1 7 #Bailey?#
 #C'etait un bon ami a moi dans le village de Yunok, mais il avait ete tres etrange ces derniers temps, souvent agite, et avait recemment sejourne dans un hotel au Pays de Galles, alors peut-etre que vous pourriez lui rendre visite.#
-0 32 5 0 1 8 #• Grotte des Nains?#
+0 32 5 0 1 8 #Grotte des Nains?#
 #Nous, nains, avons toujours vecu dans les grottes des nains, et nous avons toujours vecu une vie paisible sans controverse jusqu'a ce que notre roi nain soit tue.#
-105 0 6 0 0 #• Reconnaissant?#
+105 0 6 0 0 #Reconnaissant?#
 #Les gens de nos deux villages doivent vous remercier, vous le grand bienfaiteur, en particulier les nains de notre village, d'avoir trouve le veritable meurtrier de notre roi nain.#
-0 32 7 0 0 #• Lui rendre visite?#
+0 32 7 0 0 #Lui rendre visite?#
 #Wells est un gars sympa et Berley doit avoir une raison speciale d'y rester.#
-0 32 8 0 1 4 #• Le Roi Nain a ete tue ?#
+0 32 8 0 1 4 #Le Roi Nain a ete tue ?#
 #C'est une tragedie, mais je n'arrive pas a croire que ce sera l'empoisonneur du village d'Enoch, mais c'est de la bouche de Berley, ce qui fait croire aux gens ! ...#
-1 0 9 1 0 #• Au revoir.#
+1 0 9 1 0 #Au revoir.#
 #Au revoir.#

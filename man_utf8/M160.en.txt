@@ -3,17 +3,17 @@
 
 #Big brother, would you please come over?#
 #Our days were a little harder.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Slater.#
-1 88 2 0 1 3 #• What's wrong?#
+1 88 2 0 1 3 #What's wrong?#
 #Please look at my foot, it seems to be unable to walk.#
-0 0 3 0 1 4 #• Can't walk?#
+0 0 3 0 1 4 #Can't walk?#
 #Oh, yes... So painful, seems to be twisted to... Help me see!#
-0 0 4 67 0 #• The foot is fine, but one more hand!#
+0 0 4 67 0 #The foot is fine, but one more hand!#
 #Belch... We... We have no choice but to do so! The days are too hard!#
-2 0 5 0 0 #• Bitter?#
+2 0 5 0 0 #Bitter?#
 #Oh, yes! But no matter how bitter it is, my father and I will no longer survive with three hands!#
-88 2 6 0 0 #• What's wrong?#
+88 2 6 0 0 #What's wrong?#
 #I secretly tell you Oh, there are many thieves near here, you have to be careful!#
-1 0 7 1 0 #• Goodbye.#
+1 0 7 1 0 #Goodbye.#
 #Goodbye, big friend.#

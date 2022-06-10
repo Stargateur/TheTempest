@@ -3,15 +3,15 @@
 
 #Are you a spy sent from the village next door?#
 #What's going on again! Do you need my help?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #William Joe, that sounds mighty enough!#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #In this time of crisis, we volunteer to serve our people.#
-1 32 3 0 0 #• Adulterous?#
+1 32 3 0 0 #Adulterous?#
 #Don't think that if you come to be a lobbyist, we will forgive everything and tell you that we have not avenged the dwarf king, and we have sworn not to be human.#
-2 32 4 0 0 #• Something?#
+2 32 4 0 0 #Something?#
 #If you intercede for the Jenoks again, don't blame me for not being polite.#
-105 0 5 0 0 #• Service?#
+105 0 5 0 0 #Service?#
 #Thank you! Fortunately, the dwarves did not break into the catastrophe, and they needed my service to come back to me.#
-1 0 6 1 0 #• Goodbye.#
+1 0 6 1 0 #Goodbye.#
 #Good bye.#

@@ -3,5 +3,5 @@
 
 #Quelque chose s'est mal passe la-bas!#
 ##
-1 0 1 1 0 #• Au revoir.#
+1 0 1 1 0 #Au revoir.#
 #Au revoir.#

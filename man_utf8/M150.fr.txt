@@ -3,17 +3,17 @@
 
 #Il y a quelque temps, un general a emmene un groupe de personnes captives dans les montagnes du Parthenon!#
 #Jamais vu un village plus riche que Gnostic!#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Grace.#
-1 65 2 0 1 3 #• Kidnapper un groupe de personnes?#
+1 65 2 0 1 3 #Kidnapper un groupe de personnes?#
 #On dit que les gens qui veulent aider le general Kate a construire la ville royale semblent etre des architectes.#
-0 65 3 0 1 4 #• King's City?#
+0 65 3 0 1 4 #King's City?#
 #C'etait le sanctuaire du Parthenon, et Kate voulait en faire sa ville royale personnelle.#
-0 65 4 0 1 5 #• Bartholnon?#
+0 65 4 0 1 5 #Bartholnon?#
 #Ce qui etait autrefois un beau village est maintenant devenu une source de mal!#
-0 65 5 0 0 #• L'abime du peche ?#
+0 65 5 0 0 #L'abime du peche ?#
 #Helas... Ne le mentionnez pas! Maintenant, je veux juste bien vivre a Northstead.#
-2 67 6 0 0 #• Riche?#
+2 67 6 0 0 #Riche?#
 #L'homme le plus riche ici n'est autre que George, surtout quand il entend que ses entrepots souterrains contiennent toutes sortes de tresors.#
-1 0 7 1 0 #• Au revoir!#
+1 0 7 1 0 #Au revoir!#
 #Au revoir.#

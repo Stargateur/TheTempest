@@ -3,15 +3,15 @@
 
 #Actually, I should have seen it a long time ago!#
 #Be careful!#
-91 2 1 0 0 #• Look out?#
+91 2 1 0 0 #Look out?#
 #Oh, yes! Boys have something as beautiful as you.#
-2 0 2 0 0 #• Be careful.#
+2 0 2 0 0 #Be careful.#
 #You enter the village of Yar alone, and you don't know what danger you will encounter, so you have to be more careful.#
-2 121 3 2 2 4 5 #• Marriage.#
+2 121 3 2 2 4 5 #Marriage.#
 #We suffered and shared along the way, I didn't expect you to be really a girl, I hope to marry you, take care of you for a lifetime, are you willing?#
-0 0 4 121 0 #• Willing.#
+0 0 4 121 0 #Willing.#
 #Really, I was so happy that when we got back to Milan to rescue my father, there was a big wedding.#
-0 0 5 0 0 #• Unwilling.#
+0 0 5 0 0 #Unwilling.#
 #Hopefully one day you'll change your mind.#
-1 0 6 1 0 #• Goodbye.#
+1 0 6 1 0 #Goodbye.#
 #Good bye.#

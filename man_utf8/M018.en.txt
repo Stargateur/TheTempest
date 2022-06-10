@@ -3,27 +3,27 @@
 
 #Hey! Are you here to hunt?#
 #Has it been going well lately?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Hagi Han kang.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #Make a living by hunting.#
-1 20 3 0 1 4 #• Hunting?#
+1 20 3 0 1 4 #Hunting?#
 #I thought you were here to hunt, and you looked to the right, was it a thick forest? There are a lot of prey inhabiting there, and we all call it the Black Forest.#
-0 20 4 0 2 5 10 #• Black Forest?#
+0 20 4 0 2 5 10 #Black Forest?#
 #Well! But ever since the robbers had taken the Black Forest as their dwelling, we had tried not to get anywhere near it, and Galilee could not go there now.#
-0 20 5 0 2 11 6 #• Robbers!#
+0 20 5 0 2 11 6 #Robbers!#
 #He claimed to be the Demon King of the Black Forest, although he would not hurt anyone, but he plundered a lot of gold and silver jewelry with a strong physique, I don't know if the figure who stole the book just now is him?#
-0 20 6 0 1 7 #• Books?#
+0 20 6 0 1 7 #Books?#
 #It was left by my ancestors, and it had just been stolen, and my son saw a figure leaving quickly and immediately chased after it.#
-0 20 7 0 1 8 #• Son.#
+0 20 7 0 1 8 #Son.#
 #My son, Dyvis, was tall and dressed in a hunting suit, and he was worried that he was alone to chase after the book thieves, because recently there had been a terrible Karabang.#
-0 20 8 0 1 9 #• Karabang.#
+0 20 8 0 1 9 #Karabang.#
 #A strange-behaved goblin who once inhabited a whale cave, I didn't know much about him, but just seeing the evil look under his eyebrows was chilling.#
-0 20 9 0 0 #• Whale Cave.#
+0 20 9 0 0 #Whale Cave.#
 #It is a bottomless hole in the southern part of the Black Forest.#
-0 0 10 0 0 #• Galilee?#
+0 0 10 0 0 #Galilee?#
 #A lovely town in the eastern half of the Black Forest. Now, no matter how much prey is hunted, it can only be sold to Kabbalah.#
-0 0 11 0 0 #• Black Forest Demon King?#
+0 0 11 0 0 #Black Forest Demon King?#
 #I had infiltrated his lair, but as soon as I entered, he came out of the secret door and had to flee quickly.#
-1 0 12 1 0 #• Goodbye.#
+1 0 12 1 0 #Goodbye.#
 #Bon voyage.#

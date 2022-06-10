@@ -3,17 +3,17 @@
 
 #Have you noticed? My master's handiwork is really exquisite, and I really sigh to myself.#
 #If I want to become a sculptor as good as a master, I have to hone a lot.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Minsuri.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I am a student of Master Hajikistan.#
-1 44 3 0 1 5 #• Master?#
+1 44 3 0 1 5 #Master?#
 #The most famous technique of the Village of Water is carving, and our master Hajik is a pioneer in the art of sculpture.#
-1 2 4 0 0 #• Self-inflicted?#
+1 2 4 0 0 #Self-inflicted?#
 #He can create exciting works for small things such as carving jade.#
-0 44 5 0 0 #• Hajik?#
+0 44 5 0 0 #Hajik?#
 #Although he doesn't often help people carve works, as long as you are sincere, I believe he will not embarrass you.#
-2 0 6 0 0 #• How much to hone?#
+2 0 6 0 0 #How much to hone?#
 #You see if my recent skills have improved a bit, these are my latest works.#
-1 0 7 1 0 #• Goodbye.#
+1 0 7 1 0 #Goodbye.#
 #Give my new work a good name!#

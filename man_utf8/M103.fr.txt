@@ -3,15 +3,15 @@
 
 #Il est toujours bon de lire plus de livres.#
 #Il est toujours bon de lire plus de livres.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Quilica.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Je suis l'aine du Village de l'Eau.#
-1 0 3 0 1 4 #• Des livres?#
+1 0 3 0 1 4 #Des livres?#
 #Les gens de notre village sont fiers de leur collection de livres et lisent de la poesie et des livres.#
-0 45 4 0 1 5 #• Lire des livres de poesie?#
+0 45 4 0 1 5 #Lire des livres de poesie?#
 #Mais il y avait toujours un sentiment de ne pas en avoir assez, et j'ai entendu dire qu'il y avait un livre d'utopies, un plan pour la Republique, avec un index de cinq cent soixante-six pages, qui commencait par une description du paradis et se terminait par l'enfer, et je cherchais ce livre depuis longtemps.#
-0 45 5 0 0 #• Republique?#
+0 45 5 0 0 #Republique?#
 #Bien que notre village soit fier de ses livres de premiere classe et de ses excellentes techniques de sculpture, il est encore loin du pays ideal dans nos coeurs.#
-1 0 6 1 0 #• Au revoir!#
+1 0 6 1 0 #Au revoir!#
 #Que le monde nous rejoigne dans la mer des livres.#

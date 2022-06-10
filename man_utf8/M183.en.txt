@@ -3,29 +3,29 @@
 
 #Want to take a boat?#
 #What's the matter?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #I'm Mike.#
-1 0 2 2 5 3 4 5 6 12 #• By boat?#
+1 0 2 2 5 3 4 5 6 12 #By boat?#
 #Where are you going?#
-94 0 3 2 2 7 11 #• Galilee Village.#
+94 0 3 2 2 7 11 #Galilee Village.#
 #Would it be nice to charge you 300 yuan?#
-95 0 4 2 2 8 11 #• Dwarven Cave.#
+95 0 4 2 2 8 11 #Dwarven Cave.#
 #Would it be nice to charge you 300 yuan?#
-96 0 5 2 2 9 11 #• Telok Island.#
+96 0 5 2 2 9 11 #Telok Island.#
 #Would it be nice to charge you 300 yuan?#
-97 0 6 2 2 10 11 #• Azluksi World.#
+97 0 6 2 2 10 11 #Azluksi World.#
 #Would it be nice to charge you 300 yuan?#
-0 0 7 32 0 #• Okay.#
+0 0 7 32 0 #Okay.#
 #Have a nice day.#
-0 0 8 77 0 #• Okay.#
+0 0 8 77 0 #Okay.#
 #Have a nice day.#
-0 0 9 78 0 #• Okay.#
+0 0 9 78 0 #Okay.#
 #Have a nice day.#
-0 0 10 79 0 #• Okay.#
+0 0 10 79 0 #Okay.#
 #Have a nice day.#
-0 0 11 0 0 #• Not good.#
+0 0 11 0 0 #Not good.#
 #Is there anything else?#
-0 0 12 0 0 #• Leave.#
+0 0 12 0 0 #Leave.#
 #I want to take a boat again!#
-1 0 13 1 0 #• Goodbye!#
+1 0 13 1 0 #Goodbye!#
 #I'm going to come back to the other side.#

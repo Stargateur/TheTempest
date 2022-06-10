@@ -3,33 +3,33 @@
 
 #Depechez-vous et voyez l'excitation! George et leur famille avaient un autre bon spectacle a regarder.#
 #Oh? Vous etes toujours en vie et en bonne sante! C'est rare !#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Psica.#
-1 0 2 0 1 3 #• Profession?#
+1 0 2 0 1 3 #Profession?#
 #Je venais d'emmenager du Parthenon avec ma mere et je ne trouvais pas encore de travail.#
-0 62 3 0 1 4 #• Bartholnon?#
+0 62 3 0 1 4 #Bartholnon?#
 #Il y a maintenant des voleurs rampants partout, et les villageois ont demenage presque de la meme maniere!#
-0 62 4 0 1 5 #• Des voleurs dechaines ?#
+0 62 4 0 1 5 #Des voleurs dechaines ?#
 #Ce sont les prisonniers de ces prisons ! Il y a aussi des sorciers malefiques.#
-0 62 5 0 0 #• Pourquoi en est-il ainsi?#
+0 62 5 0 0 #Pourquoi en est-il ainsi?#
 #J'ai entendu dire que c'etait l'ordre d'un general du royaume, et Dieu sait pourquoi il y avait un ordre aussi inexplicable.#
-1 2 6 0 1 7 #• Bon drame?#
+1 2 6 0 1 7 #Bon drame?#
 #Vous ne savez pas? Beaucoup de samourais qui pensaient qu'ils etaient forts se sont precipites chez George pour rivaliser avec son garde du corps, et il a ete dit que le gagnant pouvait deplacer tous ses tresors! Mais......#
-0 62 7 0 1 8 #• Mais quoi ? @#
+0 62 7 0 1 8 #Mais quoi ? @#
 #Cependant, le garde du corps etait le sorcier de sang qui s'etait dechaine a Patnon quelques annees plus tot, et il a ensuite ete emprisonne par Prospero dans une prison magique. Mais maintenant qu'il a ete libere par le general et qu'il est venu ici pour servir de garde du corps de George, je soupconne que George a un lien avec le general!#
-0 62 8 0 0 #• Crochets?#
+0 62 8 0 0 #Crochets?#
 #Sinon, pourquoi le Bentenon sterile serait-il saute par les poulets et les chiens, alors que le riche Gnostique resterait si calme?#
-2 62 9 0 0 #• De nouvelles nouvelles?#
+2 62 9 0 0 #De nouvelles nouvelles?#
 #Pas encore, je vais vous le dire !#
-62 71 10 0 1 11 #• De nouvelles nouvelles?#
+62 71 10 0 1 11 #De nouvelles nouvelles?#
 #Oui! J'ai mange un pigeon hier!#
-0 71 11 0 1 12 #• Pigeons?#
+0 71 11 0 1 12 #Pigeons?#
 #Les pigeons voyageurs que George a relaches avaient bon gout, mais les nouvelles n'etaient pas tres bonnes.#
-0 71 12 0 1 13 #• Message?!#
+0 71 12 0 1 13 #Message?!#
 #Vous voyez. "M. Kay: Le poisson a mange le cuisinier et est reparti avec le cadeau!" Cette note a ete envoyee la nuit ou vous avez vaincu le Magicien du Sang, et quoi d'autre!#
-0 71 13 0 1 14 #• Aussi?#
+0 71 13 0 1 14 #Aussi?#
 #Vous regardez les deux "M. Kay: Il y avait quelques poissons qui ont nage recemment, et ils sont en fait venus de l'autre cote!" "M. Kay : Le cuisinier verifie si le poisson vient de la mer."#
-0 71 14 0 0 #• Il semble que vous ayez mange pas mal de pigeons.#
+0 71 14 0 0 #Il semble que vous ayez mange pas mal de pigeons.#
 #Il semble que des que vous entrez dans le village, vous serez cible. Prends soin de toi! Je ne sais pas qui vous etes, mais je suis sur que vous ne lacherez pas les mechants, non? Allez!#
-1 0 15 1 0 #• Au revoir.#
+1 0 15 1 0 #Au revoir.#
 #Si vous avez le temps de revenir me voir, je crois qu'il y a encore beaucoup de complots dans ce village !#

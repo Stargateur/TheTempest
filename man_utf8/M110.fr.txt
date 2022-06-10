@@ -3,17 +3,17 @@
 
 #Les gens qui sont venus au village de l'eau l'appellent un paradis sur terre.#
 #Notre village est rempli de chaleur et de paix qui est rare dans le monde.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Jenny Ezman.#
-1 0 2 0 1 3 #• Profession?#
+1 0 2 0 1 3 #Profession?#
 #Bien que je n'aie pas d'emploi stable, je n'ai pas faim.#
-0 0 3 0 0 #• Travail?#
+0 0 3 0 0 #Travail?#
 #Il n'y a pas besoin de travail ici, parce que dans la maison du tresor de la connaissance, il y a un plaisir sans fin, et ma vie est autosuffisante, et je n'ai pas besoin d'avoir un contact avec le monde exterieur.#
-1 0 4 0 1 5 #• Tendou humain?#
+1 0 4 0 1 5 #Tendou humain?#
 #Le temperament des villageois est cultive par la connaissance, et chaque livre nous apporte un vaste monde et un profond bassin d'idees, a partir duquel les amis absorberont beaucoup de connaissances et d'informations, obtiendront le confort du coeur et le desir de creation.#
-0 0 5 0 0 #• Envie de creer ?#
+0 0 5 0 0 #Envie de creer ?#
 #Bien sur, dans la creation artistique, c'est le maitre sculpteur Hajik qui est le plus passionnant, et je n'ai vu son exposition personnelle qu'il y a quelques jours.#
-2 0 6 0 0 #• Chaud?#
+2 0 6 0 0 #Chaud?#
 #Lorsque vous essayez de faire l'experience de la gentillesse des autres, cela changera votre perception de la vie.#
-1 0 7 1 0 #• Au revoir.#
+1 0 7 1 0 #Au revoir.#
 #Que le Seigneur vous benisse.#

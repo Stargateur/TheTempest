@@ -3,9 +3,9 @@
 
 #I'm busy! Don't mess with me.#
 #Excuse me...#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Mia.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I am a trained warrior.#
-1 0 3 1 0 #• Goodbye.#
+1 0 3 1 0 #Goodbye.#
 #……#

@@ -3,13 +3,13 @@
 
 #Je m'appelle Ariel, merci de m'avoir fait sortir.#
 #Honorable Maitre, Ariel est a votre disposition.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Ariel.#
-61 58 2 2 2 4 5 #• Vous n'avez pas besoin d'etre poli.#
+61 58 2 2 2 4 5 #Vous n'avez pas besoin d'etre poli.#
 #Je suis enferme ici depuis longtemps, vous m'avez sauve, afin de rembourser votre salut, je vous suivrai toujours, et ce qui sera commande a l'avenir, Ariel est prete a faire de son mieux pour l'accomplir.#
-2 0 3 0 0 #• Commande.#
+2 0 3 0 0 #Commande.#
 #Super hote ! Quelle est la commande?#
-1 2 4 1 0 #• Azluksi?#
+1 2 4 1 0 #Azluksi?#
 #Je sais qu'il y a une grotte secrete avec acces au monde d'Azlux, s'il vous plait venez avec moi.#
-2 0 5 1 0 #• Au revoir.#
+2 0 5 1 0 #Au revoir.#
 #Au revoir.#

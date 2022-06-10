@@ -3,23 +3,23 @@
 
 #Y a-t-il quelque chose qui ne va pas avec Big Brother?.#
 #Salut! Vous avez le temps de jouer avec moi ?#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Silo.#
-1 16 2 0 1 3 #• L'age?#
+1 16 2 0 1 3 #L'age?#
 #Cette annee, a l'age de sept ans, papa m'a offert un cadeau precieux pour mon cinquieme anniversaire.#
-0 16 3 0 1 4 #• Cadeaux?#
+0 16 3 0 1 4 #Cadeaux?#
 #C'est un jouet mignon qui bouge quand il est horloger. Mais je l'ai accidentellement perdu!#
-0 16 4 0 1 5 #• Perdu?#
+0 16 4 0 1 5 #Perdu?#
 #Quand je me suis faufile a l'exterieur du village pour jouer, je l'ai accidentellement donne! C'est mon jouet prefere!#
-0 16 5 0 0 #• Quel dommage !#
+0 16 5 0 0 #Quel dommage !#
 #Comme ce serait bien de recuperer ce jouet! Si vous trouvez un jouet, n'oubliez pas de me le ramener!#
-15 16 6 2 2 7 8 #• Trouvez des jouets!#
+15 16 6 2 2 7 8 #Trouvez des jouets!#
 #Vous l'avez vraiment trouve! Pouvez-vous me le rendre?#
-0 16 7 51 0 #• Oui.#
+0 16 7 51 0 #Oui.#
 #Merci beaucoup. Si vous annoncez la nouvelle a votre mere, elle sera tres heureuse.#
-0 16 8 0 0 #• Non, vous ne pouvez pas.#
+0 16 8 0 0 #Non, vous ne pouvez pas.#
 #Ce jouet que vous ne pouvez pas utiliser!#
-16 0 9 0 0 #• Comment cela s'est-il passe ces derniers temps ?#
+16 0 9 0 0 #Comment cela s'est-il passe ces derniers temps ?#
 #Je suis tellement heureuse que vous m'ayez aidee a recuperer mon jouet. Merci!#
-1 0 10 1 0 #• Au revoir.#
+1 0 10 1 0 #Au revoir.#
 #Venez jouer avec moi souvent!#

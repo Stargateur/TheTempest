@@ -3,29 +3,29 @@
 
 #Want to take a boat?#
 #What's the matter?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #I'm Kendall.#
-1 0 2 2 5 3 4 5 6 12 #• By boat?#
+1 0 2 2 5 3 4 5 6 12 #By boat?#
 #Where do you want to get there?#
-93 0 3 2 2 7 11 #• Kabbalah Village.#
+93 0 3 2 2 7 11 #Kabbalah Village.#
 #Would it be nice to charge you 300 yuan?#
-94 0 4 2 2 8 11 #• Galilee Village.#
+94 0 4 2 2 8 11 #Galilee Village.#
 #Would it be nice to charge you 300 yuan?#
-95 0 5 2 2 9 11 #• Dwarven Cave.#
+95 0 5 2 2 9 11 #Dwarven Cave.#
 #Would it be nice to charge you 300 yuan?#
-96 0 6 2 2 10 11 #• Telok Island.#
+96 0 6 2 2 10 11 #Telok Island.#
 #The boat fare is 300 yuan, do you want to take it?#
-0 0 7 22 0 #• Yes.#
+0 0 7 22 0 #Yes.#
 #The village of Kabbalah has arrived.#
-0 0 8 32 0 #• Yes.#
+0 0 8 32 0 #Yes.#
 #Have a nice day.#
-0 0 9 77 0 #• Yes.#
+0 0 9 77 0 #Yes.#
 #Have a nice day.#
-0 0 10 78 0 #• Yes.#
+0 0 10 78 0 #Yes.#
 #Have a nice day.#
-0 0 11 0 0 #• Don't.#
+0 0 11 0 0 #Don't.#
 #The boat is about to sail.#
-0 0 12 0 0 #• Leave.#
+0 0 12 0 0 #Leave.#
 #Don't ride anymore?#
-1 0 13 1 0 #• Goodbye!#
+1 0 13 1 0 #Goodbye!#
 #I'm going to come back to the other side.#

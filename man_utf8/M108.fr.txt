@@ -3,17 +3,17 @@
 
 #Bonjour, je suis Thes et j'ai besoin que je vous serve?#
 #Notre service est le plus acclame dans un rayon de 100 milles.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Tess.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Je suis le proprietaire de cette auberge, mais je vends parfois des produits d'epicerie et des medicaments medicaux.#
-1 0 3 2 2 4 5 #• Hebergement?#
+1 0 3 2 2 4 5 #Hebergement?#
 #Vivre ici pour une nuit pour vous facturer 300 yuans est bon, la ligne de vue de la chambre et l'equipement est bon!#
-0 0 4 15 0 #• Oui.#
+0 0 4 15 0 #Oui.#
 #De bons reves.#
-0 0 5 0 0 #• Ne le faites pas.#
+0 0 5 0 0 #Ne le faites pas.#
 #Merci!#
-1 0 6 3 0 #• Shopping.#
+1 0 6 3 0 #Shopping.#
 #Nous vendons une large gamme d'epiceries, qui sont tous des articles essentiels pour les aventures sauvages, alors que voulez-vous acheter?#
-1 0 7 1 0 #• Au revoir.#
+1 0 7 1 0 #Au revoir.#
 #Les sites pittoresques a proximite ne sont pas mauvais, donc si vous avez le temps, vous voudrez peut-etre vous promener.#

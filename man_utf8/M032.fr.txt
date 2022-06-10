@@ -3,11 +3,11 @@
 
 #Qu'est-ce qui vous a fait venir a moi en particulier?#
 #Ne me derangez pas.#
-75 0 1 0 0 #• Nom?#
+75 0 1 0 0 #Nom?#
 #Kevin Andrew.#
-75 0 2 0 0 #• Profession?#
+75 0 2 0 0 #Profession?#
 #Garde.#
-75 78 3 0 0 #• Special?#
+75 78 3 0 0 #Special?#
 #Avez-vous une commande speciale du general Kate?#
-1 0 4 1 0 #• Au revoir.#
+1 0 4 1 0 #Au revoir.#
 #Au revoir.#

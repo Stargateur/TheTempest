@@ -3,13 +3,13 @@
 
 #Did you see my master?#
 #The terrain here is dangerous.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Speyer.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I am a retired warrior and currently protect my master.#
-1 53 3 0 0 #• Master?#
+1 53 3 0 0 #Master?#
 #It was Karabang, who had a fierce personality.#
-53 0 4 0 0 #• What is the risk?#
+53 0 4 0 0 #What is the risk?#
 #The cave is full of traps.#
-1 0 5 1 0 #• Goodbye!#
+1 0 5 1 0 #Goodbye!#
 #Be careful!!#

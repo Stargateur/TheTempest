@@ -3,13 +3,13 @@
 
 #He! C'est une zone interdite, n'entrez pas par effraction.#
 #Quelque chose se passe.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Albert.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Garde.#
-1 65 3 0 0 #• Zones interdites?#
+1 65 3 0 0 #Zones interdites?#
 #Les voleurs ici sont beaucoup plus petits, et vous etes bon avec vous-meme.#
-65 0 4 0 0 #• La prison ?#
+65 0 4 0 0 #La prison ?#
 #Il n'y a plus personne qui garde la prison, et ceux qui sont enfermes devraient etre secourus.#
-1 0 5 1 0 #• Au revoir.#
+1 0 5 1 0 #Au revoir.#
 #Au revoir.#

@@ -3,17 +3,17 @@
 
 #Did you kill our great dwarf king?#
 #The Dwarven Cave is the territory of our dwarves, please do not enter without permission.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Mallord.#
-1 32 2 0 0 #• Occupation?#
+1 32 2 0 0 #Occupation?#
 #I am an unemployed vagabond, but for the death of the Dwarf King, I must pay the price for the village of Jenok.#
-1 32 3 0 0 #• Dwarf King?#
+1 32 3 0 0 #Dwarf King?#
 #Just a few days ago, Bailey of the village of Jenok said that he had witnessed the murder of the Dwarven King in their village, and fortunately there was such a righteous man, otherwise the Dwarven King would have died in an unknown way!#
-0 0 4 0 0 #• Territory?#
+0 0 4 0 0 #Territory?#
 #Of course, in order to resist the invasion of other tribes, everyone has a relatively unknown secret in their home, which cannot be told to others.#
-105 33 5 0 0 #• Dwarven Cave?#
+105 33 5 0 0 #Dwarven Cave?#
 #The misunderstanding between us and the village of Jenok has finally been resolved, thank you so much! I believe that the dwarf will surely thank you with a generous gift.#
-105 0 6 0 0 #• Unauthorized entry?#
+105 0 6 0 0 #Unauthorized entry?#
 #You are our benefactor and can certainly come and go as you please.#
-1 0 7 1 0 #• Goodbye.#
+1 0 7 1 0 #Goodbye.#
 #Have time to play.#

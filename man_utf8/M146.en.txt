@@ -3,17 +3,17 @@
 
 #Hard work and need accommodation?#
 #What else do you need?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Jordan.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I just run this inn to make some money to support my family.#
-1 0 3 3 0 #• Shopping?#
+1 0 3 3 0 #Shopping?#
 #Pick one you like!#
-1 0 4 2 2 5 6 #• Accommodation?#
+1 0 4 2 2 5 6 #Accommodation?#
 #It costs 300 yuan to stay here for a night, do you want to stay?#
-0 0 5 15 0 #• Yes.#
+0 0 5 15 0 #Yes.#
 #Good dreams.#
-0 0 6 0 0 #• Nope.#
+0 0 6 0 0 #Nope.#
 #Thank you!#
-1 0 7 1 0 #• Goodbye.#
+1 0 7 1 0 #Goodbye.#
 #Thank you! Welcome back.#

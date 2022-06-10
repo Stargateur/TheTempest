@@ -3,13 +3,13 @@
 
 #Bonjour, je suis Sika, y a-t-il quelque chose qui ne va pas?#
 #C'est une zone interdite pour les nains.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Sika.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #On m'a ordonne de garder ici, et les gens oisifs et ainsi de suite ont ete interdits de passer.#
-31 32 3 0 0 #• Zone interdite naine?#
+31 32 3 0 0 #Zone interdite naine?#
 #Oui. a l'epoque de la loi martiale, les intrus prenaient soin de poser la tete sur le sol.#
-32 0 4 0 0 #• Zones interdites?#
+32 0 4 0 0 #Zones interdites?#
 #Fais attention! La route n'est pas tres bonne, et pour eviter les voleurs, il doit en etre ainsi.#
-1 0 5 1 0 #• Au revoir.#
+1 0 5 1 0 #Au revoir.#
 #Au revoir.#

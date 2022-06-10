@@ -3,13 +3,13 @@
 
 #Unexpectedly, after the island of Telok was occupied by Karabang, some people dared to come here!#
 #Freedom is precious.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Tony Scott.#
-1 53 2 0 1 3 #• Occupation?#
+1 53 2 0 1 3 #Occupation?#
 #I was originally a happy fisherman, and when Karabang came, I was forced to guard this temple, alas! ...#
-0 53 3 0 0 #• Temple?#
+0 53 3 0 0 #Temple?#
 #I was just ordered to guard, I didn't know much, I just remembered a young man who was caught inside by Karabang the other day, and there were so many organs inside that I didn't think he could get out alive.#
-53 0 4 0 0 #• Free.#
+53 0 4 0 0 #Free.#
 #Thank you for setting us free again.#
-1 0 5 1 0 #• Goodbye.#
+1 0 5 1 0 #Goodbye.#
 #Good bye.#

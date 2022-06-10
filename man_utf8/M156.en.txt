@@ -3,17 +3,17 @@
 
 #What's the matter?#
 #What's going on?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Minger.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I'm a doctor.#
-1 0 3 9 0 #• Therapeutic addiction.#
+1 0 3 9 0 #Therapeutic addiction.#
 #Treatment of poisoning 20 yuan. *Please select one person for treatment!#
-1 0 4 7 0 #• De-petrification.#
+1 0 4 7 0 #De-petrification.#
 #Lift petrochemical 100 yuan. *Please select one person for treatment!#
-1 0 5 10 0 #• Resurrection.#
+1 0 5 10 0 #Resurrection.#
 #The resurrection fee is 200 yuan, please select a partner.#
-1 0 6 3 0 #• Buy medicine.#
+1 0 6 3 0 #Buy medicine.#
 #What medicines do you want to buy?#
-1 0 7 1 0 #• Goodbye.#
+1 0 7 1 0 #Goodbye.#
 #Good bye.#

@@ -3,13 +3,13 @@
 
 #Hey! See that troublemaker in our house? Don't care about the sheep.#
 #I'm a rough person and don't understand anything.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Bresita.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #Forget it! The farmland could not be cultivated, and it was turned into an arms factory.#
-32 0 3 0 0 #• Rough people?#
+32 0 3 0 0 #Rough people?#
 #Because I am honest, I often suffer losses, and even children often rebel against me.#
-105 0 4 0 0 #• Don't understand?#
+105 0 4 0 0 #Don't understand?#
 #Dude, I really believe you, find the murderer of the Dwarf King, but the trick is still to come!#
-1 0 5 1 0 #• Goodbye.#
+1 0 5 1 0 #Goodbye.#
 #I'll see my harvest again when I have time.#

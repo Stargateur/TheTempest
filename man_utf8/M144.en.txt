@@ -3,13 +3,13 @@
 
 #My name is Connery and I am George's wife.#
 #Being a rich wife is not easy, and you are stuffy and panicked all day.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Connery.#
-1 0 2 0 1 3 #• George?#
+1 0 2 0 1 3 #George?#
 #When a rich man has something remarkable, it is not the property left by his ancestors, who does not know that he wants to marry a concubine all day long.#
-0 62 3 0 1 4 #• Property?#
+0 62 3 0 1 4 #Property?#
 #He always used his family property to crush people to death, thinking that I and my beloved Brevo were separated by him with money, and I was really worried about my daughter's happiness...#
-0 0 4 0 0 #• Daughter's happiness?#
+0 0 4 0 0 #Daughter's happiness?#
 #Many people covet wealth and want to marry Caverny, so they challenge George's wizard bodyguard to please George, and they are killed.#
-1 0 5 1 0 #• Goodbye.#
+1 0 5 1 0 #Goodbye.#
 #Good bye.#

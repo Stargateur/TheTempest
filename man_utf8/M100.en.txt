@@ -3,19 +3,19 @@
 
 #Hello, I'm Prisse's wife. This is the fishing village of Saint-Germain.#
 #We have lived in the fishing village of Saint-Germain for many years.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Diffina.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I usually help my husband to watch the shop and do handicrafts such as fishing nets.#
-1 0 3 0 1 4 #• Pryce?#
+1 0 3 0 1 4 #Pryce?#
 #My husband sometimes goes to sea for a few months, and he once heard him say that the residents of The Village of Water are the friendliest in the neighborhood, and the residents are very cultured.#
-0 0 4 0 0 #• Aqua Village?#
+0 0 4 0 0 #Aqua Village?#
 #Residents value books, they treasure many famous books, almost no riots and thefts have occurred, my husband was lucky to go down, I really want to see.#
-1 0 5 0 0 #• Fishing village of Saint-Germain?#
+1 0 5 0 0 #Fishing village of Saint-Germain?#
 #We were originally close to the village of Galilee. Before a major earthquake, the plot of land on this side of the village sank completely, forming such a steep mountain wall.#
-1 0 6 0 1 7 #• Has something strange happened?#
+1 0 6 0 1 7 #Has something strange happened?#
 #Yes! A while ago, Karabang jumped off a cliff with a girl!#
-0 0 7 0 0 #• Girls? No way?#
+0 0 7 0 0 #Girls? No way?#
 #It's no mistake to hear her cry for help from a girl! They later crossed the sea to Telok Island.#
-1 0 8 1 0 #• Goodbye.#
+1 0 8 1 0 #Goodbye.#
 #There will be a period after that!#

@@ -3,21 +3,21 @@
 
 #Bien que j'aie ete maitre tisserand, je ne l'ai pas fait depuis longtemps maintenant.#
 #Voulez-vous tricoter quelque chose?#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Basco.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Aidez les gens a tricoter de petites choses.#
-38 87 3 0 1 4 #• Un maitre tisserand ?#
+38 87 3 0 1 4 #Un maitre tisserand ?#
 #Les filets de peche etaient trop grands et je n'etais pas en bonne sante, donc je ne pouvais tricoter que de petites choses comme des capes.#
-0 39 4 2 2 5 6 #• Tisser des vents volants?#
+0 39 4 2 2 5 6 #Tisser des vents volants?#
 #Vous avez le legendaire manuel d'instructions de la cape volante, ce qui est genial! Tant que 1200 yuans de salaire, je peux vous aider a tricoter une cape volante, voulez-vous tricoter?#
-0 0 5 38 0 #• Oui.#
+0 0 5 38 0 #Oui.#
 #Il n'est pas facile pour vous de trouver ces articles, alors prenez-les en environ trois jours! Je devrais etre capable de le tisser d'ici la.#
-0 0 6 0 0 #• Ne le faites pas.#
+0 0 6 0 0 #Ne le faites pas.#
 #Revenez quand vous voulez tricoter!#
-39 106 7 0 0 #• Prenez une cape.#
+39 106 7 0 0 #Prenez une cape.#
 #Vous etes presse aussi, n'est-ce pas ? Je le sortirai des que possible et je l'aurai plus tard!#
-106 87 8 20 0 #• Prenez une cape.#
+106 87 8 20 0 #Prenez une cape.#
 #Enfin fait, j'ai entendu dire que ce bebe est tres magique!#
-1 0 9 1 0 #• Au revoir.#
+1 0 9 1 0 #Au revoir.#
 #Au revoir.#

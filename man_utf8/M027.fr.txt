@@ -3,15 +3,15 @@
 
 #Inconfortable la-bas? Le medecin l'a-t-il vu?#
 #Avez-vous des potions a preparer sur votre corps?#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Je m'appelle Anne Barry.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Je suis l'assistant du Dr Calder.#
-0 0 3 0 1 4 #• Assistant?#
+0 0 3 0 1 4 #Assistant?#
 #Vous avez des questions sur les medicaments que vous pouvez me poser.#
-0 0 4 0 0 #• Probleme d'antheres?#
+0 0 4 0 0 #Probleme d'antheres?#
 #Si vous etes presse, vous pouvez acheter directement des medicaments pour vous soigner, comme un empoisonnement, vous pouvez acheter une petite herbe de desintoxication pour l'essayer!#
-2 0 5 0 0 #• Pharmacie?#
+2 0 5 0 0 #Pharmacie?#
 #Oui! Apportez des potions avec vous au cas ou vous en auriez besoin!#
-1 0 6 1 0 #• Au revoir.#
+1 0 6 1 0 #Au revoir.#
 #Au revoir.#

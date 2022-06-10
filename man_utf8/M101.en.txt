@@ -3,17 +3,17 @@
 
 #Here it is! Nothing fun.#
 #Here it is! Nothing fun.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Baggy.#
-1 0 2 0 1 3 #• Nothing fun?#
+1 0 2 0 1 3 #Nothing fun?#
 #Picking up shells by the sea was our only game.#
-0 0 3 0 1 4 #• It's a bit boring indeed.#
+0 0 3 0 1 4 #It's a bit boring indeed.#
 #Adults are more bored, work all day, and don't want to pay attention to us.#
-0 0 4 0 1 5 #• Work?#
+0 0 4 0 1 5 #Work?#
 #Either sacrifice or go out to fish, the most angry thing is to control our actions.#
-0 0 5 0 1 6 #• Regulatory action?#
+0 0 5 0 1 6 #Regulatory action?#
 #Especially in the waterfall area, they all said that it was dangerous not to go to the water, I did not listen, and as a result, I found a little secret!#
-0 0 6 0 0 #• Little secrets?#
+0 0 6 0 0 #Little secrets?#
 #Have you discovered the secret passage of the mountain wall south of the waterfall? That secret passage is very interesting.#
-1 0 7 1 0 #• Goodbye.#
+1 0 7 1 0 #Goodbye.#
 #Next time I'll take you to something more exciting.#

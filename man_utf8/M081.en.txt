@@ -3,13 +3,13 @@
 
 #If you're here to help fight, that's fine.#
 #I'm busy! It's okay not to mess with me.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Banard.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #This kind of dress you know at a glance that you are being a guard, so why ask more.#
-1 105 3 0 0 #• Fighting?#
+1 105 3 0 0 #Fighting?#
 #Be careful! Strangers are under surveillance, so don't be surprised during the war!#
-105 0 4 0 0 #• Busy?#
+105 0 4 0 0 #Busy?#
 #Thank you for washing away our charges, has the village chief thanked you?#
-1 0 5 1 0 #• Goodbye!#
+1 0 5 1 0 #Goodbye!#
 #Good bye.#

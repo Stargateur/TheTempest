@@ -3,23 +3,23 @@
 
 #Avez-vous deja ete dans de nombreux pays?#
 #Quelle ville peut vous faire vous attarder?#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Wengert.#
-1 0 2 0 1 3 #• Profession?#
+1 0 2 0 1 3 #Profession?#
 #Je suis un voyageur.#
-0 72 3 0 2 4 5 #• Voyageurs?#
+0 72 3 0 2 4 5 #Voyageurs?#
 #Eh bien, je viens de rentrer du village de Proli il y a quelque temps, et c'est miserable!#
-0 72 4 0 0 #• Village de Proli?#
+0 72 4 0 0 #Village de Proli?#
 #J'avais entendu dire que quelqu'un a Prolli connaissait un passage mysterieux, mais tous les gens la-bas semblaient avoir perdu leur ame, et leurs yeux eparpilles ne pouvaient pas me dire de secrets. Pas etonnant que certaines personnes l'appellent le Village du Sommeil.#
-0 72 5 0 2 6 7 #• Miserable?#
+0 72 5 0 2 6 7 #Miserable?#
 #Silence! Ne vous laissez pas entendre par les sbires de Kate, j'ai entendu dire que Prolli sera comme ca tout le chef-d'oeuvre de Kate!#
-0 72 6 0 0 #• Kate?#
+0 72 6 0 0 #Kate?#
 #Il y a quelques mois, il a personnellement dirige une grande armee pour attaquer Prolli la nuit, et il ne savait pas quel etait le gros probleme? On lui a en fait demande de monter sur le cheval lui-meme, et en quelques jours, quelqu'un a decouvert que Prolli etait devenu ce qu'il etait maintenant.#
-0 65 7 0 2 8 9 #• Des sbires ?#
+0 65 7 0 2 8 9 #Des sbires ?#
 #Le Magicien de Sang de Gnostic et le Directeur de la Prison de Bartenon, la Banshee aux Cheveux de Serpent, sont tous deux les bras droits de Kate. J'ai entendu dire qu'il y avait un sorcier sur l'ile de Yar au sud-ouest de Patnon!#
-0 65 8 0 0 #• ile de Jarr?#
+0 65 8 0 0 #ile de Jarr?#
 #J'ai entendu dire que Kate est stationnee la-bas, je pense que personne ne trouvera un moyen de mourir, non?#
-0 66 9 0 0 #• Directeur de prison?#
+0 66 9 0 0 #Directeur de prison?#
 #Helas! Les recidivistes deviennent administrateurs, que pouvons-nous dire?#
-1 0 10 1 0 #• Au revoir.#
+1 0 10 1 0 #Au revoir.#
 #Prends soin de toi.#

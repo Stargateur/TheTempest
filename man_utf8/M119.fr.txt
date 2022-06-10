@@ -3,33 +3,33 @@
 
 #Mon garcon, quel vent t'a souffle dans notre ville sous-marine?#
 #Les gens ordinaires doivent avoir la capacite d'atteindre les cieux pour me voir!#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Vous ne semblez pas etre en mesure de demander mon nom. Mais je suis magnanime de nature, alors j'ai epargne votre petite vie, alors je vais ecouter attentivement maintenant! Le nom du roi etait "Cough" Paul Etiroski. Clobusia, ouf ! Je veux le lire d'un seul souffle, mais je suis vraiment fatigue.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Regardez vos gens sont toujours intelligents, mais comment poser des questions stupides? Ne ressemble-t-on pas a un roi ?#
-1 0 3 0 1 4 #• Ville sous-marine?#
+1 0 3 0 1 4 #Ville sous-marine?#
 #C'est bizarre, n'est-ce pas ! C'est grace a l'enchantement magique de la Perle de Venus que les gens peuvent vivre ici si librement.#
-0 55 4 0 1 5 #• Perle de Venus ?#
+0 55 4 0 1 5 #Perle de Venus ?#
 #La legende raconte que si une belle femme venait a la palourde geante de reve ou Venus est nee, la palourde geante chanterait pour elle et lui donnerait la perle de Venus qui brillait d'un eclat violet profond en cadeau, mais malheureusement un si beau tresor est maintenant tombe entre les mains du vilain Karabang.#
-0 55 5 0 2 6 7 #• Calabon est-il venu ici aussi?#
+0 55 5 0 2 6 7 #Calabon est-il venu ici aussi?#
 #Il a creuse un passage secret de The Rock Island a mon royaume, et par le pouvoir de la magie noire, il a pris la Perle de Venus, sinon, pourquoi enleverais-je la fille pour epouser mon fils?#
-0 55 6 0 0 #• Passage secret ?#
+0 55 6 0 0 #Passage secret ?#
 #Vous etes probablement descendu de la aussi, n'est-ce pas? Le passage secret est glissant et il est difficile de retourner sur l'ile de Telok a partir de la.#
-0 52 7 0 1 8 #• Qu'en est-il des filles?#
+0 52 7 0 1 8 #Qu'en est-il des filles?#
 #Allez-vous aider le vieil homme a sauver la petite fille? Ne sois pas bete. L'Enchantement a retreci de plus en plus depuis que la Perle de Venus a ete prise, et tout le royaume compte maintenant sur elle pour prendre une autre Perle de Venus de la Palourde Geante de Reve! Sinon, le royaume sous-marin dormirait dans ce vaste ocean pour toujours!#
-0 52 8 0 1 9 #• Acceptera-t-elle d'y aller?#
+0 52 8 0 1 9 #Acceptera-t-elle d'y aller?#
 #C'est pourquoi elle l'a forcee a epouser mon fils! Devenant princesse, je ne peux naturellement pas rester a l'ecart de la question de l'ascension et de la chute du royaume, bien sur, je sais aussi que c'est mal de la persecuter, mais c'est aussi inevitable! Sinon......#
-0 52 9 2 2 10 11 #• A moins de quoi ?#
+0 52 9 2 2 10 11 #A moins de quoi ?#
 #a moins que vous ne puissiez recuperer la Perle de Venus. Si vous pouvez le recuperer, la fille et vous pouvez retourner atterrir ensemble, mais... etes-vous pret a prendre ce risque?#
-0 52 10 49 0 #• Volontaire.#
+0 52 10 49 0 #Volontaire.#
 #C'est vrai. Ensuite, prenez cette cle d'argent pour ouvrir la piece pres de ma chambre, il y a un passage a l'interieur qui est la seule sortie de la ville sous-marine, et si vous trouvez vraiment la perle de Venus, entrez dans la ville sous-marine par ce passage.#
-0 52 11 0 0 #• Reticent.#
+0 52 11 0 0 #Reticent.#
 #Oubliez-le, mais il est difficile de sortir d'ici.#
-2 55 12 2 2 13 14 #• Competences celestes?#
+2 55 12 2 2 13 14 #Competences celestes?#
 #Il n'y a pas beaucoup de gens qui ont la capacite de venir dans la ville sous-marine! C'est juste! Avez-vous recupere la Perle de Venus ? Je savais que le Ciel ne traiterait pas une si bonne personne comme moi mal, haha...#
-0 55 13 48 0 #• Recuperez-le.#
+0 55 13 48 0 #Recuperez-le.#
 #C'est genial que vous ne vous attendiez pas a trouver la Perle de Venus si rapidement! Hahahahaha! Vous avez pris la cle d'or, et la fille a ete enfermee dans le manoir a l'exterieur du palais, et je tiens maintenant ma promesse que vous pouvez l'emmener hors de la ville sous-marine avec vous. Hahahahaha! Mes perles de bebe sont enfin de retour!#
-0 55 14 0 0 #• Je ne l'ai pas encore trouve!#
+0 55 14 0 0 #Je ne l'ai pas encore trouve!#
 #Helas! ... Il semble que je vais commencer a me preparer pour le mariage...#
-1 0 15 1 0 #• Au revoir.#
+1 0 15 1 0 #Au revoir.#
 #Si seulement il y avait quelque chose de nouveau dans le monde exterieur! N'oubliez pas de revenir et de me le dire a nouveau!#

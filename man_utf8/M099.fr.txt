@@ -3,17 +3,17 @@
 
 #Il n'y a pas de bons hotels a proximite, alors restons dans un village de pecheurs.#
 #De quoi d'autre avez-vous besoin?#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Prix.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #J'attrape generalement du poisson, je fais des lits pour que les voyageurs restent quand j'ai du temps libre et je vends meme des produits d'epicerie ici.#
-1 0 3 2 2 4 5 #• Hebergement.#
+1 0 3 2 2 4 5 #Hebergement.#
 #Vivre une nuit pour vous facturer 200 yuans c'est bien, decider de vivre ?#
-0 0 4 15 0 #• Oui.#
+0 0 4 15 0 #Oui.#
 #Faites de beaux reves.#
-0 0 5 0 0 #• Non.#
+0 0 5 0 0 #Non.#
 #Besoin d'autre chose?#
-1 0 6 3 0 #• Achetez des choses.#
+1 0 6 3 0 #Achetez des choses.#
 #Ce sont des articles tres utiles, oh, achetez plus a emporter avec vous.#
-1 0 7 1 0 #• Au revoir.#
+1 0 7 1 0 #Au revoir.#
 #Au revoir.#

@@ -3,9 +3,9 @@
 
 #Bienvenue!#
 #C'est le village de Galilee.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Darcy.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #On m'a ordonne de m'en tenir a mon travail.#
-1 0 3 1 0 #• Au revoir!#
+1 0 3 1 0 #Au revoir!#
 #Au revoir!#

@@ -3,15 +3,15 @@
 
 #etes-vous un espion envoye du village d'a cote?#
 #Que se passe-t-il a nouveau! Avez-vous besoin de mon aide?#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #William Joe, ca sonne assez fort!#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #En cette periode de crise, nous nous portons volontaires pour servir notre peuple.#
-1 32 3 0 0 #• Adultere ?#
+1 32 3 0 0 #Adultere ?#
 #Ne pensez pas que si vous devenez lobbyiste, nous pardonnerons tout et vous dirons que nous n'avons pas venge le roi nain et que nous avons jure de ne pas etre humains.#
-2 32 4 0 0 #• Quelque chose?#
+2 32 4 0 0 #Quelque chose?#
 #Si vous intercedez a nouveau pour les Jenoks, ne me blamez pas de ne pas etre poli.#
-105 0 5 0 0 #• Le service?#
+105 0 5 0 0 #Le service?#
 #Merci! Heureusement, les nains n'ont pas fait irruption dans la catastrophe, et ils avaient besoin de mon service pour revenir vers moi.#
-1 0 6 1 0 #• Au revoir.#
+1 0 6 1 0 #Au revoir.#
 #Au revoir.#

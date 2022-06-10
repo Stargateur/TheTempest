@@ -3,27 +3,27 @@
 
 #Bonjour, je suis Capone, l'auberge la plus proche est une telle, de quoi avez-vous besoin? Ou voulez-vous parler?#
 #Bonjour, besoin de moi pour vous servir ?#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Je m'appelle Capone.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Je suis le proprietaire de cette boutique.#
-1 0 3 2 2 4 5 #• Hebergement.#
+1 0 3 2 2 4 5 #Hebergement.#
 #Notre magasin d'hebergement est bon marche, le service est bon, seulement 20 yuans par nuit, decide de rester?#
-0 0 4 15 0 #• Oui.#
+0 0 4 15 0 #Oui.#
 #De bons reves.#
-0 0 5 0 0 #• Non.#
+0 0 5 0 0 #Non.#
 #ca ne fait rien.#
-1 0 6 3 0 #• Magasinage?#
+1 0 6 3 0 #Magasinage?#
 #Voulez-vous acheter la meme chose?#
-1 13 7 0 1 8 #• Discuter.#
+1 13 7 0 1 8 #Discuter.#
 #Vous voyez l'ivrogne, qui boit depuis deux jours et deux nuits, et n'a pas paye.#
-0 13 8 2 2 9 10 #• Ivrogne?#
+0 13 8 2 2 9 10 #Ivrogne?#
 #Oui! C'est le gars qui developpe un muscle, ivre toute la journee, ou il est allonge sur le sol et dort inconscient, je vois qu'il ne peut pas payer, peut-etre que vous serez pret a l'aider a payer la facture, non?#
-0 13 9 16 0 #• Pret a payer.#
+0 13 9 16 0 #Pret a payer.#
 #Je sais en un coup d'oeil que vous etes une personne gentille, ce qui est vraiment bien! Au total, il devait 60 $.#
-0 13 10 43 0 #• Ne pas vouloir payer.#
+0 13 10 43 0 #Ne pas vouloir payer.#
 #Helas! Je pensais que vous etiez une personne gentille, mais il semble que j'avais tort!#
-2 13 11 2 2 9 10 #• Discuter.#
+2 13 11 2 2 9 10 #Discuter.#
 #Que diriez-vous de decider d'aider l'ivrogne a payer la facture?#
-1 0 12 1 0 #• Au revoir.#
+1 0 12 1 0 #Au revoir.#
 #Bienvenue a nouveau dans notre restaurant.#

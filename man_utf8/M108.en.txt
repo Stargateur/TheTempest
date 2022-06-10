@@ -3,17 +3,17 @@
 
 #Hello, I'm Thes and need me to serve you?#
 #Our service is the most acclaimed within a 100-mile radius.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Tess.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I'm the owner of this inn, but I occasionally sell groceries and medical medicines.#
-1 0 3 2 2 4 5 #• Accommodation?#
+1 0 3 2 2 4 5 #Accommodation?#
 #Live here for a night to charge you 300 yuan is good, the room line of sight and equipment is good!#
-0 0 4 15 0 #• Yes.#
+0 0 4 15 0 #Yes.#
 #Good dreams.#
-0 0 5 0 0 #• Don't.#
+0 0 5 0 0 #Don't.#
 #Thank you!#
-1 0 6 3 0 #• Shopping.#
+1 0 6 3 0 #Shopping.#
 #We sell a wide range of groceries, all of which are essential items for wild adventures, so what do you want to buy?#
-1 0 7 1 0 #• Goodbye.#
+1 0 7 1 0 #Goodbye.#
 #The nearby scenic spots are not bad, so if you have time, you may wish to walk around.#

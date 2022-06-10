@@ -3,13 +3,13 @@
 
 #He! Vous voyez ce fauteur de troubles dans notre maison? Ne vous souciez pas des moutons.#
 #Je suis une personne rugueuse et je ne comprends rien.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Bresita.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #N'y pense plus! Les terres agricoles ne pouvaient pas etre cultivees et elles ont ete transformees en usine d'armes.#
-32 0 3 0 0 #• Des gens rugueux?#
+32 0 3 0 0 #Des gens rugueux?#
 #Parce que je suis honnete, je subis souvent des pertes, et meme les enfants se rebellent souvent contre moi.#
-105 0 4 0 0 #• Vous ne comprenez pas?#
+105 0 4 0 0 #Vous ne comprenez pas?#
 #Mec, je te crois vraiment, trouve le meurtrier du Roi Nain, mais l'astuce est encore a venir!#
-1 0 5 1 0 #• Au revoir.#
+1 0 5 1 0 #Au revoir.#
 #Je reverrai ma recolte quand j'aurai le temps.#

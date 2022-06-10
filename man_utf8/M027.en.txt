@@ -3,15 +3,15 @@
 
 #Uncomfortable there? Has the doctor seen it?#
 #Do you have some potions to prepare on your body?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #My name is Anne Barry.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I am Dr. Calder's assistant.#
-0 0 3 0 1 4 #• Assistant?#
+0 0 3 0 1 4 #Assistant?#
 #Have any medication questions you can ask me.#
-0 0 4 0 0 #• Anthers problem?#
+0 0 4 0 0 #Anthers problem?#
 #If you are in a hurry, you can directly buy medicine to treat yourself, such as poisoning, you can buy a little detoxification herb to try it!#
-2 0 5 0 0 #• Pharmacy?#
+2 0 5 0 0 #Pharmacy?#
 #Yes! Bring some potions with you in case you need them!#
-1 0 6 1 0 #• Goodbye.#
+1 0 6 1 0 #Goodbye.#
 #Good bye.#

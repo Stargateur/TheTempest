@@ -3,15 +3,15 @@
 
 #Notre courte vie s'est averee etre un reve...#
 #Notre courte vie s'est averee etre un reve...#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Nam.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Poete.#
-1 32 3 0 1 4 #• Une courte vie ?#
+1 32 3 0 1 4 #Une courte vie ?#
 #Je ne sais pas quand je serai attrape par Karabang, et meme si je ne suis pas pris, la vie est tout aussi courte.#
-0 53 4 0 0 #• Karabang?#
+0 53 4 0 0 #Karabang?#
 #Dire... Obeissez a mon commandement illimite de mana, et les longs dormeurs dans la tombe seront egalement reveilles, la porte de la tombe s'ouvrira et les fantomes s'epuiseront...#
-1 0 5 0 0 #• Reves?#
+1 0 5 0 0 #Reves?#
 #Les reves sont completement faux, absurdes, composes, mais en meme temps corrects, indubitables, vrais... Si ce dont vous revez est illusoire..., qu'en est-il du monde reel, qu'est-ce qui est vrai ? Qu'est-ce qu'un faux?#
-1 0 6 1 0 #• Au revoir!#
+1 0 6 1 0 #Au revoir!#
 #Arretez de poursuivre activement des reves nihilistes.#

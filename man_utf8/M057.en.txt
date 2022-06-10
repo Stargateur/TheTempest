@@ -3,11 +3,11 @@
 
 #Who sent you here?#
 #Is there a pass?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Mike.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #Do not disturb, the work of the guards is a matter of human life.#
-47 0 3 0 0 #• Pass?#
+47 0 3 0 0 #Pass?#
 #This is the whale cave, it is best not to come in.#
-1 0 4 1 0 #• Goodbye!#
+1 0 4 1 0 #Goodbye!#
 #Good bye!#

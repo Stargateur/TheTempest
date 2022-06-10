@@ -3,21 +3,21 @@
 
 #Reading thousands of books, traveling thousands of miles, although I traveled in the endless sea of books, I still felt empty.#
 #Maybe it's time to experience something personally to counter the world in certificates.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #JingDulin.#
-1 0 2 0 1 3 #• Occupation?#
+1 0 2 0 1 3 #Occupation?#
 #Running this bookstore is something I've always been proud of.#
-0 43 3 0 1 4 #• Proud?#
+0 43 3 0 1 4 #Proud?#
 #My own ideal country is hell, because we are burdened with too much sin to survive, so our books are only given away and not sold.#
-0 43 4 2 2 5 6 #• Republic?#
+0 43 4 2 2 5 6 #Republic?#
 #A friend introduced me to a blueprint for an ideal country called the Book of Utopias, if I can find this huge book in my life, die without regrets, and will exchange my most valuable treasure book with it, do you have this book? Do you want to swap with me?#
-0 43 5 45 0 #• Willing.#
+0 43 5 45 0 #Willing.#
 #Oh, my God! I really didn't expect you to be so generous, so let me tell you that there are treasures hidden in the treasure book! Take advantage of it.#
-0 43 6 0 0 #• Unwilling.#
+0 43 6 0 0 #Unwilling.#
 #Young man, this book may not be important to you, but I regard it as a treasure.#
-2 0 7 0 0 #• The world in the book?#
+2 0 7 0 0 #The world in the book?#
 #In the way of interpreting all things in heaven and earth, the more esoteric part really has to be traced back to the flow of thought and the direction of memory, and all kinds of possibilities will occur around our lives, making it too late to predict...#
-2 0 8 0 0 #• Hands-on experience?#
+2 0 8 0 0 #Hands-on experience?#
 #Have you ever experienced sexism? There is a place where men stop.#
-1 0 9 1 0 #• Goodbye.#
+1 0 9 1 0 #Goodbye.#
 #How can we make ideals disappear?#

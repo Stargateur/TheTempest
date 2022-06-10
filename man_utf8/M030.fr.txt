@@ -3,11 +3,11 @@
 
 #C'est le village de la Kabbale.#
 #C'est le village de la Kabbale.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Je m'appelle Danny.#
-1 0 2 0 1 3 #• Profession?#
+1 0 2 0 1 3 #Profession?#
 #Je patrouille dans le village, vous allez vous renseigner a ce sujet, n'est-ce pas ?#
-0 0 3 0 0 #• Des nouvelles?#
+0 0 3 0 0 #Des nouvelles?#
 #Au nord-est du village, la foret est dense, il y a beaucoup de monstres puissants, et il y a un arbre geant millenaire pres de la, et il y a plusieurs personnes qui y gardent, et personne ne sait ce qui est cache a l'interieur.#
-1 0 4 1 0 #• Au revoir!#
+1 0 4 1 0 #Au revoir!#
 #Mais pour vous proteger.#

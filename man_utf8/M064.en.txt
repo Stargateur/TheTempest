@@ -3,17 +3,17 @@
 
 #Can I help you?#
 #Born in a troubled world, I only seek a short comfort for my own enjoyment.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #I'm Angel and Wells is my sir.#
-1 0 2 0 3 3 5 6 #• Occupation?#
+1 0 2 0 3 3 5 6 #Occupation?#
 #Occasionally help my husband to see the shop, otherwise do the housework, so that I hope to wear that silver beanie and go on a trip to Tahari with Wells.#
-0 0 3 0 1 4 #• Silver beanie?#
+0 0 3 0 1 4 #Silver beanie?#
 #I knit it myself with silver fishing line, and all of Jenok is such a top!#
-0 0 4 0 0 #• Silver Fishing Line?#
+0 0 4 0 0 #Silver Fishing Line?#
 #It is a specialty of the Tashali Sand Bank.#
-0 0 5 0 0 #• Tashali?#
+0 0 5 0 0 #Tashali?#
 #It's a beautiful sand bank, and along the southern coast of Jenok you'll find a path from where you'll reach beautiful Tassaly.#
-0 0 6 0 0 #• Travel?#
+0 0 6 0 0 #Travel?#
 #I once heard a traveler say that the underwater city is a very special place, and I really hope to see it.#
-1 0 7 1 0 #• Goodbye!#
+1 0 7 1 0 #Goodbye!#
 #Good bye!#

@@ -3,11 +3,11 @@
 
 #C'est Tlock Island, comment etes-vous arrive sur cette ile?!#
 #C'est l'ile de Tlock.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Franks.#
-1 53 2 0 0 #• Profession?#
+1 53 2 0 0 #Profession?#
 #Apres que Karabang ait occupe cet endroit, le travail n'etait plus le meme.#
-53 0 3 0 0 #• Profession?#
+53 0 3 0 0 #Profession?#
 #Maintenant que je suis libre, n'est-ce pas le meme travail ? Hahaha...#
-1 0 4 1 0 #• Au revoir.#
+1 0 4 1 0 #Au revoir.#
 #Au revoir!#

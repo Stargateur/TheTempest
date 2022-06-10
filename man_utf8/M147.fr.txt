@@ -3,17 +3,17 @@
 
 #Bonjour, je suis la femme de Jordon, asseyez-vous et discutez!#
 #Quand j'etais inactive, j'ai parle a Conalie.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Irima.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #J'avais l'habitude d'ouvrir l'hotel, et j'etais naturellement l'hotesse.#
-1 62 3 0 1 5 #• Chat?#
+1 62 3 0 1 5 #Chat?#
 #J'ai entendu dire que George, qui cherche quelqu'un a comparer avec son garde du corps, est vraiment un riche arriviste.#
-2 0 4 0 0 #• Connery?#
+2 0 4 0 0 #Connery?#
 #C'etait aussi une femme pauvre, incapable d'epouser la personne qu'elle aimait, et Brav etait un homme de bois, si j'avais arrache mon amant.#
-0 0 5 0 1 6 #• Garde du corps?#
+0 0 5 0 1 6 #Garde du corps?#
 #C'est l'homme de main de Kate, le Magicien du Sang ! Il porte un masque avec un badge toute la journee, et personne n'a jamais vu son vrai visage.#
-0 0 6 0 0 #• Des badges ?#
+0 0 6 0 0 #Des badges ?#
 #On dit que c'est la source de son mana, et je ne sais pas si c'est vrai.#
-1 0 7 1 0 #• Au revoir.#
+1 0 7 1 0 #Au revoir.#
 #Au revoir.#

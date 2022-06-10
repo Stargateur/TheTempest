@@ -3,21 +3,21 @@
 
 #Bienvenue au village de la Kabbale, besoin d'aide?#
 #Bonjour, je suis Madero et j'ai besoin d'aide ?#
-84 0 1 13 2 2 3 #• Profession?#
+84 0 1 13 2 2 3 #Profession?#
 #Je suis le chef de village de la Kabbale.#
-0 50 2 0 1 4 #• Village de la Kabbale?#
+0 50 2 0 1 4 #Village de la Kabbale?#
 #Le village de Kabbale est un village fonde sur l'ideologie mysterieuse de Prospero.#
-0 15 3 0 0 #• Blocage de garde?#
+0 15 3 0 0 #Blocage de garde?#
 #Afin de maintenir la securite des villageois, les gardes empechent les personnes qui ne peuvent pas communiquer dans les langues d'entrer dans le village.#
-0 15 4 0 1 5 #• Systeme ideologique ?#
+0 15 4 0 1 5 #Systeme ideologique ?#
 #Ce systeme de pensee est en grande partie une technique complexe de jeux de mots et de nombres, enseignee par Prospero.#
-0 15 5 0 1 6 #• Il est mon pere.#
+0 15 5 0 1 6 #Il est mon pere.#
 #Il s'est avere etre un descendant de Prospero! Dernierement nous n'avons guere ose quitter le village car c'est trop dangereux.#
-0 15 6 0 1 7 #• Pourquoi ?#
+0 15 6 0 1 7 #Pourquoi ?#
 #a l'exterieur du village se trouvent des monstres, pleins d'inconnus et de dangers. Si vous voulez vraiment sortir, il est preferable d'etre entierement prepare.#
-0 12 7 14 0 #• Pret ?#
+0 12 7 14 0 #Pret ?#
 #equipez-vous d'une armure dure et achetez certains des objets necessaires. Vous n'avez probablement pas assez d'argent, n'est-ce pas? Vous emportez d'abord ces 2 000 yuans avec vous. Ne soyez pas impoli, la faveur de votre pere pour nous n'est pas representee par ce peu d'argent!#
-1 0 8 0 0 #• Nom?#
+1 0 8 0 0 #Nom?#
 #Metro.#
-1 0 9 1 0 #• Au revoir.#
+1 0 9 1 0 #Au revoir.#
 #Bonne chance pour votre voyage!#

@@ -3,13 +3,13 @@
 
 #Vous voulez voir une arme ou une armure?#
 #Besoin d'autre chose?#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Shasan.#
-1 0 2 3 0 #• Armes.#
+1 0 2 3 0 #Armes.#
 #Tout est la, il suffit de le regarder.#
-1 0 3 4 0 #• Armure.#
+1 0 3 4 0 #Armure.#
 #Choisissez lentement.#
-1 0 4 8 0 #• Vendre des biens d'occasion.#
+1 0 4 8 0 #Vendre des biens d'occasion.#
 #Voyez quelles bonnes choses vous avez.#
-1 0 5 1 0 #• Au revoir.#
+1 0 5 1 0 #Au revoir.#
 #Revenez quand vous aurez le temps.#

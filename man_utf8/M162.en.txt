@@ -3,13 +3,13 @@
 
 #This is a women's village, and men stop.#
 #What's the matter?#
-1 81 1 72 0 #• Name?#
+1 81 1 72 0 #Name?#
 #Natalie.#
-1 81 2 72 0 #• Occupation?#
+1 81 2 72 0 #Occupation?#
 #I'm here to watch.#
-1 81 3 72 0 #• Men stop?#
+1 81 3 72 0 #Men stop?#
 #I'm acting on orders, don't ask me why.#
-81 0 4 0 0 #• What?#
+81 0 4 0 0 #What?#
 #Now times have changed and we can talk to men, which is great.#
-1 0 5 1 0 #• Goodbye.#
+1 0 5 1 0 #Goodbye.#
 #Good bye.#

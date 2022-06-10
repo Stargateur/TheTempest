@@ -3,15 +3,15 @@
 
 #Merci de m'avoir sauve.#
 #S'il vous plait donnez-moi une chance de vous rembourser!#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Fellini.#
-1 0 2 0 1 3 #• Profession?#
+1 0 2 0 1 3 #Profession?#
 #Bien que je sois aussi architecte, je suis bien pire que Paul.#
-0 0 3 0 1 4 #• Paul est mort.#
+0 0 3 0 1 4 #Paul est mort.#
 #Il est mort? Helas! Tout le monde doit etre triste de perdre Paul... C'est juste! Ce badge peut vous etre utile.#
-0 69 4 65 0 #• Des badges ?#
+0 69 4 65 0 #Des badges ?#
 #Quand nous avons ete emprisonnes au Parthenon, nous avons creuse un tunnel d'evasion, mais la sortie etait un village auquel les hommes n'etaient pas accessibles, alors nous nous sommes enfuis decus. Mais en creusant le passage secret, j'ai trouve un badge mysterieux, et ce badge vous sera remis, peut-etre qu'il vous aidera.#
-66 0 5 0 0 #• Recompense ?#
+66 0 5 0 0 #Recompense ?#
 #Si vous voulez vaincre le grand demon de Kate, je crains que vous ne trouviez la bonne occasion d'attaquer.#
-1 0 6 1 0 #• Au revoir.#
+1 0 6 1 0 #Au revoir.#
 #Je vous souhaite beaucoup de succes!#

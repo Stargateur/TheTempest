@@ -3,29 +3,29 @@
 
 #Is there anyone going to Dwarven Mountain? Or do you want to go somewhere else?#
 #Is there anyone going to Dwarven Mountain? Or do you want to go somewhere else?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #I'm Richard.#
-1 0 2 2 4 3 5 6 12 #• Go somewhere else.#
+1 0 2 2 4 3 5 6 12 #Go somewhere else.#
 #Where are you going?#
-93 0 3 2 2 7 11 #• Go to the village of Kabbalah.#
+93 0 3 2 2 7 11 #Go to the village of Kabbalah.#
 #Would it be nice to charge you 300 yuan?#
-24 0 4 2 2 8 11 #• Go to Dwarf Mountain.#
+24 0 4 2 2 8 11 #Go to Dwarf Mountain.#
 #Would it be nice to charge you 300 yuan?#
-96 0 5 2 2 9 11 #• Go to Telok Island.#
+96 0 5 2 2 9 11 #Go to Telok Island.#
 #Would it be nice to charge you 300 yuan?#
-97 0 6 2 2 10 11 #• Go to the world of Azluksi.#
+97 0 6 2 2 10 11 #Go to the world of Azluksi.#
 #Would it be nice to charge you 300 yuan?#
-0 0 7 22 0 #• Okay.#
+0 0 7 22 0 #Okay.#
 #Have a nice day.#
-0 0 8 77 0 #• Okay.#
+0 0 8 77 0 #Okay.#
 #Have a nice day.#
-0 0 9 78 0 #• Okay.#
+0 0 9 78 0 #Okay.#
 #Have a nice day.#
-0 0 10 79 0 #• Okay.#
+0 0 10 79 0 #Okay.#
 #Have a nice day.#
-0 0 11 0 0 #• Not good.#
+0 0 11 0 0 #Not good.#
 #Don't think about it?#
-0 0 12 0 0 #• Leave.#
+0 0 12 0 0 #Leave.#
 #Don't ride anymore?#
-1 0 13 1 0 #• Goodbye!#
+1 0 13 1 0 #Goodbye!#
 #See you later.#

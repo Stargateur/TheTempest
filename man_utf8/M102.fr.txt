@@ -3,17 +3,17 @@
 
 #Toux... Jeune homme, j'ai quelque chose a te dire... Toux...#
 #Toux toux... Toux.........#
-1 45 1 0 0 #• Nom?#
+1 45 1 0 0 #Nom?#
 #Mona.#
-41 2 2 0 0 #• Vous avez un mot?#
+41 2 2 0 0 #Vous avez un mot?#
 #Oui, la toux... Toux... La vie de mon enfant... Vous avez economise... Je dois vous dire... Toux... Revenez vers moi un autre jour, c'est dur aujourd'hui, toussez...#
-2 45 3 0 1 4 #• Prenez soin de vous!#
+2 45 3 0 1 4 #Prenez soin de vous!#
 #Je dois vous dire... Toux... Quand j'etais plus jeune, je sortais avec mon mari au pavillon Tingquan... Toux... Juste au sud du village en bord de mer... Toux! Toux! Il y a un pavillon de fontaine pres de la mer, et il y a un passage secret vers l'ile de Thelok, et il y a un petit fort sur l'ile, et je les ai vus... Toux! ... Ouvrez la porte avec deux cles de materiaux differents... Toux...#
-0 45 4 0 0 #• Deux cles ?#
+0 45 4 0 0 #Deux cles ?#
 #Oui! Toux! Toux! Je... Toux... Celui-la me voit tres clairement... Toux... La toux est une cle en forme de carapace de tortue, l'autre est une moule... Palourde... Perles de moules... Battre... Fait...#
-1 41 5 0 0 #• Vous avez un mot?#
+1 41 5 0 0 #Vous avez un mot?#
 #Mes deux enfants sont sortis du village... Toux... Aidez-moi a trouver des medicaments, ca fait plusieurs jours, si vous les avez vus... Toux... Toux, pourriez-vous s'il vous plait leur dire de revenir bientot? Toux... Toux...#
-1 2 6 1 0 #• Au revoir.#
+1 2 6 1 0 #Au revoir.#
 #Toux... N'oubliez pas de revenir vers moi.#
-2 0 7 1 0 #• Au revoir.#
+2 0 7 1 0 #Au revoir.#
 #Au revoir.#

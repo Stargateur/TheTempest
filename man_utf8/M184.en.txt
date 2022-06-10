@@ -3,31 +3,31 @@
 
 #Take the boat or ask for directions?#
 #See you again!#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #I'm Jamie.#
-1 0 2 2 5 3 4 5 6 12 #• Boat ride.#
+1 0 2 2 5 3 4 5 6 12 #Boat ride.#
 #Where are you going?#
-93 0 3 2 2 7 11 #• Kabbalah Village.#
+93 0 3 2 2 7 11 #Kabbalah Village.#
 #The boat fare is 300 yuan, do you want to take it?#
-94 0 4 2 2 8 11 #• Galilee Village.#
+94 0 4 2 2 8 11 #Galilee Village.#
 #The boat fare is 300 yuan, do you want to take it?#
-96 0 5 2 2 9 11 #• Telok Island.#
+96 0 5 2 2 9 11 #Telok Island.#
 #The boat fare is 300 yuan, do you want to take it?#
-97 0 6 2 2 10 11 #• Azluksi World.#
+97 0 6 2 2 10 11 #Azluksi World.#
 #The boat fare is 300 yuan, do you want to take it?#
-0 0 7 22 0 #• Yes.#
+0 0 7 22 0 #Yes.#
 #Have a nice day.#
-0 0 8 32 0 #• Okay.#
+0 0 8 32 0 #Okay.#
 #Have a nice day.#
-0 0 9 78 0 #• Okay.#
+0 0 9 78 0 #Okay.#
 #Have a nice day.#
-0 0 10 79 0 #• Okay.#
+0 0 10 79 0 #Okay.#
 #Have a nice day.#
-0 0 11 0 0 #• Don't.#
+0 0 11 0 0 #Don't.#
 #The fare I charged for the boat was reasonable!#
-0 0 12 0 0 #• Leave.#
+0 0 12 0 0 #Leave.#
 #Need to come back!#
-1 0 13 0 0 #• Ask for directions.#
+1 0 13 0 0 #Ask for directions.#
 #From the pier to the west is the snowy mountains, north through these small hills, all the way north is the dwarves inhabited by St. Kelly's Hill, which is a long way from here.#
-1 0 14 1 0 #• Goodbye!#
+1 0 14 1 0 #Goodbye!#
 #Come back to me when there is a need.#

@@ -3,25 +3,25 @@
 
 #My name is Antiphores, and you have finally woken up.#
 #Hello, is there something wrong with me?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Antiphores.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I'm just a fisherman.#
-1 11 3 0 2 4 6 #• Finally waking up?#
+1 11 3 0 2 4 6 #Finally waking up?#
 #When I was fishing at the beach, I saw you unconscious on the beach, and I don't know what happened?#
-0 0 4 0 1 5 #• Fishing?#
+0 0 4 0 1 5 #Fishing?#
 #The fish source near Edmer Island is abundant!#
-0 0 5 0 0 #• Edmer Island?#
+0 0 5 0 0 #Edmer Island?#
 #In fact, it should be said that it is an archipelago, but this originally secluded ghost of Prospero has been occupied by unknown forces and has become dangerous.#
-0 11 6 0 1 7 #• Seaside?#
+0 11 6 0 1 7 #Seaside?#
 #You didn't see any other buddies near your coma, but you found a book, was it yours?#
-0 11 7 0 1 8 #• Books?#
+0 11 7 0 1 8 #Books?#
 #It was as if it were a book of magic, and I knew one of the magics that could communicate with anyone, and that was what Prospero possessed.#
-0 11 8 2 2 9 10 #• Communication?#
+0 11 8 2 2 9 10 #Communication?#
 #This kind of magic seems to be called a transliteration spell! When the magic book is opened, the magic will be released, and we fishermen are not capable of understanding these things, if you need it, we will give it to you?#
-0 11 9 11 0 #• Good.#
+0 11 9 11 0 #Good.#
 #I hope you will use this divine power to save this archipelago. That's right! You're not familiar with it when you first arrive here, so head south along the coast to the village of Kabbalah and try your luck!#
-0 12 10 0 0 #• Not good.#
+0 12 10 0 0 #Not good.#
 #If you really don't want to, don't force it, come back to me when you need to.#
-1 0 11 1 0 #• Goodbye.#
+1 0 11 1 0 #Goodbye.#
 #There will be a period later.#

@@ -3,21 +3,21 @@
 
 #De quoi avez-vous besoin?#
 #De quoi avez-vous besoin?#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Cunil.#
-1 0 2 0 1 3 #• Profession?#
+1 0 2 0 1 3 #Profession?#
 #Batelier.#
-0 55 3 0 1 4 #• Pouvez-vous nous faire monter sur un bateau?#
+0 55 3 0 1 4 #Pouvez-vous nous faire monter sur un bateau?#
 #En pensant a ma pauvre fille, quelle humeur ai-je pour naviguer sur le bateau?#
-0 55 4 0 1 5 #• Fille.#
+0 55 4 0 1 5 #Fille.#
 #Le nom de ma fille est Ruo Diqian, une belle fille celebre sur l'ile rocheuse, mais elle a ete enlevee par le roi de la mer il y a un mois.#
-0 55 5 0 0 #• Roi de la mer?#
+0 55 5 0 0 #Roi de la mer?#
 #Le roi de la mer a force ma fille Ruo Diqian a epouser son fils, et moi, en tant que pere, je ne pouvais vraiment penser a aucun moyen de le sauver, je ne sais pas qui peut m'aider, helas! Maintenant, j'espere juste que Ruo Diqian pourra revenir en toute securite.#
-55 0 6 2 2 7 8 #• En bateau ?#
+55 0 6 2 2 7 8 #En bateau ?#
 #Mon bienfaiteur, nous allons au village de la Kabbale, afin que nous puissions vous emmener au fait, etes-vous pret a partir?#
-0 0 7 83 0 #• Pret a partir.#
+0 0 7 83 0 #Pret a partir.#
 #S'il vous plait montez a bord.#
-0 0 8 0 0 #• Pas encore.#
+0 0 8 0 0 #Pas encore.#
 #Revenez quand vous voulez prendre un bateau!#
-1 0 9 1 0 #• Au revoir.#
+1 0 9 1 0 #Au revoir.#
 #Besoin de quelque chose pour me revenir.#

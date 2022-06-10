@@ -3,17 +3,17 @@
 
 #Je vais voir ce qui ne va pas chez vous.#
 #Y a-t-il autre chose qui ne va pas?#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Hannah.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Je suis medecin.#
-1 0 3 9 0 #• Dependance therapeutique.#
+1 0 3 9 0 #Dependance therapeutique.#
 #Traitement de l'empoisonnement 20 yuans. *Veuillez selectionner une personne pour le traitement!#
-1 0 4 7 0 #• De-petrification.#
+1 0 4 7 0 #De-petrification.#
 #Ascenseur petrochimique 100 yuans. *Veuillez selectionner une personne pour le traitement!#
-1 0 5 10 0 #• Resurrection.#
+1 0 5 10 0 #Resurrection.#
 #Les frais de resurrection sont de 200 yuans, veuillez selectionner un partenaire.#
-1 0 6 3 0 #• Acheter des medicaments.#
+1 0 6 3 0 #Acheter des medicaments.#
 #Quels medicaments voulez-vous acheter?#
-1 0 7 1 0 #• Au revoir.#
+1 0 7 1 0 #Au revoir.#
 #Au revoir.#

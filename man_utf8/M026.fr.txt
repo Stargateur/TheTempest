@@ -3,17 +3,17 @@
 
 #Qu'est-ce qui ne va pas, se sentir mal la-bas?#
 #La sante est la chose la plus importante, et je regarde l'inconfort la-bas.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Calder.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Medecin. Il est de mon devoir de pratiquer la medecine et de sauver les gens.#
-1 0 3 9 0 #• Dependance therapeutique.#
+1 0 3 9 0 #Dependance therapeutique.#
 #Traitement de l'empoisonnement 20 yuans. *Veuillez selectionner une personne pour le traitement!#
-1 0 4 7 0 #• De-petrification.#
+1 0 4 7 0 #De-petrification.#
 #Ascenseur petrochimique 100 yuans. *Veuillez selectionner une personne pour le traitement!#
-1 0 5 10 0 #• Resurrection.#
+1 0 5 10 0 #Resurrection.#
 #Les frais de resurrection sont de 200 yuans, veuillez selectionner un partenaire.#
-1 0 6 3 0 #• Acheter des fournitures medicales.#
+1 0 6 3 0 #Acheter des fournitures medicales.#
 #N'hesitez pas a choisir.#
-1 0 7 1 0 #• Au revoir.#
+1 0 7 1 0 #Au revoir.#
 #Revenez vers moi quand il y a un besoin.#

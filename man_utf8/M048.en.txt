@@ -3,17 +3,17 @@
 
 #Want to hear my praise for the world?#
 #Enjoy a poetic life with me!#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #I'm Tom Witt.#
-1 2 2 0 0 #• Occupation?#
+1 2 2 0 0 #Occupation?#
 #I am the poet who loves this small island, falls in love with her, and is willing to accept everything...#
-1 2 3 0 0 #• Praise?#
+1 2 3 0 0 #Praise?#
 #Sometimes thousands of tinkling instruments chirp in my ears; Sometimes when I first wake up from a long sleep, I hear a sonata and fall asleep...#
-2 0 4 0 1 5 #• Poetic?#
+2 0 4 0 1 5 #Poetic?#
 #In the dream, the clouds opened the door, and countless treasures poured down on me; When I woke up, I couldn't help but cry...#
-0 0 5 0 0 #• Crying up?#
+0 0 5 0 0 #Crying up?#
 #How I want to go back to such a beautiful dream, but after the storm, it is not calm, but the invasion of demons, sad!#
-2 0 6 0 0 #• Life?#
+2 0 6 0 0 #Life?#
 #My life is full of poetry.#
-1 0 7 1 0 #• Goodbye.#
+1 0 7 1 0 #Goodbye.#
 #The door of my heart is open to the Holy Lord, bless you!#

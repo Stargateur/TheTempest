@@ -3,13 +3,13 @@
 
 #Hello, I'm Sika, is there anything wrong?#
 #This is a forbidden area for the dwarves.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Sika.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I was ordered to guard here, and idle people and so on were forbidden to pass.#
-31 32 3 0 0 #• Dwarven Forbidden Zone?#
+31 32 3 0 0 #Dwarven Forbidden Zone?#
 #Yes. At the time of martial law, trespassers were careful to land their heads on the ground.#
-32 0 4 0 0 #• Forbidden areas?#
+32 0 4 0 0 #Forbidden areas?#
 #Be careful! The road is not very good, and in order to prevent thieves, it has to be so.#
-1 0 5 1 0 #• Goodbye.#
+1 0 5 1 0 #Goodbye.#
 #Good bye.#

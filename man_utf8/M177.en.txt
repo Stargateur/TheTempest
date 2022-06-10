@@ -3,13 +3,13 @@
 
 #I had a nightmare while I was asleep.#
 #I was too lazy to go out and wanted to sleep more.#
-72 0 1 0 0 #• Name?#
+72 0 1 0 0 #Name?#
 #Simon.#
-72 0 2 0 1 3 #• Nightmares.#
+72 0 2 0 1 3 #Nightmares.#
 #The dream is an island with a large royal city, many heavily armed soldiers, heavily guarded.#
-73 74 3 0 0 #• Soldiers.#
+73 74 3 0 0 #Soldiers.#
 #They beat people when they see them, and their men are ruthless, which is terrible, and the result is...#
-74 0 4 0 0 #• Results.#
+74 0 4 0 0 #Results.#
 #And you wake up!#
-1 0 5 1 0 #• Goodbye.#
+1 0 5 1 0 #Goodbye.#
 #Well... Good look!#

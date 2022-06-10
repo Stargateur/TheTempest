@@ -3,15 +3,15 @@
 
 #It's always good to read more books.#
 #It's always good to read more books.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Quilica.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I am the elder of the Village of Water.#
-1 0 3 0 1 4 #• Books?#
+1 0 3 0 1 4 #Books?#
 #The people in our village are proud of their book collection and read poetry and books.#
-0 45 4 0 1 5 #• Read poetry books?#
+0 45 4 0 1 5 #Read poetry books?#
 #But there was always a feeling of not enough, and I heard that there was a book of utopias, a blueprint for the Republic, with an index of five hundred and sixty-six pages, which began with a description of heaven and ended with hell, and I have been looking for this book for a long time.#
-0 45 5 0 0 #• Republic?#
+0 45 5 0 0 #Republic?#
 #Although our village prides itself on first-class books and excellent carving techniques, it is still some distance from the ideal country in our hearts.#
-1 0 6 1 0 #• Goodbye!#
+1 0 6 1 0 #Goodbye!#
 #May the world join us in the sea of books.#

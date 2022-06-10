@@ -3,17 +3,17 @@
 
 #Oyo Nous avons eu assez de problemes cette fois-ci.#
 #Esperons que nous serons satisfaits de vivre en paix.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Visconti.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Je suis le chef du village de Yunok.#
-1 105 3 0 1 4 #• Probleme?#
+1 105 3 0 1 4 #Probleme?#
 #C'est une longue histoire, et je ne sais pas quels sont les faits, mais certaines personnes nous ont plantes pour assassiner le roi nain, comment est-ce possible? Lui et moi sommes freres, et la question a declare la guerre avant que la reine naine n'ait ete clarifiee, et maintenant les gens ont peur!#
-0 105 4 0 0 #• Plantation?#
+0 105 4 0 0 #Plantation?#
 #Il savait que Bailey avait dit qu'il l'avait vu de ses propres yeux. Oyo Le purificateur se purifie lui-meme !#
-105 34 5 36 0 #• Merci?#
+105 34 5 36 0 #Merci?#
 #Oui, au nom des villageois, je voudrais vous remercier, si ce n'etait de votre aide pour decouvrir la verite sur la mort du Roi Nain, je crains qu'un massacre n'aurait pas ete inevitable. Voici un casque de platine, notre tresor ancestral, envoyez-vous bien, il vous est difficile d'etre si gentil, Dieu vous benira de paix.#
-105 114 6 0 0 #• Se rencontrer?#
+105 114 6 0 0 #Se rencontrer?#
 #Tant que les villageois sont en securite, nous vous benirons ensemble.#
-1 0 7 1 0 #• Au revoir!#
+1 0 7 1 0 #Au revoir!#
 #Que le Seigneur vous benisse de tout le mieux.#

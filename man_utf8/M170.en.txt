@@ -3,25 +3,25 @@
 
 #Unexpectedly, my magic wand failed to protect the villagers.#
 #Unexpectedly, my magic wand failed to protect the villagers.#
-72 0 1 0 0 #• Name?#
+72 0 1 0 0 #Name?#
 #Ito Sherlock.#
-72 0 2 0 1 3 #• Occupation?#
+72 0 2 0 1 3 #Occupation?#
 #I'm a mage, and Snyder is my father.#
-0 0 3 0 1 4 #• Father?#
+0 0 3 0 1 4 #Father?#
 #Father has told me that you are Your Majesty the Prince, the King of Magic in this life, and it is up to you to stop Kate!#
-0 73 4 0 1 5 #• Kate?#
+0 73 4 0 1 5 #Kate?#
 #When he announced the rebuilding of the Patnon Temple, my father already had a vague sense that something was wrong, and when we learned that Kate had found the Mana Badge, we almost knew what Kate really wanted. Although the village has been prepared, it is still invincible to Kate's evil magic, but it is all because of the appearance of you, the real magician, that Pleoli is rescued.#
-0 0 5 0 1 6 #• Rescue.#
+0 0 5 0 1 6 #Rescue.#
 #Hopefully, you will be able to rescue more people who are persecuted. Oh! By the way, someone might be able to help you.#
-0 0 6 0 1 7 #• Who?#
+0 0 6 0 1 7 #Who?#
 #Arana, she knew the secret passage to Yar Island, where Kate was stationed.#
-0 0 7 0 1 8 #• Isle of Jarr?#
+0 0 7 0 1 8 #Isle of Jarr?#
 #My father and I suspected that was where Kate had found the mana badge. Just after Kate was stationed on Yar Island, Yalena suddenly copied a spell from Yar Village!#
-0 0 8 0 1 9 #• Spells?#
+0 0 8 0 1 9 #Spells?#
 #When my father saw the incantation, he solemnly warned Arana not to go to Yar Island again!#
-0 0 9 0 0 #• Why?#
+0 0 9 0 0 #Why?#
 #"The island of Jarr has been cursed!" Father simply said this.#
-72 0 10 3 0 #• Magic wand?#
+72 0 10 3 0 #Magic wand?#
 #Although my spells are not very strong, I am familiar with making magic wands! Want to buy some and try it?#
-1 0 11 1 0 #• Goodbye.#
+1 0 11 1 0 #Goodbye.#
 #Good bye.#

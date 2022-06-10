@@ -3,13 +3,13 @@
 
 #I have the latest weapons here.#
 #Want to buy some powerful gear?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Barnfield.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #Specializing in selling weapons and armor.#
-1 0 3 3 0 #• Buy weapons.#
+1 0 3 3 0 #Buy weapons.#
 #Please choose the weapon you want to buy.#
-1 0 4 4 0 #• Buy armor.#
+1 0 4 4 0 #Buy armor.#
 #Please choose the armor you want to buy.#
-1 0 5 1 0 #• Goodbye.#
+1 0 5 1 0 #Goodbye.#
 #Thank you for coming!#

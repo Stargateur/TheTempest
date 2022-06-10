@@ -3,15 +3,15 @@
 
 #Hello! I'm Bryver, do I need anything?#
 #We have everything you need, welcome to visit.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Bryver.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I'm the owner of this weapons and armor shop, which has been around for decades.#
-1 0 3 3 0 #• Buy weapons.#
+1 0 3 3 0 #Buy weapons.#
 #Let the jun choose, package you are satisfied.#
-1 0 4 4 0 #• Buy armor.#
+1 0 4 4 0 #Buy armor.#
 #Please feel free to visit, our store guarantees a complete range of goods, perfect quality and flawlessness.#
-1 0 5 8 0 #• Sell used goods.#
+1 0 5 8 0 #Sell used goods.#
 #What do you have to sell?#
-1 0 6 1 0 #• Goodbye!#
+1 0 6 1 0 #Goodbye!#
 #Thank you for coming!#

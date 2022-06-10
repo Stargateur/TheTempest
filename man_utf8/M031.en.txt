@@ -3,11 +3,11 @@
 
 #Need me to give you a conscience advice?#
 #Need me to give you a conscience advice?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #People call me Ukulele.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #Look at my gear and you know I'm a good man defending the manor!#
-1 0 3 0 0 #• Advice of conscience.#
+1 0 3 0 0 #Advice of conscience.#
 #There are many monsters outside the village, most of them will be hidden during the day, if you want to rush to the road is safer, once the monsters come out at night, I am afraid it will be more troublesome.#
-1 0 4 1 0 #• Goodbye!#
+1 0 4 1 0 #Goodbye!#
 #Good bye.#

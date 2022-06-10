@@ -3,17 +3,17 @@
 
 #Le timing n'etait pas bon, et j'ai aussi envoye un messager pour sauver les gens.#
 #Oui! Plus vieux, les yeux ne sont pas tres bons.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Walden est mon nom.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Je devrais etre considere comme le chef de village de ce village, mais il n'y a pas de medecin professionnel dans le village, donc si vous avez une maladie, venez a moi!#
-1 0 3 9 0 #• Dependance therapeutique.#
+1 0 3 9 0 #Dependance therapeutique.#
 #Traitement de l'empoisonnement 20 yuans. *Veuillez selectionner une personne pour le traitement!#
-1 0 4 7 0 #• De-petrification.#
+1 0 4 7 0 #De-petrification.#
 #Ascenseur petrochimique 100 yuans. *Veuillez selectionner une personne pour le traitement!#
-1 0 5 10 0 #• Resurrection.#
+1 0 5 10 0 #Resurrection.#
 #Les frais de resurrection sont de 200 yuans, veuillez selectionner un partenaire.#
-1 0 6 3 0 #• Acheter des medicaments?#
+1 0 6 3 0 #Acheter des medicaments?#
 #Veuillez selectionner la meme chose.#
-1 0 7 1 0 #• Au revoir.#
+1 0 7 1 0 #Au revoir.#
 #Lorsque vous etes en deplacement, mefiez-vous des mechants.#

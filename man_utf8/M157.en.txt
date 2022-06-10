@@ -3,15 +3,15 @@
 
 #I'm a nurse at Battnon, what's the matter?#
 #Oh! It's time to go, all the way!#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Marta.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I'm a nurse.#
-1 65 3 0 1 4 #• Bartholnon?#
-#• Since Kate released the prison inmates, the villagers have moved away one after another.#
-0 0 4 0 0 #• Prison?#
+1 65 3 0 1 4 #Bartholnon?#
+#Since Kate released the prison inmates, the villagers have moved away one after another.#
+0 0 4 0 0 #Prison?#
 #The people in the prison who are now in prison are not criminals, but captives who have come to work as laborers.#
-1 0 4 3 0 #• Nurses.#
+1 0 4 3 0 #Nurses.#
 #Because I'm just a nurse, I can only sell you some medical supplies.#
-1 0 5 1 0 #• Goodbye.#
+1 0 5 1 0 #Goodbye.#
 #Good bye.#

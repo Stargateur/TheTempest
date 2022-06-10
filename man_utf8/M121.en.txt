@@ -3,17 +3,17 @@
 
 #These days, their father and son are very busy.#
 #Have time to stay a few more days and come to our royal wedding together.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Jonard.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #As the queen of the underwater city, that honor depended on cultivation.#
-1 55 3 0 2 4 5 #• Busy?#
+1 55 3 0 2 4 5 #Busy?#
 #Oh, yes! My mischievous son was about to marry a good girl, and the crisis in the underwater city was finally lifted. Double happiness is at the door, of course, you have to celebrate Luo!#
-0 55 4 0 0 #• Celebrate?#
+0 55 4 0 0 #Celebrate?#
 #It's just that the girl doesn't seem to be very willing, and she said that we forced the kiss.#
-0 55 5 0 0 #• Crisis in Underwater City?#
+0 55 5 0 0 #Crisis in Underwater City?#
 #That's no longer a threat, if you want to know better, talk to the king, maybe he will tell you.#
-55 0 6 0 0 #• Is the wedding still taking place?#
+55 0 6 0 0 #Is the wedding still taking place?#
 #Today a joy and a worry, happy to find the beloved Pearl of Venus, worried that my son lost a great opportunity, good girls are really difficult to find, especially my son is spoiled, temper is not very good.#
-1 0 7 1 0 #• Goodbye.#
+1 0 7 1 0 #Goodbye.#
 #There will be a period later.#

@@ -3,17 +3,17 @@
 
 #I am The Mother of Sirlo.#
 #Are you looking for me?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #I am Gloria, Silo's mother.#
-16 17 2 2 2 3 4 #• Silo.#
+16 17 2 2 2 3 4 #Silo.#
 #The time during which Siro lost his toy has been very sad, and I should thank you for helping him find the toy. Shiloh's father died two years ago, and the helmet can no longer be used, so I'll give it to you. It's rare that you are so kind, there is a book here, which Silo picked up while playing on the beach, anyway, I don't know any big characters, I will give it to you.#
-0 17 3 18 0 #• Good.#
+0 17 3 18 0 #Good.#
 #Thank you for coming here often when you have time.#
-0 17 4 0 0 #• Not good.#
+0 17 4 0 0 #Not good.#
 #Maybe you'll have to come back to me later!#
-1 0 5 0 0 #• Occupation?#
+1 0 5 0 0 #Occupation?#
 #Housewife.#
-17 0 6 0 0 #• Silo.#
+17 0 6 0 0 #Silo.#
 #Shiloh was much better off finding the toy, thank you so much.#
-1 0 7 1 0 #• Goodbye.#
+1 0 7 1 0 #Goodbye.#
 #Bless you!#

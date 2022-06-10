@@ -3,17 +3,17 @@
 
 #He! Avez-vous deja vu ma bonne amie Ida?#
 #Tu joues avec moi ! C'etait tellement ennuyeux que mes amis ne savaient pas ou aller.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Je m'appelle Mickey.#
-1 0 2 0 1 3 #• Ida?#
+1 0 2 0 1 3 #Ida?#
 #Sais-tu? Je detestais son nouvel ami.#
-0 0 3 0 1 4 #• De nouveaux amis ?#
+0 0 3 0 1 4 #De nouveaux amis ?#
 #Il prefere etre ami avec ce monstre que de m'ignorer, blabla...#
-0 0 4 0 1 5 #• Des monstres ?#
+0 0 4 0 1 5 #Des monstres ?#
 #C'est le Dragon Vert qui vit au bord de la falaise ! L'adulte a dit que le dragon vert mangerait des gens, et ce jour-la, il l'a mange, je n'ai pas ... Ouf... Comme c'est pathetique !#
-0 0 5 0 1 6 #• Falaises?#
+0 0 5 0 1 6 #Falaises?#
 #Juste au sud-est du village, la falaise est tres haute, et vous devriez pouvoir voler loin d'en haut!#
-0 0 6 0 0 #• Voler loin!?#
+0 0 6 0 0 #Voler loin!?#
 #Oh! Comment les gens peuvent-ils voler! Bonjour stupide !#
-1 0 7 1 0 #• Au revoir.#
+1 0 7 1 0 #Au revoir.#
 #Au revoir!#

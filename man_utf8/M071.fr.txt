@@ -3,11 +3,11 @@
 
 #He! Vous voulez entrer? Pas si facile.#
 #Il y a quelque chose a trouver quelqu'un d'autre, je n'ai pas le temps de faire attention a toi.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Nix.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Je ne me voyais pas dans cette zone dangereuse.#
-2 0 3 0 0 #• Non disponible?#
+2 0 3 0 0 #Non disponible?#
 #S'il vous plait, ne bloquez pas mon point de vue.#
-1 0 4 1 0 #• Au revoir.#
+1 0 4 1 0 #Au revoir.#
 #Je ne veux pas te revoir.#

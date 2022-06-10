@@ -3,9 +3,9 @@
 
 #Vous me cherchez? ...#
 #Pas de circonstances particulieres, ne perturbez pas mon travail.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Lucille.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #J'ai une tache importante a accomplir, et je peux difficilement vous le dire.#
-1 0 3 1 0 #• Au revoir.#
+1 0 3 1 0 #Au revoir.#
 #Au revoir.#

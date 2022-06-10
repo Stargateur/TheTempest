@@ -3,19 +3,19 @@
 
 #This year's harvest is not good!#
 #There is no other business to do and I want to change careers.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #I'm just a rough guy, Kinsas, and that's a bad name.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #It's not a special job, it's just a variety of cotton.#
-1 29 3 0 1 4 #• Harvest?#
+1 29 3 0 1 4 #Harvest?#
 #When the cotton harvest is better, you can store some cotton wool to sell.#
-0 29 4 2 2 5 6 #• Sell cotton wool?#
+0 29 4 2 2 5 6 #Sell cotton wool?#
 #This is the lightest kind of cotton, since you came here, even if you are 1,000 yuan good, do you want to buy it?#
-0 29 5 30 0 #• Buy.#
+0 29 5 30 0 #Buy.#
 #I hope you have a use value in carrying it with you.#
-0 29 6 0 0 #• Not bought.#
+0 29 6 0 0 #Not bought.#
 #You really don't know the goods, come back to me when you need it!#
-2 0 7 0 0 #• Change of career?#
+2 0 7 0 0 #Change of career?#
 #Look at my cotton field, it is simply a rare variety in the world, but there are not many people who know the goods, and the business is not easy to do!#
-1 0 8 1 0 #• Goodbye!#
+1 0 8 1 0 #Goodbye!#
 #Good bye!#

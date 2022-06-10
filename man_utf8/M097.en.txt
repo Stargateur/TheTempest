@@ -3,17 +3,17 @@
 
 #The timing was not good, and I also sent a messenger to save people.#
 #Ay! Older, eyes are not very good.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Walden is my name.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I should be considered the village chief of this village, but there is no professional doctor in the village, so if you have a disease, come to me!#
-1 0 3 9 0 #• Therapeutic addiction.#
+1 0 3 9 0 #Therapeutic addiction.#
 #Treatment of poisoning 20 yuan. *Please select one person for treatment!#
-1 0 4 7 0 #• De-petrification.#
+1 0 4 7 0 #De-petrification.#
 #Lift petrochemical 100 yuan. *Please select one person for treatment!#
-1 0 5 10 0 #• Resurrection.#
+1 0 5 10 0 #Resurrection.#
 #The resurrection fee is 200 yuan, please select a partner.#
-1 0 6 3 0 #• Buy medicine?#
+1 0 6 3 0 #Buy medicine?#
 #Please select the same.#
-1 0 7 1 0 #• Goodbye.#
+1 0 7 1 0 #Goodbye.#
 #When you're out and about, beware of villains.#

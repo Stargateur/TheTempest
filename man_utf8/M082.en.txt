@@ -3,9 +3,9 @@
 
 #By name, stranger, the village of Jenok is now under martial law.#
 #What's wrong?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Virgil.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #The work of guarding is something that ordinary people can't do.#
-1 0 3 1 0 #• Goodbye!#
+1 0 3 1 0 #Goodbye!#
 #Good bye.#

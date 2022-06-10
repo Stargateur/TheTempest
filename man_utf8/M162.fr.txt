@@ -3,13 +3,13 @@
 
 #C'est un village de femmes, et les hommes s'arretent.#
 #Qu'est-ce qu'll y a?#
-1 81 1 72 0 #• Nom?#
+1 81 1 72 0 #Nom?#
 #Natalie.#
-1 81 2 72 0 #• Profession?#
+1 81 2 72 0 #Profession?#
 #Je suis ici pour regarder.#
-1 81 3 72 0 #• Les hommes s'arretent?#
+1 81 3 72 0 #Les hommes s'arretent?#
 #J'agis sur ordre, ne me demandez pas pourquoi.#
-81 0 4 0 0 #• Quoi?#
+81 0 4 0 0 #Quoi?#
 #Maintenant, les temps ont change et nous pouvons parler aux hommes, ce qui est genial.#
-1 0 5 1 0 #• Au revoir.#
+1 0 5 1 0 #Au revoir.#
 #Au revoir.#

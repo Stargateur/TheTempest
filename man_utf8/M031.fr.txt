@@ -3,11 +3,11 @@
 
 #Besoin que je vous donne un conseil de conscience?#
 #Besoin que je vous donne un conseil de conscience?#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Les gens m'appellent Ukulele.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Regardez mon equipement et vous savez que je suis un homme bon qui defend le manoir!#
-1 0 3 0 0 #• Conseils de conscience.#
+1 0 3 0 0 #Conseils de conscience.#
 #Il y a beaucoup de monstres en dehors du village, la plupart d'entre eux seront caches pendant la journee, si vous voulez vous precipiter sur la route est plus sur, une fois que les monstres sortent la nuit, j'ai peur que ce soit plus genant.#
-1 0 4 1 0 #• Au revoir!#
+1 0 4 1 0 #Au revoir!#
 #Au revoir.#

@@ -3,9 +3,9 @@
 
 #Oh! Mon honorable Prince, nous nous sommes enfin rencontres.#
 #Oh! Mon honorable Prince, nous nous sommes enfin rencontres.#
-1 0 1 0 1 2 #• Kate!?#
+1 0 1 0 1 2 #Kate!?#
 #Je ne m'attendais pas a ce que vous vous souveniez de moi, c'est incroyable! Hey hey hey hey...#
-0 78 2 0 1 3 #• Vous etes les sbires de cet Antonio !#
+0 78 2 0 1 3 #Vous etes les sbires de cet Antonio !#
 #Antonio? Le gars qui crie? Bourdonner! Apres avoir resolu vos ennuis, je retournerai a Milan avec toute une armee, et des que Prospero sera pendu, je leverai immediatement une armee contre votre oncle ivre, je vous vengerai, vous et votre pere∼ haha, alors je serai naturellement le roi de Milan soutenu par tout le peuple, hahahahaha! ...#
-0 78 3 1 0 #• Des mechants meprisables!#
+0 78 3 1 0 #Des mechants meprisables!#
 #Emmenez cette phrase en enfer ! Moi et les habitants de Milan ∼ allez nous manquer, hahahaha...#

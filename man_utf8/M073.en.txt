@@ -3,11 +3,11 @@
 
 #This is the Dwarven Cave, is there anything wrong?#
 #St. Kelly's Hill is the warmest home of our dwarves!#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Robert.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #We create tools to strengthen ethnic armed forces to serve the people.#
-2 0 3 0 0 #• Mount St. Kelly?#
+2 0 3 0 0 #Mount St. Kelly?#
 #Originally, it was in the same vein as the Patnon Mountains in the north, but after several earthquakes, the fault between the Patnon Mountains and the Saint Kelly Mountains fell, and now it can only be seen across the sea.#
-1 0 4 1 0 #• Goodbye.#
+1 0 4 1 0 #Goodbye.#
 #Good bye!#

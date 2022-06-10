@@ -3,9 +3,9 @@
 
 #C'est la route principale de la ville sous-marine, a-t-elle besoin d'etre informee?#
 #Rien de special, ne venez pas a moi.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Jacques est le nom de l'oncle, quoi de neuf!#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Un travail de garde aussi dur, etes-vous egalement interesse?#
-1 0 3 1 0 #• Au revoir.#
+1 0 3 1 0 #Au revoir.#
 #Rien a trainer!#

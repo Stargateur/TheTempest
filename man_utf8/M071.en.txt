@@ -3,11 +3,11 @@
 
 #Hey! Want to come in? Not so easy.#
 #There is something to find someone else, I don't have time to pay attention to you.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Nix.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I didn't see myself in this dangerous area.#
-2 0 3 0 0 #• Not available?#
+2 0 3 0 0 #Not available?#
 #Please don't block my view.#
-1 0 4 1 0 #• Goodbye.#
+1 0 4 1 0 #Goodbye.#
 #I don't want to see you again.#

@@ -3,13 +3,13 @@
 
 #Puis-je vous poser une question, monsieur?#
 #Mon pere m'a demande de lire le livre et m'a dit que c'etait bon pour moi !#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Diane Ryder.#
-1 2 2 0 1 3 #• Des questions?#
+1 2 2 0 1 3 #Des questions?#
 #Comment pouvons-nous avoir un monde de desirables?#
-0 0 3 0 0 #• Le monde vers lequel vous regardez?#
+0 0 3 0 0 #Le monde vers lequel vous regardez?#
 #Il y a un livre d'utopies qui mentionne toutes sortes de mondes desirables, et je crois que ce doit etre un livre interessant.#
-2 0 4 0 0 #• Des livres?#
+2 0 4 0 0 #Des livres?#
 #C'est le tome de Shakespeare, qui traite de tous les aspects de la vie sociale et de l'esprit humain, et une telle perspicacite et experience de vie exquise et vaste doit donner vie a toutes sortes de personnages sur sa scene, je n'en ai lu que quelques-uns, et je ne comprends toujours pas tout a fait sa signification profonde.#
-1 0 5 1 0 #• Au revoir.#
+1 0 5 1 0 #Au revoir.#
 #Avoir plus de temps pour pratiquer la vie spirituelle.#

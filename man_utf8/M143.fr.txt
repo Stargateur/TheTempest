@@ -3,25 +3,25 @@
 
 #Bonjour! Je m'appelle Caverny et je suis la fille unique de George.#
 #Le pere aime que les autres lui plaisent le plus!#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Caverneux.#
-1 62 2 0 1 3 #• Enfant unique?#
+1 62 2 0 1 3 #Enfant unique?#
 #Beaucoup d'hommes viennent proposer, ce qui est vraiment accablant.#
-0 0 3 0 1 4 #• Mendier... Proposer???#
+0 0 3 0 1 4 #Mendier... Proposer???#
 #Qui veut que je sois une femme riche et une fille unique, je sais que beaucoup de gens viennent pour de l'argent, ils ne m'aiment pas vraiment, ils veulent juste faire plaisir a leur pere.#
-0 62 4 0 1 5 #• Pour plaire?#
+0 62 4 0 1 5 #Pour plaire?#
 #Pere a toujours aime montrer qu'il avait un garde du corps fort, et si quelqu'un venait le defier, c'etait la chose la plus heureuse pour lui.#
-0 62 5 0 2 6 9 #• Garde du corps?#
+0 62 5 0 2 6 9 #Garde du corps?#
 #Vous voulez dire Blood Wizard? ecoutez ma mere, il etait a l'origine enferme a la prison de Patnon!#
-0 62 6 0 1 7 #• Sorcier de sang?#
+0 62 6 0 1 7 #Sorcier de sang?#
 #Il pretendait etre le subordonne d'un general.#
-0 62 7 0 1 8 #• General?#
+0 62 7 0 1 8 #General?#
 #Je ne sais pas, mais apres l'arrivee du Sorcier du Sang, son pere a toujours dit qu'il etait sur le point de devenir le duc d'Anobap !#
-0 62 8 0 0 #• Duc d'Anobap ?#
+0 62 8 0 0 #Duc d'Anobap ?#
 #Pere a dit qu'il etait le duc qui etait en charge des quatre villages voisins!#
-0 62 9 0 1 10 #• Bartholnon?#
+0 62 9 0 1 10 #Bartholnon?#
 #Apres la rupture du pont d'Azluxhi, un groupe de troupes se dirigea vers l'est en direction de Patnon via Gnostic, et en quelques jours, Grace et son fils quitterent Patnon.#
-0 62 10 0 0 #• Demenager?#
+0 62 10 0 0 #Demenager?#
 #Oh oui! Apres la liberation des prisonniers de la prison de Patnon, ils sont sortis a la hate, les ont ecoutes, et quand ils etaient sur le point de partir, les soldats grossiers ont fouille un par un, comme s'ils cherchaient quelque chose!#
-1 0 11 1 0 #• Au revoir.#
+1 0 11 1 0 #Au revoir.#
 #J'espere persuader mon pere de ne plus utiliser de gardes du corps.#

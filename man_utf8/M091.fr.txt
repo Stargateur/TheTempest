@@ -3,15 +3,15 @@
 
 #Je voulais sortir et me promener.#
 #Bien que ce soit ma maison, j'ai longtemps ete fatigue de rester.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Barney.#
-1 0 2 0 1 3 #• a l'exterieur?#
+1 0 2 0 1 3 #a l'exterieur?#
 #Me! Meme cette petite ile n'est jamais sortie, est-elle tres terreuse? Mon pere parlait de la peche tous les jours et ne se souciait pas des problemes de nos enfants.#
-0 0 3 0 1 5 #• Peche?#
+0 0 3 0 1 5 #Peche?#
 #Il avait l'habitude de dire qu'avec ce filet de peche special, vous pouvez attraper du poisson dans la mer plus profonde, ahem! Quel est le probleme avec moi?#
-2 0 4 0 0 #• Fatigue de rester?#
+2 0 4 0 0 #Fatigue de rester?#
 #Pere a dit qu'il etait alle en mer au sud, et qu'il y avait une ile plus grande, en forme de nn, et un temple desert, et qu'il voulait vraiment explorer.#
-0 0 5 0 0 #• Filets de peche speciaux?#
+0 0 5 0 0 #Filets de peche speciaux?#
 #C'est un filet tisse avec du fil de peche en argent, rien d'interessant, n'en parlons pas d'accord?#
-1 0 6 1 0 #• Au revoir!#
+1 0 6 1 0 #Au revoir!#
 #Emmenez-moi a la rencontre et a la vue!#

@@ -3,5 +3,5 @@
 
 #Something went wrong there!#
 ##
-1 0 1 1 0 #• Goodbye.#
+1 0 1 1 0 #Goodbye.#
 #Good bye.#

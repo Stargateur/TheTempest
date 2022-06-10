@@ -3,13 +3,13 @@
 
 #Avez-vous vu mon maitre?#
 #Le terrain ici est dangereux.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Speyer.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Je suis un guerrier a la retraite et je protege actuellement mon maitre.#
-1 53 3 0 0 #• Maitre?#
+1 53 3 0 0 #Maitre?#
 #C'etait Karabang, qui avait une personnalite feroce.#
-53 0 4 0 0 #• Quel est le risque?#
+53 0 4 0 0 #Quel est le risque?#
 #La grotte est pleine de pieges.#
-1 0 5 1 0 #• Au revoir!#
+1 0 5 1 0 #Au revoir!#
 #Fais attention!!#

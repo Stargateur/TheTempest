@@ -3,17 +3,17 @@
 
 #Hey! Ever seen my good friend Ida?#
 #You play with me! It was so boring that my friends didn't know where to go.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #My name is Mickey.#
-1 0 2 0 1 3 #• Ida?#
+1 0 2 0 1 3 #Ida?#
 #Do you know? I hated his new friend.#
-0 0 3 0 1 4 #• New friends?#
+0 0 3 0 1 4 #New friends?#
 #He'd rather be friends with that monster than ignore me, blah...#
-0 0 4 0 1 5 #• Monsters?#
+0 0 4 0 1 5 #Monsters?#
 #It's the Green Dragon that lives on the edge of the cliff! The adult said that the green dragon would eat people, and that day he ate him, I didn't ... Whew... How pathetic!#
-0 0 5 0 1 6 #• Cliffs?#
+0 0 5 0 1 6 #Cliffs?#
 #Just to the southeast of the village, the cliff is very high, and you should be able to fly far from above!#
-0 0 6 0 0 #• Fly far!?#
+0 0 6 0 0 #Fly far!?#
 #Oh! How can people fly! Hello stupid!#
-1 0 7 1 0 #• Goodbye.#
+1 0 7 1 0 #Goodbye.#
 #Bye!#

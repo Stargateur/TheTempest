@@ -3,13 +3,13 @@
 
 #J'avais l'habitude d'aller au village des femmes avec Arana.#
 #Vous pouvez aller a Arana, son bel homme prefere.#
-72 0 1 0 0 #• Nom?#
+72 0 1 0 0 #Nom?#
 #Nicola.#
-72 73 2 0 2 3 4 #• Village de femmes?#
+72 73 2 0 2 3 4 #Village de femmes?#
 #La derniere fois qu'Alana m'a emmene la-bas, nous n'avons pas ose entrer a l'interieur, nous avons juste regarde dehors.#
-72 73 3 0 0 #• Arana?#
+72 73 3 0 0 #Arana?#
 #Juste a l'est, non loin d'ici a la peripherie.#
-0 75 4 0 0 #• Vous n'osez pas entrer?#
+0 75 4 0 0 #Vous n'osez pas entrer?#
 #Le village etait maudit, qui a ose entrer? Cependant, il y a quelques mots a l'entree du village, disant que les hommes ne sont pas autorises a entrer.#
-1 0 5 1 0 #• Au revoir.#
+1 0 5 1 0 #Au revoir.#
 #J'espere que vous pourrez egalement visiter le village des femmes.#

@@ -3,17 +3,17 @@
 
 #a vrai dire, s'il y a un festival dans la famille royale, ce ne sont que nos roturiers qui sont malchanceux.#
 #La vie n'est pas aussi facile que vous le pensez.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Jeff Daniel.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Je fais fortune en pechant.#
-1 55 3 0 2 4 5 #• Festivals?#
+1 55 3 0 2 4 5 #Festivals?#
 #Il etait malheureux que le roi ait finalement trouve la jeune fille qui avait pris la perle, mais a ete forcee d'epouser le fils malefique.#
-0 55 4 0 0 #• Quelles perles prendre?#
+0 55 4 0 0 #Quelles perles prendre?#
 #C'est le secret de la ville sous-marine, et nous, les petits gens, n'osons pas le reveler avec desinvolture.#
-0 55 5 0 0 #• Adolescente?#
+0 55 5 0 0 #Adolescente?#
 #J'ai entendu dire que c'etait la plus belle fille de The Rock Island! C'etait pitoyable d'etre enfermee dans ce grand manoir maintenant, et d'entendre ses sanglots sanglotants la nuit.#
-2 0 6 0 0 #• La vie?#
+2 0 6 0 0 #La vie?#
 #Les jours des pecheurs ont longtemps ete exploites.#
-1 0 7 1 0 #• Au revoir!#
+1 0 7 1 0 #Au revoir!#
 #Si vous en avez l'occasion, j'espere vous en parler davantage.#

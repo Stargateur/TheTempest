@@ -3,13 +3,13 @@
 
 #The dungeons here are very dangerous, you are wearing tattered equipment... Is it to fill the gap between people's teeth?#
 #Again... I met again, what a fate!#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Tandy.#
-1 2 2 1 0 #• Is it okay to go into the dungeon together?#
+1 2 2 1 0 #Is it okay to go into the dungeon together?#
 #Going into the dungeons? Belch... I wait... Wait... Wait until the weather is better and then join it, that's it, I'll go first!#
-2 75 3 0 1 4 #• Is it okay to go into the dungeon together?#
+2 75 3 0 1 4 #Is it okay to go into the dungeon together?#
 #Or do you want to go into the dungeon? Belch... I... I'm waiting for a friend today! You go down first, don't wait for me, really... Don't wait for me!#
-0 75 4 1 0 #• Are you really reluctant to join?#
+0 75 4 1 0 #Are you really reluctant to join?#
 #☆▲＊○φ... Not... Haven't seen such an annoying adventurer, if you want to go, go on your own, don't drag me into the water, please! Goodbye goodbye!#
-75 0 5 1 0 #• Join... Team... Five...#
+75 0 5 1 0 #Join... Team... Five...#
 #I have swore that I will not kill in this life, please spare me, great hero...#

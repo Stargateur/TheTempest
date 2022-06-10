@@ -3,15 +3,15 @@
 
 #I wanted to go out and walk around.#
 #Although this is my home, I have long been tired of staying.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Barney.#
-1 0 2 0 1 3 #• Outside?#
+1 0 2 0 1 3 #Outside?#
 #Me! Even this small island has never been out, is it very earthy? My father talked about fishing every day and didn't care about the troubles of our children.#
-0 0 3 0 1 5 #• Fishing?#
+0 0 3 0 1 5 #Fishing?#
 #He used to say that with that special fishing net, you can catch fish in the deeper sea, ahem! What's the matter with me?#
-2 0 4 0 0 #• Tired of staying?#
+2 0 4 0 0 #Tired of staying?#
 #Father said that he had gone out to sea to the south, and there was a larger island, shaped a bit like nn, and a deserted temple, and really wanted to explore.#
-0 0 5 0 0 #• Special fishing nets?#
+0 0 5 0 0 #Special fishing nets?#
 #It's a net woven with silver fishing thread, nothing interesting, let's not talk about this okay?#
-1 0 6 1 0 #• Goodbye!#
+1 0 6 1 0 #Goodbye!#
 #Take me out to meet and see!#

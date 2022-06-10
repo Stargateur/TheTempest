@@ -3,27 +3,27 @@
 
 #He! etes-vous ici pour chasser?#
 #Est-ce que ca se passe bien ces derniers temps?#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Hagi Han kang.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Gagnez votre vie en chassant.#
-1 20 3 0 1 4 #• La chasse?#
+1 20 3 0 1 4 #La chasse?#
 #Je pensais que vous etiez ici pour chasser, et vous avez regarde a droite, etait-ce une foret epaisse? Il y a beaucoup de proies qui y habitent, et nous l'appelons tous la Foret-Noire.#
-0 20 4 0 2 5 10 #• Foret-Noire?#
+0 20 4 0 2 5 10 #Foret-Noire?#
 #Puits! Mais depuis que les voleurs avaient pris la Foret-Noire comme habitation, nous avions essaye de ne pas nous en approcher, et la Galilee ne pouvait pas y aller maintenant.#
-0 20 5 0 2 11 6 #• Voleurs!#
+0 20 5 0 2 11 6 #Voleurs!#
 #Il pretendait etre le Roi Demon de la Foret-Noire, bien qu'il ne ferait de mal a personne, mais il a pille beaucoup de bijoux en or et en argent avec un physique fort, je ne sais pas si le personnage qui a vole le livre tout a l'heure est lui?#
-0 20 6 0 1 7 #• Des livres?#
+0 20 6 0 1 7 #Des livres?#
 #Il a ete laisse par mes ancetres, et il venait d'etre vole, et mon fils a vu une silhouette partir rapidement et immediatement poursuivie apres elle.#
-0 20 7 0 1 8 #• Fils.#
+0 20 7 0 1 8 #Fils.#
 #Mon fils, Dyvis, etait grand et vetu d'un costume de chasse, et il craignait d'etre seul pour courir apres les voleurs de livres, car recemment il y avait eu un terrible Karabang.#
-0 20 8 0 1 9 #• Karabang.#
+0 20 8 0 1 9 #Karabang.#
 #Un gobelin au comportement etrange qui habitait autrefois une grotte de baleine, je ne savais pas grand-chose de lui, mais le simple fait de voir le regard malefique sous ses sourcils etait effrayant.#
-0 20 9 0 0 #• Grotte des baleines.#
+0 20 9 0 0 #Grotte des baleines.#
 #C'est un trou sans fond dans la partie sud de la Foret-Noire.#
-0 0 10 0 0 #• Galilee?#
+0 0 10 0 0 #Galilee?#
 #Une belle ville dans la moitie orientale de la Foret-Noire. Maintenant, peu importe la quantite de proies chassees, elles ne peuvent etre vendues qu'a la Kabbale.#
-0 0 11 0 0 #• Roi Demon de la Foret-Noire?#
+0 0 11 0 0 #Roi Demon de la Foret-Noire?#
 #J'avais infiltre son repaire, mais des que je suis entre, il est sorti de la porte secrete et a du fuir rapidement.#
-1 0 12 1 0 #• Au revoir.#
+1 0 12 1 0 #Au revoir.#
 #Bon voyage.#

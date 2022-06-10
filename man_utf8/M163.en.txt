@@ -3,15 +3,15 @@
 
 #I miss my father and husband.#
 #On the surface, we look calm, but we don't.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Jessica.#
-1 0 2 0 1 3 #• Occupation?#
+1 0 2 0 1 3 #Occupation?#
 #My husband and my father went into business together, but they both died in battle.#
-0 0 3 0 1 4 #• Killed in battle?#
+0 0 3 0 1 4 #Killed in battle?#
 #When Kate came to the island, the village was forced to hand over a large amount of grain every day to supply his army, and later we could not pay enough grain, and they took all the children! The men in the village plan to assassinate Kate while transporting the remaining grain into the temple, but they all die in battle, and none of them survive... In the village, only women are left...#
-0 0 4 0 0 #• What a cruelty!#
+0 0 4 0 0 #What a cruelty!#
 #Then, JeepLoy took charge of the village and cast a curse that all visible men would never be able to enter the village again, and she set up a magic wall on the only road from the village to the temple, so that no one could threaten Kate's safety anymore!#
-75 0 5 0 0 #• Curse lifted?#
+75 0 5 0 0 #Curse lifted?#
 #Thanks to you, this terrible curse can be lifted.#
-1 0 6 1 0 #• Goodbye.#
+1 0 6 1 0 #Goodbye.#
 #May God bless you.#

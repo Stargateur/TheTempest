@@ -3,11 +3,11 @@
 
 #C'est la grotte des Nains, y a-t-il quelque chose qui ne va pas?#
 #St. Kelly's Hill est la maison la plus chaleureuse de nos nains!#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Robert.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Nous creons des outils pour renforcer les forces armees ethniques au service de la population.#
-2 0 3 0 0 #• Mont St. Kelly?#
+2 0 3 0 0 #Mont St. Kelly?#
 #a l'origine, c'etait dans la meme veine que les montagnes Patnon dans le nord, mais apres plusieurs tremblements de terre, la faille entre les montagnes Patnon et les montagnes Saint Kelly est tombee, et maintenant elle ne peut etre vue que de l'autre cote de la mer.#
-1 0 4 1 0 #• Au revoir.#
+1 0 4 1 0 #Au revoir.#
 #Au revoir!#

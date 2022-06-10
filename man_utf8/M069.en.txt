@@ -3,21 +3,21 @@
 
 #After being a clan, you must avenge the Dwarf King!#
 #Now that My King is dead, there is no hope for anything.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #He called me Tina, my king, and he couldn't breathe the sweetness of the world anymore.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I was responsible for coordinating the politics of the Dwarves.#
-1 105 3 0 1 7 #• Revenge?#
+1 105 3 0 1 7 #Revenge?#
 #Of course, my other half was inexplicably murdered, and we must attack the Enochs to avenge the Dwarf King.#
-30 105 4 0 0 #• Dwarf King?#
+30 105 4 0 0 #Dwarf King?#
 #He has always been kind to others, never harsh on the people, rewards and punishments are clear, did not expect the Jenoch people to be so cruel, if the conscription assault can force out the murderer, it is only so.#
-32 105 5 0 0 #• Please check out this diary!#
+32 105 5 0 0 #Please check out this diary!#
 #The diary may have been fabricated, and I wouldn't trust anyone unless Bailey himself came here!#
-105 33 6 35 1 8 #• The truth has come out, right?#
+105 33 6 35 1 8 #The truth has come out, right?#
 #Bailey had just arrived, so I already knew the truth, and Karabang was really vicious, not only killing the Dwarven King, but also provoking peace among the tribes and causing a terrible war, which could be resolved thanks to your keen help. The Dwarf King had a treasure ∼ mysterious ore before he died, and he heard that he could make things lighter, so he gave it to you, which is a heart of the dwarf people for you.#
-0 105 7 0 0 #• Revenge?#
+0 105 7 0 0 #Revenge?#
 #The hands of the people of The village of Enok were stained with the blood of the previous king, and since they could not give an account to the dwarves, they could only pay the blood debt.#
-0 0 8 0 0 #• Mysterious ore.#
+0 0 8 0 0 #Mysterious ore.#
 #When crafting weapons, the more ore you mix, the lighter the heavy weapon becomes.#
-1 0 9 1 0 #• Goodbye.#
+1 0 9 1 0 #Goodbye.#
 #Hope you have a smooth ride.#

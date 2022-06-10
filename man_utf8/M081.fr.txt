@@ -3,13 +3,13 @@
 
 #Si vous etes la pour aider a combattre, c'est tres bien.#
 #Je suis occupe! C'est normal de ne pas jouer avec moi.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Banard.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Ce genre de robe, vous savez en un coup d'oeil que vous etes un garde, alors pourquoi demander plus.#
-1 105 3 0 0 #• Se battre?#
+1 105 3 0 0 #Se battre?#
 #Fais attention! Les etrangers sont sous surveillance, alors ne soyez pas surpris pendant la guerre!#
-105 0 4 0 0 #• Occupe?#
+105 0 4 0 0 #Occupe?#
 #Merci d'avoir emporte nos charges, le chef du village vous a-t-il remercie ?#
-1 0 5 1 0 #• Au revoir!#
+1 0 5 1 0 #Au revoir!#
 #Au revoir.#

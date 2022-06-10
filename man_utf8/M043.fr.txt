@@ -3,21 +3,21 @@
 
 #Bonjour, besoin de moi pour vous servir ?#
 #De quoi ai-je besoin? Vous voulez toujours demander votre chemin?#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Je suis Ino, le proprietaire de cette boutique, et j'ai raison d'avoir quelque chose a voir avec moi!#
-1 0 2 2 2 5 6 #• Hebergement.#
+1 0 2 2 2 5 6 #Hebergement.#
 #Dans notre suite haut de gamme avec equipement superieur, il ne coute que 80 yuans pour rester une nuit, d'accord?#
-1 0 3 3 0 #• Shopping.#
+1 0 3 3 0 #Shopping.#
 #Nous vendons de l'epicerie, alors emportons quelques choses avec vous!#
-2 38 4 0 1 7 #• Demandez votre chemin.#
+2 38 4 0 1 7 #Demandez votre chemin.#
 #a droite du village se trouve un champ de coton, suivi de montagnes enneigees.#
-0 0 5 15 0 #• Bien.#
+0 0 5 15 0 #Bien.#
 #Bonne journee!#
-0 0 6 0 0 #• Ne le faites pas.#
+0 0 6 0 0 #Ne le faites pas.#
 #Aussi heureux que vous le souhaitez, ce n'est pas grave!#
-0 53 7 0 1 8 #• Montagnes enneigees?#
+0 53 7 0 1 8 #Montagnes enneigees?#
 #Bien que la montagne ne soit pas grande, elle bloque egalement la circulation a l'est et ne peut etre contournee que par bateau.#
-0 53 8 0 0 #• En bateau ?#
+0 53 8 0 0 #En bateau ?#
 #Le port de ferry etait sous le champ de coton, mais le batelier etait paresseux, et il n'etait pas rare de le trouver.#
-1 0 9 1 0 #• Au revoir.#
+1 0 9 1 0 #Au revoir.#
 #Merci d'etre venu!#

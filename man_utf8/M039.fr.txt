@@ -3,11 +3,11 @@
 
 #Je suis occupe, quel est le probleme?#
 #Ne me derangez pas.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Max.#
-1 0 2 0 1 3 #• Profession?#
+1 0 2 0 1 3 #Profession?#
 #Patrouillez tout le village, et il y a eu peu de paix dans le village depuis plusieurs mois.#
-0 53 3 0 0 #• Agite?#
+0 53 3 0 0 #Agite?#
 #Le demon de l'arbre Banyan a cherche des biens, et meme le chef de l'ancien du village a ete capture, ce qui n'etait pas le cas auparavant en Galilee.#
-1 0 4 1 0 #• Au revoir!#
+1 0 4 1 0 #Au revoir!#
 #Il y aura une periode plus tard.#

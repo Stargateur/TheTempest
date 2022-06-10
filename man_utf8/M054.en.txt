@@ -3,15 +3,15 @@
 
 #The weather here is nice!#
 #Cotton fields have been destroyed!#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Julianne.#
-1 0 2 0 1 3 #• Occupation?#
+1 0 2 0 1 3 #Occupation?#
 #All kinds of cotton.#
-0 0 3 0 1 5 #• Cotton?#
+0 0 3 0 1 5 #Cotton?#
 #Our cotton fields produce the lightest garment material.#
-2 0 4 0 0 #• Destruction?#
+2 0 4 0 0 #Destruction?#
 #That's it! When we went out to buy cottonseed, when we came home, the cotton field was dirty, and the neighbor said that we had seen two people sneaking around the neighborhood, but fortunately nothing was missing.#
-0 0 5 0 0 #• Clothing material?#
+0 0 5 0 0 #Clothing material?#
 #It is said that there is a kind of clothing that needs to be covered with the lightest layer of cotton wool.#
-1 0 6 1 0 #• Goodbye!#
+1 0 6 1 0 #Goodbye!#
 #There will be a period after that!#

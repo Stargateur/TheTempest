@@ -3,17 +3,17 @@
 
 #Vous travaillez dur et vous avez besoin d'accommodements?#
 #De quoi d'autre avez-vous besoin?#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Jordanie.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Je gere juste cette auberge pour gagner de l'argent pour subvenir aux besoins de ma famille.#
-1 0 3 3 0 #• Magasinage?#
+1 0 3 3 0 #Magasinage?#
 #Choisissez-en un que vous aimez!#
-1 0 4 2 2 5 6 #• Hebergement?#
+1 0 4 2 2 5 6 #Hebergement?#
 #Il en coute 300 yuans pour rester ici pour une nuit, voulez-vous rester?#
-0 0 5 15 0 #• Oui.#
+0 0 5 15 0 #Oui.#
 #De bons reves.#
-0 0 6 0 0 #• Non.#
+0 0 6 0 0 #Non.#
 #Merci!#
-1 0 7 1 0 #• Au revoir.#
+1 0 7 1 0 #Au revoir.#
 #Merci! Bienvenue.#

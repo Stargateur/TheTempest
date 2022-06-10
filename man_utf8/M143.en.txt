@@ -3,25 +3,25 @@
 
 #Hello! My name is Caverny and I am George's only daughter.#
 #Father likes others to please him the most!#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Caverny.#
-1 62 2 0 1 3 #• Only child?#
+1 62 2 0 1 3 #Only child?#
 #Many men come to propose, which is really overwhelming.#
-0 0 3 0 1 4 #• Beg... Propose???#
+0 0 3 0 1 4 #Beg... Propose???#
 #Who wants me to be a rich lady and an only daughter, I know that many people come for money, they don't really like me, they just want to please their father.#
-0 62 4 0 1 5 #• To please?#
+0 62 4 0 1 5 #To please?#
 #Father always liked to show off that he had a strong bodyguard, and if someone came to challenge him, it was the happiest thing for him.#
-0 62 5 0 2 6 9 #• Bodyguard?#
+0 62 5 0 2 6 9 #Bodyguard?#
 #You mean Blood Wizard? Listen to my mother, he was originally locked up in Patnon Prison!#
-0 62 6 0 1 7 #• Blood Wizard?#
+0 62 6 0 1 7 #Blood Wizard?#
 #He claimed to be a general's subordinate.#
-0 62 7 0 1 8 #• General?#
+0 62 7 0 1 8 #General?#
 #I don't know, but after the Blood Wizard came, his father always said that he was about to become the Duke of Anobap!#
-0 62 8 0 0 #• Duke of Anobap?#
+0 62 8 0 0 #Duke of Anobap?#
 #Father said that he was the duke who was in charge of the four neighboring villages!#
-0 62 9 0 1 10 #• Bartholnon?#
+0 62 9 0 1 10 #Bartholnon?#
 #After the Azluxhi Bridge was broken, a group of troops headed eastward towards Patnon via Gnostic, and within a few days, Grace and her son moved from Patnon.#
-0 62 10 0 0 #• Move over?#
+0 62 10 0 0 #Move over?#
 #Oh, yes! After the prisoners in the Patnon prison were released, they moved out in a hurry, listened to them, and when they were about to leave, the rude soldiers searched one by one, as if they were looking for something!#
-1 0 11 1 0 #• Goodbye.#
+1 0 11 1 0 #Goodbye.#
 #I hope to persuade my father not to use any more bodyguards.#

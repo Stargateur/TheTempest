@@ -3,21 +3,21 @@
 
 #Welcome to Kabbalah Village, need help?#
 #Hello, I'm Madero and need help?#
-84 0 1 13 2 2 3 #• Occupation?#
+84 0 1 13 2 2 3 #Occupation?#
 #I am the village chief of Kabbalah.#
-0 50 2 0 1 4 #• Kabbalah Village?#
+0 50 2 0 1 4 #Kabbalah Village?#
 #The village of Kabbalah is a village founded on the mysterious ideology of Prospero.#
-0 15 3 0 0 #• Guard blocking?#
+0 15 3 0 0 #Guard blocking?#
 #In order to maintain the safety of the villagers, the guards prevent people who cannot communicate in languages from entering the village.#
-0 15 4 0 1 5 #• Ideological system?#
+0 15 4 0 1 5 #Ideological system?#
 #This system of thought is largely a complex technique of word and number games, taught by Prospero.#
-0 15 5 0 1 6 #• He is my father.#
+0 15 5 0 1 6 #He is my father.#
 #It turned out to be a descendant of Prospero! Lately we have hardly dared to leave the village because it is too dangerous.#
-0 15 6 0 1 7 #• Why?#
+0 15 6 0 1 7 #Why?#
 #Outside the village are monsters, full of unknowns and dangers. If you really want to go out, it is best to be fully prepared.#
-0 12 7 14 0 #• Ready?#
+0 12 7 14 0 #Ready?#
 #Equip yourself with hard armor and buy some of the necessary items. You probably don't have enough money, right? You take this 2,000 yuan with you first. Don't be rude, your father's favor to us is not represented by this little money!#
-1 0 8 0 0 #• Name?#
+1 0 8 0 0 #Name?#
 #Metro.#
-1 0 9 1 0 #• Goodbye.#
+1 0 9 1 0 #Goodbye.#
 #Good luck with your journey!#

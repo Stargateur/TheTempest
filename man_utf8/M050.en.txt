@@ -3,19 +3,19 @@
 
 #It's hard to have time to rest.#
 #What's the matter with me as a laborer?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #The name is just a code name, what do you think of the name "Kiel"?#
-1 0 2 0 2 3 6 #• Occupation?#
+1 0 2 0 2 3 6 #Occupation?#
 #Miners are paid for their lives.#
-0 0 3 0 2 4 5 #• Miners?#
+0 0 3 0 2 4 5 #Miners?#
 #Some of my miner friends, in order to make money, ran to a remote island to dig dungeons.#
-0 0 4 0 0 #• Dig dungeons!#
+0 0 4 0 0 #Dig dungeons!#
 #It was a very difficult project, and many miner friends lost their lives!#
-0 0 5 0 0 #• Islets?#
+0 0 5 0 0 #Islets?#
 #Not very clear, only very far away.#
-0 0 6 0 1 7 #• Remuneration?#
+0 0 6 0 1 7 #Remuneration?#
 #If you can dig up some magical ore, it will be sent, but it is unattainable.#
-0 0 7 0 0 #• Magical ore?#
+0 0 7 0 0 #Magical ore?#
 #I've heard that someone dug up near Mount St. Kelly, don't you want to go and have a look? Lad!#
-1 0 8 1 0 #• Goodbye.#
+1 0 8 1 0 #Goodbye.#
 #I'll talk to you again when I'm free!#

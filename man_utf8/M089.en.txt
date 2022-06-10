@@ -3,15 +3,15 @@
 
 #I'm Bailey's wife and I can get my home organized.#
 #Want to visit my house?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Iris.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I'm just a housewife.#
-1 32 3 0 1 4 #• Bailey?#
+1 32 3 0 1 4 #Bailey?#
 #My husband! Not only is he busy in business and kind, but our family is also well-off, and he also has a good habit of keeping a diary!#
-0 32 4 0 0 #• Diary?#
+0 32 4 0 0 #Diary?#
 #This is his personal privacy, so I will not go to peek, not to mention that I do not know where he is hiding.#
-105 0 5 0 0 #• Visit!#
+105 0 5 0 0 #Visit!#
 #There is nothing to look at at home, but I am really grateful that you saved our whole family, everything is blamed on my greedy husband, for the sake of our family, please don't pursue it anymore.#
-1 0 6 1 0 #• Goodbye!#
+1 0 6 1 0 #Goodbye!#
 #Have time to sit at home.#

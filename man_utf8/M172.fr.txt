@@ -3,15 +3,15 @@
 
 #Les betes a l'exterieur sont toutes feroces et cruelles, et vous feriez mieux d'avoir tout l'equipement pour sortir.#
 #Besoin d'autre chose ?#
-72 0 1 0 0 #• Nom?#
+72 0 1 0 0 #Nom?#
 #Howard.#
-72 0 2 0 0 #• Profession?#
+72 0 2 0 0 #Profession?#
 #Le proprietaire de mon magasin d'armes legeres!#
-72 0 3 3 0 #• Achetez des armes.#
+72 0 3 3 0 #Achetez des armes.#
 #Voyez s'il y a un produit qui vous satisfait.#
-72 0 4 4 0 #• Achetez une armure.#
+72 0 4 4 0 #Achetez une armure.#
 #N'hesitez pas a visiter.#
-72 0 5 8 0 #• Vendre des biens d'occasion.#
+72 0 5 8 0 #Vendre des biens d'occasion.#
 #Que devez-vous vendre?#
-1 0 6 1 0 #• Au revoir.#
+1 0 6 1 0 #Au revoir.#
 #Il y a quelque chose qui doit me revenir.#

@@ -3,17 +3,17 @@
 
 #Qu'est-ce qu'il ya!#
 #Quel est le gros probleme?#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Quoi! Vous n'osez meme pas connaitre le nom du grand-oncle ! Se souvenir! Oncle on m'appelle... Felder, vous vous souvenez? bourrer.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Vous n'avez pas d'yeux ? C'est la boutique de l'oncle!#
-1 0 3 2 2 5 6 #• Hebergement.#
+1 0 3 2 2 5 6 #Hebergement.#
 #800 yuans par nuit, a vivre, moins de betises.#
-1 0 4 3 0 #• Shopping.#
+1 0 4 3 0 #Shopping.#
 #Aurez-vous l'argent pour acheter des choses?!#
-0 0 5 15 0 #• Volontaire.#
+0 0 5 15 0 #Volontaire.#
 #Ce sont les quelques lits! Sortez et endormez-vous.#
-0 0 6 0 0 #• Reticent.#
+0 0 6 0 0 #Reticent.#
 #Faites ce que vous voulez.#
-1 0 7 1 0 #• Au revoir.#
+1 0 7 1 0 #Au revoir.#
 #Tant de conneries!#

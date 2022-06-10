@@ -3,15 +3,15 @@
 
 #Bonjour! Je suis Bryver, ai-je besoin de quelque chose?#
 #Nous avons tout ce dont vous avez besoin, bienvenue a visiter.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Bryver.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Je suis le proprietaire de ce magasin d'armes et d'armures, qui existe depuis des decennies.#
-1 0 3 3 0 #• Achetez des armes.#
+1 0 3 3 0 #Achetez des armes.#
 #Laissez le jun choisir, forfait vous etes satisfait.#
-1 0 4 4 0 #• Achetez une armure.#
+1 0 4 4 0 #Achetez une armure.#
 #N'hesitez pas a visiter, notre magasin garantit une gamme complete de produits, une qualite parfaite et sans faille.#
-1 0 5 8 0 #• Vendre des biens d'occasion.#
+1 0 5 8 0 #Vendre des biens d'occasion.#
 #Que devez-vous vendre?#
-1 0 6 1 0 #• Au revoir!#
+1 0 6 1 0 #Au revoir!#
 #Merci d'etre venu!#

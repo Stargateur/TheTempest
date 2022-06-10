@@ -3,19 +3,19 @@
 
 #Bonjour, je suis la femme de Prisse. C'est le village de pecheurs de Saint-Germain.#
 #Nous vivons dans le village de pecheurs de Saint-Germain depuis de nombreuses annees.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Diffina.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #J'aide generalement mon mari a regarder la boutique et a faire de l'artisanat comme des filets de peche.#
-1 0 3 0 1 4 #• Pryce?#
+1 0 3 0 1 4 #Pryce?#
 #Mon mari va parfois en mer pendant quelques mois, et il l'a entendu un jour dire que les habitants du Village de l'Eau sont les plus sympathiques du quartier, et les residents sont tres cultives.#
-0 0 4 0 0 #• Aqua Village?#
+0 0 4 0 0 #Aqua Village?#
 #Les residents apprecient les livres, ils cherissent de nombreux livres celebres, presque aucune emeute et vol n'a eu lieu, mon mari a eu la chance de descendre, je veux vraiment voir.#
-1 0 5 0 0 #• Village de pecheurs de Saint-Germain ?#
+1 0 5 0 0 #Village de pecheurs de Saint-Germain ?#
 #Nous etions a l'origine proches du village de Galilee. Avant un tremblement de terre majeur, la parcelle de terrain de ce cote du village a completement coule, formant un mur de montagne si raide.#
-1 0 6 0 1 7 #• Quelque chose d'etrange s'est-il produit?#
+1 0 6 0 1 7 #Quelque chose d'etrange s'est-il produit?#
 #Oui! Il y a quelque temps, Karabang a saute d'une falaise avec une fille!#
-0 0 7 0 0 #• Les filles? Pas question?#
+0 0 7 0 0 #Les filles? Pas question?#
 #Ce n'est pas une erreur de l'entendre crier a l'aide d'une fille! Ils ont ensuite traverse la mer jusqu'a l'ile de Telok.#
-1 0 8 1 0 #• Au revoir.#
+1 0 8 1 0 #Au revoir.#
 #Il y aura une periode apres cela!#

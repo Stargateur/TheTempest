@@ -3,33 +3,33 @@
 
 #All the way here, I didn't expect that the book thief had the courage to go into the whale cave.#
 #Is there something going on?#
-1 0 1 0 1 2 #• Name.#
+1 0 1 0 1 2 #Name.#
 #I'm Dynes.#
-0 20 2 0 0 #• Name.#
+0 20 2 0 0 #Name.#
 #Didn't I tell you that? My name is Davis, don't forget it!#
-1 2 3 0 2 5 7 #• Book thief?#
+1 2 3 0 2 5 7 #Book thief?#
 #A book thief stole an important book from my father, and I chased it all the way to the ∼ legendary Lair of Kerabon.#
-1 2 4 0 0 #• Whale Cave?#
+1 2 4 0 0 #Whale Cave?#
 #I heard that a long time ago, this was a small island like a whale, and the accumulation of silt and sand for a long time made the two lands join together.#
-0 20 5 0 1 6 #• Karabang?#
+0 20 5 0 1 6 #Karabang?#
 #He was a goblin, and I heard that he was proficient in the rare black magic, and "the evil look under his eyebrows was chilling" This is my father's description of him.#
-0 20 6 0 1 7 #• Father.#
+0 20 6 0 1 7 #Father.#
 #He was a hunter who lived in a cabin by the sea in the northwest, and my father loved me dearly, and he supported me in every decision I made.#
-0 20 7 0 1 8 #• Books?#
+0 20 7 0 1 8 #Books?#
 #Flying cape instruction manual, which was left by ancestors. The book records the method of making a flying cape, and according to the instructions in the manual, you can make a flying cape, wear it and fall from a high place, and be unharmed. Now that the book had been snatched, I chased all the way to the entrance of the whale cave, but I did not dare to go down.#
-0 20 8 2 2 9 10 #• Don't dare to go down!#
+0 20 8 2 2 9 10 #Don't dare to go down!#
 #Feed! Don't mistake me for being timid, I haven't touched the bottom of Karabang yet, and it's unwise to venture into the whale cave alone, if you have the courage, go on an adventure with me, what do you think?#
-0 20 9 19 0 #• Yes.#
+0 20 9 19 0 #Yes.#
 #If you really have the courage, if you can really help me get back that book, it is really grateful, and if there is any need in the future, I will repay you.#
-0 20 10 0 0 #• I don't want to.#
+0 20 10 0 0 #I don't want to.#
 #Forget it, I'll find another way!#
-2 20 11 2 2 12 13 #• Didn't expect you to be here!#
+2 20 11 2 2 12 13 #Didn't expect you to be here!#
 #Willing to help, right?#
-0 20 12 19 0 #• Hmmm.#
+0 20 12 19 0 #Hmmm.#
 #If you really have the courage, if you can really help me get back that book, it is really grateful, and if there is any need in the future, I will repay you.#
-0 20 13 0 0 #• I don't want to.#
+0 20 13 0 0 #I don't want to.#
 #Forget it, I'll find another way!#
-74 121 14 121 0 #• Dynes, how about marrying me?#
+74 121 14 121 0 #Dynes, how about marrying me?#
 #I.. I do not know.. I think when we get back to Milan, I'll give you a good answer. All right?#
-1 0 15 1 0 #• Goodbye.#
+1 0 15 1 0 #Goodbye.#
 #Good bye.#

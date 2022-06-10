@@ -3,13 +3,13 @@
 
 #J'ai un bon ami, tres mignon Oh!#
 #Ma mere m'a dit de ne pas parler a des etrangers.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Je m'appelle Ida.#
-1 0 2 0 1 3 #• Bons amis.#
+1 0 2 0 1 3 #Bons amis.#
 #Je me suis rencontre au bord de la falaise, je l'ai appele Babe, tellement mignon!#
-0 0 3 0 1 4 #• Mignon?#
+0 0 3 0 1 4 #Mignon?#
 #Oui! Tant que vous ne jouez pas avec, cela ne vous fera rien! La falaise est si haute et le vent est fort, mais il aime y vivre, et ma mere ne me permet pas de l'approcher, en disant qu'il va manger des gens, comment est-ce possible, c'est tres obeissant!#
-0 0 4 0 0 #• Cannibalisme ?#
+0 0 4 0 0 #Cannibalisme ?#
 #Ce sont les adultes qui ne nous ont pas laisses aller la-bas, c'est pourquoi nous avons dit cela. Je n'aime pas le nom "Green Dragon" que les gens lui donnent, ca n'a pas l'air tres confortable, j'aime toujours l'appeler Babe.#
-1 0 5 1 0 #• Au revoir.#
+1 0 5 1 0 #Au revoir.#
 #Ne l'intimidez pas comme des adultes!#

@@ -3,25 +3,25 @@
 
 #De maniere inattendue, ma baguette magique n'a pas reussi a proteger les villageois.#
 #De maniere inattendue, ma baguette magique n'a pas reussi a proteger les villageois.#
-72 0 1 0 0 #• Nom?#
+72 0 1 0 0 #Nom?#
 #Ito Sherlock.#
-72 0 2 0 1 3 #• Profession?#
+72 0 2 0 1 3 #Profession?#
 #Je suis un mage, et Snyder est mon pere.#
-0 0 3 0 1 4 #• Pere?#
+0 0 3 0 1 4 #Pere?#
 #Pere m'a dit que tu es Ta Majeste le Prince, le Roi de la Magie dans cette vie, et c'est a toi d'arreter Kate !#
-0 73 4 0 1 5 #• Kate?#
+0 73 4 0 1 5 #Kate?#
 #Quand il a annonce la reconstruction du temple de Patnon, mon pere avait deja un vague sentiment que quelque chose n'allait pas, et quand nous avons appris que Kate avait trouve le badge Mana, nous savions presque ce que Kate voulait vraiment. Bien que le village ait ete prepare, il est toujours invincible a la magie malefique de Kate, mais c'est a cause de l'apparence de vous, le vrai magicien, que Pleoli est sauve.#
-0 0 5 0 1 6 #• Sauvetage.#
+0 0 5 0 1 6 #Sauvetage.#
 #J'espere que vous serez en mesure de sauver plus de personnes qui sont persecutees. Oh! Au fait, quelqu'un pourrait etre en mesure de vous aider.#
-0 0 6 0 1 7 #• Qui ?#
+0 0 6 0 1 7 #Qui ?#
 #Arana, elle connaissait le passage secret vers l'ile de Yar, ou Kate etait stationnee.#
-0 0 7 0 1 8 #• ile de Jarr?#
+0 0 7 0 1 8 #ile de Jarr?#
 #Mon pere et moi soupconnions que c'etait la que Kate avait trouve le badge de mana. Juste apres que Kate ait ete stationnee sur l'ile de Yar, Yalena a soudainement copie un sort de Yar Village!#
-0 0 8 0 1 9 #• Des sorts ?#
+0 0 8 0 1 9 #Des sorts ?#
 #Quand mon pere a vu l'incantation, il a solennellement averti Arana de ne plus retourner sur l'ile de Yar!#
-0 0 9 0 0 #• Pourquoi ?#
+0 0 9 0 0 #Pourquoi ?#
 #"L'ile de Jarr a ete maudite!" Pere a simplement dit cela.#
-72 0 10 3 0 #• Baguette magique ?#
+72 0 10 3 0 #Baguette magique ?#
 #Bien que mes sorts ne soient pas tres forts, je suis familier avec la fabrication de baguettes magiques! Vous voulez en acheter et l'essayer?#
-1 0 11 1 0 #• Au revoir.#
+1 0 11 1 0 #Au revoir.#
 #Au revoir.#

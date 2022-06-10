@@ -3,17 +3,17 @@
 
 #Cough... Young man, I have something to say to you... Cough...#
 #Cough cough... Cough.........#
-1 45 1 0 0 #• Name?#
+1 45 1 0 0 #Name?#
 #Mona.#
-41 2 2 0 0 #• Have a word?#
+41 2 2 0 0 #Have a word?#
 #Yes, cough... Cough... The life of my child... You saved... I must tell you... Cough... Come back to me another day, it's hard today, cough...#
-2 45 3 0 1 4 #• Take care of yourself!#
+2 45 3 0 1 4 #Take care of yourself!#
 #I must tell you... Cough... When I was younger, I used to date my husband at Tingquan Pavilion... Cough... Just south of the village by the sea... Cough! Cough! There is a fountain pavilion near the sea, and there is a secret passage to Thelok Island, and there is a small fort on the island, and I saw them... Cough! ... Open the door with two keys of different materials... Cough...#
-0 45 4 0 0 #• Two keys?#
+0 45 4 0 0 #Two keys?#
 #Yes! Cough! Cough! I... Cough... That one sees me very clearly... Cough... Cough is a key shaped like a turtle shell, the other is a mussel... Clam... Mussel beads... Beat... Made...#
-1 41 5 0 0 #• Have a word?#
+1 41 5 0 0 #Have a word?#
 #My two children went out of the village... Cough... Help me find medicine, it's been several days, if you have seen them... Cough... Cough, would you please tell them to come back soon? Cough... Cough...#
-1 2 6 1 0 #• Goodbye.#
+1 2 6 1 0 #Goodbye.#
 #Cough... Remember to come back to me.#
-2 0 7 1 0 #• Goodbye.#
+2 0 7 1 0 #Goodbye.#
 #Good bye.#

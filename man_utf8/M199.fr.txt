@@ -3,5 +3,5 @@
 
 #Un autre voleur? Ne pensez pas que vous serez en mesure de courir cette fois-ci!#
 #Un autre voleur? Ne pensez pas que vous serez en mesure de courir cette fois-ci!#
-1 0 1 1 0 #• Nous ne sommes pas des voleurs!#
+1 0 1 1 0 #Nous ne sommes pas des voleurs!#
 #Bourdonner! Il faut encore m'expliquer ca !#

@@ -3,15 +3,15 @@
 
 #I'm not really a businessman either, so there aren't many.#
 #The next trip to sea may have to see the creation of the weather.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Petrod.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I'm a crew member, and sometimes I take advantage of the opportunity to go out to sea and bring some weapons or armor from outside to sell.#
-1 0 3 3 0 #• What weapons do you have?#
+1 0 3 3 0 #What weapons do you have?#
 #Honestly, these are some pretty good things!#
-1 0 4 4 0 #• I want to buy armor.#
+1 0 4 4 0 #I want to buy armor.#
 #These are all fine products.#
-1 0 5 8 0 #• Do you buy used goods?#
+1 0 5 8 0 #Do you buy used goods?#
 #Of course, let me see what you have.#
-1 0 6 1 0 #• Goodbye.#
+1 0 6 1 0 #Goodbye.#
 #Good bye.#

@@ -3,15 +3,15 @@
 
 #Bonjour! Inconfortable la-bas?#
 #Besoin d'une visite?#
-1 0 1 0 1 3 #• Nom?#
+1 0 1 0 1 3 #Nom?#
 #Je suis l'assistante du Dr Rick, Cecilia.#
-1 42 2 0 0 #• Consulter un medecin?#
+1 42 2 0 0 #Consulter un medecin?#
 #Le meilleur medecin ici est Raylik.#
-0 42 3 0 1 4 #• Ryik?#
+0 42 3 0 1 4 #Ryik?#
 #Sa femme etait morte depuis un moment, et bien sur il y aurait eu un peu de solitude.#
-0 42 4 0 1 5 #• Solitaire ?#
+0 42 4 0 1 5 #Solitaire ?#
 #Donc, de temps en temps, je regarde des femmes qui viennent voir un medecin.#
-0 0 5 0 0 #• Patiente?#
+0 0 5 0 0 #Patiente?#
 #C'est vrai... He? Pourquoi en demandez-vous autant?.#
-1 0 6 1 0 #• Au revoir.#
+1 0 6 1 0 #Au revoir.#
 #Allez directement chez un medecin pour obtenir des soins medicaux.#

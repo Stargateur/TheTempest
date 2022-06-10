@@ -3,17 +3,17 @@
 
 #Ay! We've had enough trouble this time.#
 #Hopefully, we will be satisfied to live in peace.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Visconti.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I am the village chief of the village of Yunok.#
-1 105 3 0 1 4 #• Trouble?#
+1 105 3 0 1 4 #Trouble?#
 #It's a long story, and I don't know what the facts are, but some people have planted us to murder the dwarf king, how is this possible? He and I are brothers, and the matter has declared war before the dwarf queen has been clarified, and now people are afraid!#
-0 105 4 0 0 #• Planting?#
+0 105 4 0 0 #Planting?#
 #He knew that Bailey said he had seen it with his own eyes. Ay! The purifier purifies himself!#
-105 34 5 36 0 #• Thanks?#
+105 34 5 36 0 #Thanks?#
 #Yes, on behalf of the villagers, I would like to thank you, if it were not for your assistance in finding out the truth about the death of the Dwarf King, I am afraid that a massacre would not have been inevitable. Here is a platinum helmet, our ancestral treasure, just send you well, it is difficult for you to be so kind, God will bless you with peace.#
-105 114 6 0 0 #• Meet?#
+105 114 6 0 0 #Meet?#
 #As long as the villagers are safe, we will bless you together.#
-1 0 7 1 0 #• Goodbye!#
+1 0 7 1 0 #Goodbye!#
 #May the Lord bless you with all the best.#

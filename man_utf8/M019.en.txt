@@ -3,23 +3,23 @@
 
 #Please don't kill me, okay?#
 #I am a little tree elf.#
-19 24 1 0 1 2 #• Kill me?#
+19 24 1 0 1 2 #Kill me?#
 #Our plight is pitiful enough.#
-0 24 2 0 2 3 4 #• Encounters?#
+0 24 2 0 2 3 4 #Encounters?#
 #I had just escaped from the village ahead.#
-0 0 3 0 0 #• Village?#
+0 0 3 0 0 #Village?#
 #It is the hot spring town of Galilee Village.#
-0 0 4 0 2 5 6 #• Escape?#
+0 0 4 0 2 5 6 #Escape?#
 #It doesn't hurt to tell you, they are all controlled by Karaban.#
-0 53 5 0 0 #• Karabang?#
+0 53 5 0 0 #Karabang?#
 #It is the freak born of the evil witch Sekracus, three points like a man, seven points like an ape.#
-0 53 6 0 0 #• Control?#
+0 53 6 0 0 #Control?#
 #They were forced to loot the villagers' belongings and control their movements.#
-1 26 7 0 0 #• Occupation?#
+1 26 7 0 0 #Occupation?#
 #I am a Dryad and Ariel is our leader.#
-1 0 8 0 0 #• Name?#
+1 0 8 0 0 #Name?#
 #My name is Kiki.#
-53 0 9 0 0 #• Elves?#
+53 0 9 0 0 #Elves?#
 #I heard that you beat Karabang, which is amazing.#
-1 0 10 1 0 #• Goodbye.#
+1 0 10 1 0 #Goodbye.#
 #Be careful on the road.#

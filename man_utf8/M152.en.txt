@@ -3,13 +3,13 @@
 
 #If we make you unhappy...#
 #When I first woke up from a long sleep, I heard that kind of music.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Berkoff.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I am a bard, and in my dreams, angels often open doors in the clouds to greet me.#
-1 64 3 0 0 #• Unhappy?#
+1 64 3 0 0 #Unhappy?#
 #Then you can only blame those greedy and rich piffles, don't tell me that you want to muddy the water too!#
-64 0 4 0 0 #• Sonata?#
+64 0 4 0 0 #Sonata?#
 #The sound of justice is nothing more than a delusion in a dream, and these boring dramas are just another dream...#
-1 0 5 1 0 #• Goodbye!#
+1 0 5 1 0 #Goodbye!#
 #Good bye.#

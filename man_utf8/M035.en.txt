@@ -3,27 +3,27 @@
 
 #Thank you for coming to my rescue, or I might have died here.#
 #I'm older and have a bad memory.#
-1 0 1 28 0 #• Name?#
+1 0 1 28 0 #Name?#
 #I am Milos Forman, the elder of the village of Galilee.#
-1 0 2 28 0 #• Occupation?#
+1 0 2 28 0 #Occupation?#
 #People in the village sometimes call me the village chief directly.#
-1 2 3 0 1 4 #• Captivity?#
+1 2 3 0 1 4 #Captivity?#
 #Oh, yes! I've been imprisoned in this dungeon for a long time!#
-0 28 4 28 1 5 #• Who was imprisoned?#
+0 28 4 28 1 5 #Who was imprisoned?#
 #Not the mischievous dryads.#
-0 28 5 0 2 6 7 #• Why?#
+0 28 5 0 2 6 7 #Why?#
 #To thank you for saving me from trouble, I'll tell you! Because I have a mirror book, and that mirror book is the nemesis of the Dryads, and there are ways to make them appear, that's why I'm locked up here.#
-0 28 6 0 0 #• Show up?#
+0 28 6 0 0 #Show up?#
 #You don't know, the Dryad looks similar to ordinary trees on the surface, and ordinary people can't tell the difference, unless they use the spell of the fire-eyed golden eye in the mirror book to make him appear in its original form.#
-0 28 7 0 1 8 #• Mirror Book?#
+0 28 7 0 1 8 #Mirror Book?#
 #The Dryad forced me to hand over the book, but I would not give it to me when I died, and I hid it in a very secret place. If you're willing to help me deal with the Dryad, I can give you the Mirror Book.#
-0 28 8 1 0 #• Deal with the Dryad!?#
+0 28 8 1 0 #Deal with the Dryad!?#
 #If you want, you can come to my house to find me, I'll go first, goodbye.#
-2 110 9 2 2 10 11 #• Mirror Book?#
+2 110 9 2 2 10 11 #Mirror Book?#
 #Are you really willing to help me deal with that little dryad?#
-0 0 10 89 0 #• Willing.#
+0 0 10 89 0 #Willing.#
 #Thank you so much, Mirror Book, you take it. * There is also a book of utopias for you, even if it is your reward for saving me.#
-0 0 11 0 0 #• Unwilling.#
+0 0 11 0 0 #Unwilling.#
 #Please think again!#
-1 0 12 1 0 #• Goodbye.#
+1 0 12 1 0 #Goodbye.#
 #Take care!#

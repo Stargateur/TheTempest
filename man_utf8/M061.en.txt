@@ -3,15 +3,15 @@
 
 #I'm cultivating myself now, otherwise I'm going to fight with you.#
 #The host packed his bags and prepared to flee.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Carmon.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #Bodyguard.#
-38 53 3 0 0 #• Great Wars.#
+38 53 3 0 0 #Great Wars.#
 #Karabang ordered me to kill when I saw someone enter, but now that he is running away, is the order still valid?#
-38 53 4 0 0 #• Escape?#
+38 53 4 0 0 #Escape?#
 #He took a woman, no, as if it were a boy, and headed east.#
-53 0 5 0 0 #• Luggage?#
+53 0 5 0 0 #Luggage?#
 #He didn't take anything with him, there were a lot of treasures in the cave, and our brothers were getting ready to take a look!#
-1 0 6 1 0 #• Goodbye!#
+1 0 6 1 0 #Goodbye!#
 #Good bye!#

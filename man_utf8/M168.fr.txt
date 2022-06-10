@@ -3,15 +3,15 @@
 
 #Oui! C'etait comme dormir pendant des annees.#
 #ca fait tellement de bien de se reveiller.#
-72 0 1 0 0 #• Nom?#
+72 0 1 0 0 #Nom?#
 #Kevin.#
-72 0 2 0 0 #• Profession?#
+72 0 2 0 0 #Profession?#
 #Je suis forgeron.#
-72 0 3 0 1 4 #• Combien de temps dormez-vous?#
+72 0 3 0 1 4 #Combien de temps dormez-vous?#
 #Je me souviens juste que Kate est soudainement apparue dans la cave et qu'elle semblait endormie.#
-0 0 4 0 1 5 #• Kate?!#
+0 0 4 0 1 5 #Kate?!#
 #Bourdonner! Utiliser des troupes pour assieger des villages civils, peut-on dire que c'est aussi un general du royaume ?!#
-0 0 5 0 0 #• Siege!#
+0 0 5 0 0 #Siege!#
 #Oh oui! La cavalerie de Kate a attaque huit fois et n'a pas pu prendre l'entree du village! Si la magie de Kate n'etait pas trop forte, Proli n'aurait pas pu la capturer.#
-1 0 6 1 0 #• Au revoir.#
+1 0 6 1 0 #Au revoir.#
 #Il y a le temps de s'asseoir.#

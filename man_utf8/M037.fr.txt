@@ -3,9 +3,9 @@
 
 #C'est le village de Galilee.#
 #Si rien d'autre, vous feriez mieux de ne pas me chercher.#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Je m'appelle Andrew.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Le travail des gardes ici depend de quelques-uns d'entre nous.#
-1 0 3 1 0 #• Au revoir!#
+1 0 3 1 0 #Au revoir!#
 #Au revoir!#

@@ -3,27 +3,27 @@
 
 #Hello, I am Capone, the nearest inn is such a one, what do you need? Or do you want to talk?#
 #Hello, need me to serve you?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #My name is Capone.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I am the owner of this shop.#
-1 0 3 2 2 4 5 #• Accommodation.#
+1 0 3 2 2 4 5 #Accommodation.#
 #Our shop accommodation is cheap, the service is good, only 20 yuan a night, decided to stay?#
-0 0 4 15 0 #• Yes.#
+0 0 4 15 0 #Yes.#
 #Good dreams.#
-0 0 5 0 0 #• Nope.#
+0 0 5 0 0 #Nope.#
 #Never mind.#
-1 0 6 3 0 #• Shopping?#
+1 0 6 3 0 #Shopping?#
 #Do you want to buy that same?#
-1 13 7 0 1 8 #• Chat.#
+1 13 7 0 1 8 #Chat.#
 #You see the drunkard, who has been drinking for two days and two nights, and has not paid.#
-0 13 8 2 2 9 10 #• Drunkard?#
+0 13 8 2 2 9 10 #Drunkard?#
 #Yes! It's the guy who grows a muscle, drunk all day, or he is lying on the ground and sleeping unconscious, I see he can't pay, maybe you will be willing to help him pay the bill, right?#
-0 13 9 16 0 #• Willing to pay.#
+0 13 9 16 0 #Willing to pay.#
 #I know at a glance that you are a kind person, which is really good! In total, he owed $60.#
-0 13 10 43 0 #• Unwilling to pay.#
+0 13 10 43 0 #Unwilling to pay.#
 #Alas! I thought you were a kind person, but it seems that I was wrong!#
-2 13 11 2 2 9 10 #• Chat.#
+2 13 11 2 2 9 10 #Chat.#
 #How about deciding to help the drunkard pay the bill?#
-1 0 12 1 0 #• Goodbye.#
+1 0 12 1 0 #Goodbye.#
 #Welcome back to our restaurant.#

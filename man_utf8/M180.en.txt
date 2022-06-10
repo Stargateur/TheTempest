@@ -3,17 +3,17 @@
 
 #What's the matter, accommodation?#
 #What else is needed?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Bemiler.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I run this hostel.#
-1 0 3 2 2 5 6 #• Accommodation.#
+1 0 3 2 2 5 6 #Accommodation.#
 #Stay here for a night, 500 yuan is good?#
-1 0 4 3 0 #• Shopping.#
+1 0 4 3 0 #Shopping.#
 #Pick it slowly!#
-0 0 5 15 0 #• Okay.#
+0 0 5 15 0 #Okay.#
 #Good dreams.#
-0 0 6 0 0 #• Don't.#
+0 0 6 0 0 #Don't.#
 #Thank you for the visit.#
-1 0 7 1 0 #• Goodbye.#
+1 0 7 1 0 #Goodbye.#
 #Good bye.#

@@ -3,15 +3,15 @@
 
 #Hello, is there anything you need to serve?#
 #If you need to stay at the hotel, look for my husband!#
-1 0 1 0 1 3 #• Name?#
+1 0 1 0 1 3 #Name?#
 #My name is Furlene, and I know Renada and the doctor's secret.#
-1 30 2 0 0 #• Occupation.#
+1 30 2 0 0 #Occupation.#
 #I'm the hostess.#
-0 29 3 0 0 #• Secret?#
+0 29 3 0 0 #Secret?#
 #I've heard it! The two of them had met in the cotton field, and you know, it must have been very comfortable to lie on top of the soft cotton. Feed! Don't tell anyone else, or my husband will cut me off.#
-29 41 4 0 0 #• Accommodation.#
+29 41 4 0 0 #Accommodation.#
 #Stay with my husband, I told you that the things did not leak out. Have you heard of the legend of Saint-Germain? There's a monster that's guarding that mysterious place!#
-2 0 5 0 0 #• Hostel?#
+2 0 5 0 0 #Hostel?#
 #There are fewer guests these days.#
-1 0 6 1 0 #• Goodbye.#
+1 0 6 1 0 #Goodbye.#
 #Remember to keep it a secret.#

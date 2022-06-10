@@ -3,17 +3,17 @@
 
 #What's up!#
 #What's the big deal?#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #What! You don't even dare to know the name of the great uncle! Remember! Uncle I'm called... Felder, remember? stuff.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #Don't have eyes? This is Uncle's shop!#
-1 0 3 2 2 5 6 #• Accommodation.#
+1 0 3 2 2 5 6 #Accommodation.#
 #800 yuan per night, to live, less nonsense.#
-1 0 4 3 0 #• Shopping.#
+1 0 4 3 0 #Shopping.#
 #Will you have the money to buy things?!#
-0 0 5 15 0 #• Willing.#
+0 0 5 15 0 #Willing.#
 #That's the few beds! Get out and go to sleep.#
-0 0 6 0 0 #• Unwilling.#
+0 0 6 0 0 #Unwilling.#
 #Do whatever you want.#
-1 0 7 1 0 #• Goodbye.#
+1 0 7 1 0 #Goodbye.#
 #So much bullshit!#

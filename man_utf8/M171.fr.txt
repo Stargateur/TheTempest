@@ -3,15 +3,15 @@
 
 #Vous nous avez sauve la vie, et je vous aiderai naturellement si vous avez des ennuis.#
 #Y a-t-il quelque chose d'inconfortable a ce sujet?#
-72 0 1 0 0 #• Nom?#
+72 0 1 0 0 #Nom?#
 #Sean.#
-72 0 2 0 0 #• Profession?#
+72 0 2 0 0 #Profession?#
 #J'etais medecin.#
-72 0 3 9 0 #• Dependance therapeutique.#
+72 0 3 9 0 #Dependance therapeutique.#
 #Traitement de l'empoisonnement 20 yuans. *Veuillez selectionner une personne pour le traitement!#
-72 0 4 7 0 #• De-petrification.#
+72 0 4 7 0 #De-petrification.#
 #Ascenseur petrochimique 100 yuans. *Veuillez selectionner une personne pour le traitement!#
-72 0 5 10 0 #• Resurrection.#
+72 0 5 10 0 #Resurrection.#
 #Les frais de resurrection sont de 200 yuans, veuillez selectionner un partenaire.#
-1 0 6 1 0 #• Au revoir.#
+1 0 6 1 0 #Au revoir.#
 #Bon voyage.#

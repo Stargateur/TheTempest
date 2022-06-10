@@ -3,13 +3,13 @@
 
 #I used to go to the women's village with Arana.#
 #You can go to Arana, her favorite handsome man.#
-72 0 1 0 0 #• Name?#
+72 0 1 0 0 #Name?#
 #Nicola.#
-72 73 2 0 2 3 4 #• Women's Village?#
+72 73 2 0 2 3 4 #Women's Village?#
 #The last time Alana took me there, we didn't dare to go inside, just looked outside.#
-72 73 3 0 0 #• Arana?#
+72 73 3 0 0 #Arana?#
 #Just to the east, not far from here on the outskirts.#
-0 75 4 0 0 #• Don't dare to go in?#
+0 75 4 0 0 #Don't dare to go in?#
 #The village was cursed, who dared to go in? However, there are some words at the entrance of the village, saying that men are not allowed to enter.#
-1 0 5 1 0 #• Goodbye.#
+1 0 5 1 0 #Goodbye.#
 #I hope you can also visit the women's village.#

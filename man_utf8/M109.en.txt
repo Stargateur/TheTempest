@@ -3,17 +3,17 @@
 
 #Need my help?#
 #People who go out, always have to be careful.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Jonaka.#
-1 0 2 0 0 #• Occupation?#
+1 0 2 0 0 #Occupation?#
 #I know a lot about medical science.#
-1 0 3 9 0 #• Therapeutic addiction.#
+1 0 3 9 0 #Therapeutic addiction.#
 #Treatment of poisoning 20 yuan. *Please select one person for treatment!#
-1 0 4 7 0 #• De-petrification.#
+1 0 4 7 0 #De-petrification.#
 #Lift petrochemical 100 yuan. *Please select one person for treatment!#
-1 0 5 10 0 #• Resurrection.#
+1 0 5 10 0 #Resurrection.#
 #The resurrection fee is 200 yuan, please select a partner.#
-1 0 6 3 0 #• Buy medicine.#
+1 0 6 3 0 #Buy medicine.#
 #Pick it up!#
-1 0 7 1 0 #• Goodbye.#
+1 0 7 1 0 #Goodbye.#
 #There will be a period later.#

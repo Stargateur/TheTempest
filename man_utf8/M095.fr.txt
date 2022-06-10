@@ -3,15 +3,15 @@
 
 #C'etait un festival de pluie regulier chaque annee, et une fille voulait juste l'arreter.#
 #J'espere que cette annee sera aussi une annee en douceur!#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Beguigua.#
-1 41 2 0 1 4 #• Activites de routine?#
+1 41 2 0 1 4 #Activites de routine?#
 #Oh oui! Depuis que la sorciere Wadel est venue ici, il y a eu un rituel de pluie si solennel chaque annee.#
-1 41 3 0 0 #• Les filles.#
+1 41 3 0 0 #Les filles.#
 #La fille etait tres genee, disant qu'elle voulait sauver son petit frere, hein! Une petite beaute qui ne peut pas etre a la hauteur.#
-0 41 4 0 0 #• Qi Yu Sacrifice?#
+0 41 4 0 0 #Qi Yu Sacrifice?#
 #C'est-a-dire que chaque annee, avec le sang d'un garcon vierge et avec le pouvoir divin de nos sorcieres, il fera la recolte des recoltes de cette annee et la paix du peuple.#
-41 0 5 0 0 #• Vent et pluie ?#
+41 0 5 0 0 #Vent et pluie ?#
 #Je ne m'attendais pas a ce que la sorciere trompe une personne aussi gentille que nous, et il semble que si le vent et la pluie doivent etre doux, tout dependra de Dieu.#
-1 0 6 1 0 #• Au revoir!#
+1 0 6 1 0 #Au revoir!#
 #Au revoir.#

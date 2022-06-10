@@ -3,9 +3,9 @@
 
 #Par son nom, etranger, le village de Jenok est maintenant sous la loi martiale.#
 #Qu'est-ce qui ne va pas?#
-1 0 1 0 0 #• Nom?#
+1 0 1 0 0 #Nom?#
 #Virgile.#
-1 0 2 0 0 #• Profession?#
+1 0 2 0 0 #Profession?#
 #Le travail de garde est quelque chose que les gens ordinaires ne peuvent pas faire.#
-1 0 3 1 0 #• Au revoir!#
+1 0 3 1 0 #Au revoir!#
 #Au revoir.#

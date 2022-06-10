@@ -3,21 +3,21 @@
 
 #My father ran this weapons store before his death.#
 #I run this weapons store.#
-1 0 1 0 0 #• Name?#
+1 0 1 0 0 #Name?#
 #Jane Marie.#
-1 75 2 0 1 3 #• Weapons store?#
+1 75 2 0 1 3 #Weapons store?#
 #The village of Yar was originally famous for the weapons and armor of this shop.#
-0 75 3 0 1 8 #• Buy weapons.#
+0 75 3 0 1 8 #Buy weapons.#
 #You... Are you a gyproy's man? Please tell Miss Gyploy that the "three artifacts" are all rumors and that we don't sell any weapons at all, and ask her not to suspect me anymore.#
-75 0 4 0 0 #• Occupation?#
+75 0 4 0 0 #Occupation?#
 #I run this shop.#
-75 0 5 3 0 #• Buy weapons.#
+75 0 5 3 0 #Buy weapons.#
 #Please choose one!#
-75 0 6 4 0 #• Buy armor.#
+75 0 6 4 0 #Buy armor.#
 #Please choose one!#
-75 0 7 8 0 #• Sell used goods.#
+75 0 7 8 0 #Sell used goods.#
 #Let me see your goods.#
-0 75 8 0 0 #• I'm not a gyproy's underling.#
+0 75 8 0 0 #I'm not a gyproy's underling.#
 #When you confirm this, come back to me!#
-1 0 9 1 0 #• Goodbye.#
+1 0 9 1 0 #Goodbye.#
 #Good bye.#
