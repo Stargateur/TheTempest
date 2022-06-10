@@ -1,0 +1,13 @@
+
+
+
+#Our whole village can wake up again, thank you all.#
+#If you want to fill up your equipment, you can go to Howard at the weapons store.#
+72 0 1 0 0 #• Name?#
+#I am Howard's wife, Norvescon.#
+72 73 2 0 0 #• Occupation?#
+#We were in the ore business at Barthnon, and we moved in after Kate released the prisoners, but within a week of arriving at Prolly, Kate was besieging Prolly.#
+73 0 3 0 0 #• Augment your equipment?#
+#Is there enough gear on your body? It wasn't that easy to deal with that Kate.#
+1 0 4 1 0 #• Goodbye.#
+#I wish you the best.#

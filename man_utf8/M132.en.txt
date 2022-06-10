@@ -1,0 +1,15 @@
+
+
+
+#I thought Paul had also been taken captive here, but I didn't expect him to escape.#
+#Guess how we live our lives.#
+1 0 1 0 0 #• Name?#
+#Stuart.#
+1 0 2 0 0 #• Occupation?#
+#Architect.#
+59 66 3 0 0 #• Paul is dead...#
+#Paul was such a rare talent, and it was a shame to hear you know that he had died in that cave.#
+66 0 4 0 0 #• Living a life?#
+#The most important thing now is to reorganize the homeland.#
+1 0 5 1 0 #• Goodbye.#
+#We'll see you again.#

@@ -1,0 +1,17 @@
+
+
+
+#It was a regular rain festival every year, and a girl just wanted to stop it.#
+#I hope this year is also a smooth year!#
+1 0 1 0 0 #• Name?#
+#Beguigua.#
+1 41 2 0 1 4 #• Routine activities?#
+#Oh, yes! Ever since Witch Wadel came here, there has been such a solemn rain ritual every year.#
+1 41 3 0 0 #• Girls.#
+#The girl was very embarrassed, saying that she wanted to save her little brother, huh! A little beauty who can't measure up.#
+0 41 4 0 0 #• Qi Yu Sacrifice?#
+#That is, every year with the blood of a virgin boy, and with the divine power of our witches, it will make this year's harvest of crops and the peace of the people.#
+41 0 5 0 0 #• Wind and rain?#
+#I didn't expect that the witch would deceive such a kind person as us, and it seems that if the wind and rain are to be smooth, it will all depend on God.#
+1 0 6 1 0 #• Goodbye!#
+#Good bye.#

@@ -1,0 +1,13 @@
+
+
+
+#I'm busy, what's the matter?#
+#Don't bother me.#
+1 0 1 0 0 #• Name?#
+#Max.#
+1 0 2 0 1 3 #• Occupation?#
+#Patrol the whole village, and there has been little peace in the village for several months.#
+0 53 3 0 0 #• Restless?#
+#The Banyan Tree Demon searched around for belongings, and even the head of the village elder was captured, which was not the case before in Galilee.#
+1 0 4 1 0 #• Goodbye!#
+#There will be a period later.#

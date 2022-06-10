@@ -1,0 +1,27 @@
+
+
+
+#Quelle méthode avez-vous utilisée pour déchiffrer mes sorts? »#
+#Vous voulez savoir quelque chose?#
+1 0 1 0 0 #• Nom?#
+#Je m’appelle Cyrus.#
+1 61 2 0 2 3 5 #• Profession?#
+#Certaines personnes nous appellent des démons banians, mais nous sommes en fait les petits elfes des arbres de Warwick Mountain, si seulement notre chef Ariel n’avait pas été capturé.#
+0 61 3 0 1 4 #• Warwick Mountain?#
+#Warwick Mountain s’étend entre le village de Kabbale et Azluksi, bloquant le passage entre eux, mais c’est un paradis pour les elfes de toutes les races!#
+0 61 4 0 0 #• Azluksi?#
+#Seul Ariel a été là, et je suis sûr qu’il sera heureux de vous le dire quand nous le sortirons de prison.#
+0 28 5 0 1 6 #• Ariel?#
+#Bien qu’il fût un demi-elfe plus humain, les elfes de All Warwick le soutenaient beaucoup, et il y a quelques mois, il a été emprisonné dans une prison de grotte d’arbres pour s’être rebellé contre les ordres de Karabon.#
+0 28 6 2 2 7 8 #• Karabang?#
+#Karabang a kidnappé Ariel et nous a fait chanter pour qu’il intimide les gens du village, mais nous ne le voulons pas, mais le gobelin de Karabang est vraiment trop vicieux, il a beaucoup de tours perfides, il veut que les gens se soumettent à sa menace, si vous voulez vous débarrasser de lui, s’il vous plaît laissez-moi vous aider, d’accord?#
+0 28 7 29 0 #• Bien.#
+#C’était tellement agréable! Je sais que la prison de Tree Cave où Ariel est emprisonné a un sceau magique spécial, et ce n’est qu’en obtenant le cristal magique de Karabon qu’il peut y être téléporté, nous devons donc d’abord vaincre Karabang.#
+0 28 8 0 0 #• Pas bon.#
+#Si vous pensez que la force d’une personne peut faire face à ce démon, vous êtes trop arrogant.#
+57 61 9 0 1 10 #• Cristal magique.#
+#Le Cristal Magique est un laissez-passer pour entrer dans la Prison de la Grotte de l’Arbre, et nous allons sauver Ariel.#
+0 0 10 0 0 #• Prison de Tree Hole?#
+#Juste au nord-est du village de Kabbale.#
+1 0 11 1 0 #• Au revoir.#
+#Au revoir.#

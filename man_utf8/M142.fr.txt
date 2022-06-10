@@ -1,0 +1,23 @@
+
+
+
+#Je ne pense pas qu’il y ait quelqu’un dans ce monde qui puisse battre mon garde du corps.#
+#Les combats soignés sont vraiment réconfortants.#
+1 0 1 0 0 #• Nom?#
+#George.#
+1 0 2 0 0 #• Profession?#
+#Je suis l’homme le plus riche ici, je n’ai pas besoin de travail, j’attends juste tous les jours pour collecter de l’argent.#
+1 67 3 2 2 4 5 #• Garde du corps?#
+#Le Sorcier du Sang est un sorcier de super-sorcellerie, et lui et la sorcière Wadel sont jumeaux. Tant de gens sont venus rivaliser et ont perdu entre ses mains, si vous pouvez le vaincre, le trésor dans ma cave, vous pouvez prendre autant que vous le souhaitez, n’est-ce pas?#
+0 62 4 64 0 #• Volontaire.#
+#Ha! Il y a de bons drames à regarder à nouveau. Descendez de ce passage secret, méfiez-vous ! De nombreuses personnes en sont mortes.#
+0 62 5 0 0 #• Réticent.#
+#Ensuite, donnez l’opportunité à quelqu’un d’autre.#
+62 0 6 0 1 7 #• Êtes-vous satisfait?#
+#Vous... C’est toi... BPL... Pater......???#
+0 0 7 0 0 #• Comment le savez-vous?#
+#Non... Non, je ne sais rien, vous prenez tous ces trésors !#
+1 62 8 1 0 #• Au revoir.#
+#Grands aventuriers! Ne reculez pas sur mon petit défi! Hahaha...#
+62 0 9 1 0 #• Au revoir.#
+#Roter...... Vous les gars... Vous ne voulez pas rester quelques jours de plus ?#

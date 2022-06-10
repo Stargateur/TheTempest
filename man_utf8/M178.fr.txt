@@ -1,0 +1,15 @@
+
+
+
+#Grand frère, merci! Nous pouvons nous réveiller de nos rêves.#
+#Grand frère, merci! Nous pouvons nous réveiller de nos rêves.#
+72 0 1 0 0 #• Nom?#
+#Je m’appelle Chirinda.#
+72 74 2 0 1 3 #• Rêves?#
+#J’ai rêvé que ma mère et moi serions enfermés dans la cave pour toujours.#
+0 74 3 0 1 4 #• Cave ?#
+#Une nuit, alors que je dormais, ma mère m’a soudainement réveillé, et avec un grand nombre de tantes et beaucoup de mes amis dans le village, j’ai couru à la cave de la maison de l’oncle forgeron pour me cacher, je n’aimais pas ça, il faisait si sombre!#
+0 0 4 0 0 #• Et puis quoi ?#
+#Je ne me souviens pas, ma mère m’a dit d’aller dormir vite, et je me suis endormie!#
+1 0 5 1 0 #• Au revoir.#
+#Au revoir!#

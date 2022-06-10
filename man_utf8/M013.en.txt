@@ -1,0 +1,15 @@
+
+
+
+#What's so important?#
+#Welcome to Kabbalah Village.#
+1 84 1 12 0 #• Name?#
+#…×△＊○？２…#
+1 84 2 12 0 #• Occupation?#
+#…×△＊○？２…#
+84 0 3 0 0 #• Name?#
+#I'm Pirid, is there anything wrong with me? I'm very busy.#
+84 0 4 0 0 #• Occupation?#
+#The work of the guards is very important and is not accompanied.#
+1 0 5 1 0 #• Goodbye.#
+#It's okay not to come to me.#

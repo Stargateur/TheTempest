@@ -1,0 +1,17 @@
+
+
+
+#Je suis infirmière à Battnon, quel est le problème?#
+#Oh! Il est temps d’y aller, jusqu’au bout!#
+1 0 1 0 0 #• Nom?#
+#Marta.#
+1 0 2 0 0 #• Profession?#
+#Je suis infirmière.#
+1 65 3 0 1 4 #• Bartholnon?#
+#• Depuis que Kate a libéré les détenus de la prison, les villageois se sont éloignés les uns après les autres.#
+0 0 4 0 0 #• La prison ?#
+#Les gens de la prison qui sont maintenant en prison ne sont pas des criminels, mais des captifs qui sont venus travailler comme ouvriers.#
+1 0 4 3 0 #• Infirmières.#
+#Parce que je ne suis qu’une infirmière, je ne peux vous vendre que des fournitures médicales.#
+1 0 5 1 0 #• Au revoir.#
+#Au revoir.#

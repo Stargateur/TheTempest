@@ -1,0 +1,29 @@
+
+
+
+#Merci d’être venu à mon secours, sinon je serais peut-être mort ici.#
+#Je suis plus âgé et j’ai une mauvaise mémoire.#
+1 0 1 28 0 #• Nom?#
+#Je suis Milos Forman, l’aîné du village de Galilée.#
+1 0 2 28 0 #• Profession?#
+#Les gens du village m’appellent parfois directement le chef du village.#
+1 2 3 0 1 4 #• Captivité ?#
+#Oh oui! Je suis emprisonné dans ce donjon depuis longtemps !#
+0 28 4 28 1 5 #• Qui a été emprisonné ?#
+#Pas les dryades espiègles.#
+0 28 5 0 2 6 7 #• Pourquoi ?#
+#Pour vous remercier de m’avoir sauvé des ennuis, je vais vous le dire! Parce que j’ai un livre miroir, et que ce livre miroir est l’ennemi juré des Dryades, et qu’il y a des moyens de les faire apparaître, c’est pourquoi je suis enfermé ici.#
+0 28 6 0 0 #• Se présenter?#
+#Vous ne savez pas, la dryade ressemble aux arbres ordinaires à la surface, et les gens ordinaires ne peuvent pas faire la différence, à moins qu’ils n’utilisent le sort de l’œil d’or aux yeux de feu dans le livre miroir pour le faire apparaître dans sa forme originale.#
+0 28 7 0 1 8 #• Livre miroir?#
+#La Dryade m’a forcé à remettre le livre, mais je ne le donnerais pas à ma mort, et je l’ai caché dans un endroit très secret. Si vous êtes prêt à m’aider à faire face à la Dryade, je peux vous donner le Livre Miroir.#
+0 28 8 1 0 #• S’occuper de la dryade!?#
+#Si vous voulez, vous pouvez venir chez moi pour me trouver, j’irai d’abord, au revoir.#
+2 110 9 2 2 10 11 #• Livre miroir?#
+#Êtes-vous vraiment prêt à m’aider à faire face à cette petite dryade?#
+0 0 10 89 0 #• Volontaire.#
+#Merci beaucoup, Mirror Book, vous le prenez. * Il y a aussi un livre d’utopies pour vous, même si c’est votre récompense pour m’avoir sauvé.#
+0 0 11 0 0 #• Réticent.#
+#S’il vous plaît détrompez-vous!#
+1 0 12 1 0 #• Au revoir.#
+#Prends soin de toi!#

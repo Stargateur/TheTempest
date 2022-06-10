@@ -1,0 +1,15 @@
+
+
+
+#Hey! This is a forbidden area, don't break in.#
+#Something' going on.#
+1 0 1 0 0 #• Name?#
+#Albert.#
+1 0 2 0 0 #• Occupation?#
+#Guard.#
+1 65 3 0 0 #• Forbidden areas?#
+#The thieves here are much smaller, and you are good to yourself.#
+65 0 4 0 0 #• Prison?#
+#There is no one guarding the prison anymore, and those who are locked up should be rescued.#
+1 0 5 1 0 #• Goodbye.#
+#Good bye.#

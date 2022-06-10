@@ -1,0 +1,23 @@
+
+
+
+#Il y a probablement très peu d’œuvres dans le monde que l’on peut qualifier de parfaites.#
+#J’espère pouvoir sculpter certains des meilleurs au monde.#
+1 0 1 0 0 #• Nom?#
+#Hajik.#
+1 0 2 0 1 3 #• Profession?#
+#Carver.#
+0 0 3 0 2 4 5 #• Gravure ?#
+#Mon travail le plus fier est la sculpture sur pierre brute, mais de temps en temps, je sculpte aussi des pièces exquises, telles que des sculptures en jade, des sculptures sur bois et même des perles de moules que je peux sculpter Wei Miao Wei Xiao.#
+0 44 4 0 0 #• Fier du travail?#
+#Quand je me suis arrêté avant « La naissance de Vénus », j’ai dû m’émerveiller que mon travail soit un coup de génie.#
+0 44 5 2 2 6 7 #• Perles de moules?#
+#Cette perle de moule peut être sculptée dans une clé, mais cela nécessite une patience supérieure et une technologie superbe, les perles de moule me sont remises pour vous assurer que vous pouvez sculpter votre clé idéale et ne vous facturer que 2500 yuans, d’accord?#
+0 44 6 46 0 #• D’accord.#
+#Ce sera fait bientôt, vous attendez, je le ferai tout de suite... Puits! Presque terminé... D’accord! C’est une clé parfaite, prenez-la!#
+0 44 7 0 0 #• Pas bon.#
+#J’ai entendu dire que vous avez sauvé les enfants du village, alors je suis prêt à poser mon corps et à sculpter ce travail dénué de sens pour vous, la prochaine fois, ne me blâmez pas de ne pas aider.#
+2 0 8 0 0 #• Un chef-d’œuvre ?#
+#Il semble y avoir peu d’inspiration créative ces derniers temps.#
+1 0 9 1 0 #• Au revoir.#
+#Revenez visiter mon chef-d’œuvre quand vous aurez le temps.#

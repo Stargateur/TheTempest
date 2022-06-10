@@ -1,0 +1,35 @@
+
+
+
+#Hurry up and see the excitement! George and their family had another good show to watch.#
+#Oh? You're still alive and well! It's rare!#
+1 0 1 0 0 #• Name?#
+#Psica.#
+1 0 2 0 1 3 #• Occupation?#
+#I had just moved in from Parthenon with my mother and couldn't find a job yet.#
+0 62 3 0 1 4 #• Bartholnon?#
+#There are now rampant thieves everywhere, and the villagers have moved almost the same!#
+0 62 4 0 1 5 #• Rampaging thieves?#
+#It's the prisoners of those prisons! There are also some evil wizards.#
+0 62 5 0 0 #• Why is this so?#
+#I heard that it was the order of a general of the kingdom, and God knows why there was such an inexplicable order.#
+1 2 6 0 1 7 #• Good drama?#
+#Don't you know? Many samurai who thought they were strong rushed to George's house to compete with his bodyguard, and it was said that the winner could move all his treasures! But......#
+0 62 7 0 1 8 #• But what? @#
+#However, the bodyguard was the Blood Wizard who had been rampaging in Patnon a few years earlier, and he was later imprisoned by Prospero in a magic prison. But now that he has been released by the general and has come here to serve as George's bodyguard, I suspect that George has a connection with the general!#
+0 62 8 0 0 #• Hooks?#
+#Why else would the barren Bentenon be jumped by the chickens and dogs, while the rich Gnostic remained so calm?#
+2 62 9 0 0 #• Any new news?#
+#Not yet, I'll tell you!#
+62 71 10 0 1 11 #• Any new news?#
+#Yes! I ate a pigeon yesterday!#
+0 71 11 0 1 12 #• Pigeons?#
+#The carrier pigeons that George released tasted good, but the news was not very good.#
+0 71 12 0 1 13 #• Message?!#
+#You see. "Mr. Kay: The fish ate the cook and left with the gift!" This note was sent the night you defeated the Blood Wizard, and what else!#
+0 71 13 0 1 14 #• Also?#
+#You look at the two "Mr. Kay: There were a few fish that swam in recently, and they actually came from the other side!" "Mr. Kay: The cook is checking whether the fish is from the sea."#
+0 71 14 0 0 #• It seems that you have eaten quite a few pigeons.#
+#It seems that as soon as you enter the village, you will be targeted. Take care! I don't know who you are, but I'm sure you won't let go of the evil guys, right? Come on!#
+1 0 15 1 0 #• Goodbye.#
+#If you have time to come to me again, I believe there are still many conspiracies in this village!#

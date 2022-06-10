@@ -1,0 +1,17 @@
+
+
+
+#J’avais l’habitude de chasser au mont Proli.#
+#Il y a beaucoup d’animaux sauvages dans un proche avenir.#
+72 0 1 0 0 #• Nom?#
+#Ernst.#
+72 0 2 0 0 #• Profession?#
+#Chasseur.#
+72 73 3 0 0 #• Proly Hills?#
+#À l’origine, le mont Prolli était relié aux monts Nains St. Kelly, mais après ce tremblement de terre, il a été séparé du mont St. Kelly au sud.#
+73 0 4 0 1 5 #• Animaux sauvages?#
+#J’ai entendu dire que certains animaux ont été invoqués par Kate pour devenir des créatures fantômes plus puissantes, il faut donc faire attention.#
+73 0 5 0 0 #• Kate?#
+#Bourdonner! Je pense que Kate a été amenée par les Barthoniens nouvellement déplacés, peut-être que ces gens ont été envoyés par Kate!#
+1 0 6 1 0 #• Au revoir.#
+#Au revoir.#

@@ -1,0 +1,19 @@
+
+
+
+#Hé! Vous êtes de là, et le pont vers l’extérieur est brisé depuis longtemps!#
+#J’aimerais que tout soit pareil comme par le passé !#
+1 0 1 0 0 #• Nom?#
+#Quake Foster.#
+1 59 2 0 1 3 #• Pont?#
+#Ouf... Quand je pense au pont, je pense à mon père, qui est architecte, mais il a été attrapé par les méchants.#
+0 59 3 0 0 #• Les méchants ?#
+#Ils ont dit qu’ils aideraient un grand général à construire une ville royale, et quand ils sont partis, ils ont fait sauter le pont, et maintenant il ne reste plus que quelques femmes et enfants vieux et faibles.#
+59 60 4 0 0 #• Dessins de construction trouvés!#
+#Je ne m’attendais pas à ce que vous trouviez les dessins de construction, alors dépêchez-vous et trouvez Christie.#
+60 65 5 0 0 #• Idem ?#
+#Bonnes choses à faire jusqu’à la fin, s’il vous plaît aidez-nous à sauver la famille d’accord?#
+65 0 6 0 0 #• Idem ?#
+#Nous pouvons être réunis, grâce à vous.#
+1 0 7 1 0 #• Au revoir.#
+#Au revoir.#

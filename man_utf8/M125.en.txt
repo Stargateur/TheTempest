@@ -1,0 +1,19 @@
+
+
+
+#To tell the truth, if there is any festival in the royal family, it is only our commoners who are unlucky.#
+#Life is not as easy as you think.#
+1 0 1 0 0 #• Name?#
+#Jeff Daniel.#
+1 0 2 0 0 #• Occupation?#
+#I make a fortune fishing.#
+1 55 3 0 2 4 5 #• Festivals?#
+#It was unfortunate that the king finally found the maiden who had taken the pearl, but was forced to marry the evil son.#
+0 55 4 0 0 #• What beads to take?#
+#This is the secret of the underwater city, and we little people dare not reveal it casually.#
+0 55 5 0 0 #• Teenage girl?#
+#I heard that it is the most beautiful girl on The Rock Island! It was pitiful to be locked up in that big mansion now, and to hear her sobbing sobs at night.#
+2 0 6 0 0 #• Life?#
+#The fishermen's days have long been exploited.#
+1 0 7 1 0 #• Goodbye!#
+#If you have a chance, I hope to talk to you more.#

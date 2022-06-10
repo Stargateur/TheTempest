@@ -1,0 +1,17 @@
+
+
+
+#Haven't seen you in the village before?!#
+#When will there be the kind of happy life that we used to have?#
+1 0 1 0 0 #• Name?#
+#Michelle.#
+1 0 2 0 0 #• Occupation?#
+#I'm just an ordinary housewife.#
+1 75 3 0 1 4 #• Curse?#
+#Have you ever heard of Gypsy? It was her curse that she said no visible male could pass through that barrier.#
+0 75 4 0 1 5 #• Gypsy?#
+#She lived in the south of the village, and not only did she curse no man to invade the land, she also set up a wall in the west, which was completely isolated from the outside world. However, I have heard a rumor.#
+0 75 5 0 0 #• Rumors?#
+#It is rumored that there is a magic that can pass through the curse of the gyproy, but unfortunately I don't know any magic at all.#
+1 0 6 1 0 #• Goodbye.#
+#Good bye.#

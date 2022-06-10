@@ -1,0 +1,17 @@
+
+
+
+#Yes! It was like sleeping for years.#
+#It feels so good to wake up.#
+72 0 1 0 0 #• Name?#
+#Kevin.#
+72 0 2 0 0 #• Occupation?#
+#I am a blacksmith.#
+72 0 3 0 1 4 #• How long do you sleep?#
+#I just remember Kate suddenly appearing in the cellar and then seemingly asleep.#
+0 0 4 0 1 5 #• Kate?!#
+#Hum! Using troops to besiege civilian villages, can this also be said to be a general of the kingdom?!#
+0 0 5 0 0 #• Siege!#
+#Oh, yes! Kate's cavalry attacked eight times and could not take the village entrance! If Kate's magic wasn't too strong, Proli wouldn't have been able to capture it.#
+1 0 6 1 0 #• Goodbye.#
+#There is time to sit down.#

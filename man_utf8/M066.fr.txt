@@ -1,0 +1,15 @@
+
+
+
+#J’ai les dernières armes ici.#
+#Vous voulez acheter de l’équipement puissant?#
+1 0 1 0 0 #• Nom?#
+#Barnfield.#
+1 0 2 0 0 #• Profession?#
+#Spécialisé dans la vente d’armes et d’armures.#
+1 0 3 3 0 #• Achetez des armes.#
+#Veuillez choisir l’arme que vous souhaitez acheter.#
+1 0 4 4 0 #• Achetez une armure.#
+#Veuillez choisir l’armure que vous souhaitez acheter.#
+1 0 5 1 0 #• Au revoir.#
+#Merci d’être venu!#

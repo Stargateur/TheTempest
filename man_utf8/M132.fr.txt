@@ -1,0 +1,15 @@
+
+
+
+#Je pensais que Paul avait aussi été fait prisonnier ici, mais je ne m’attendais pas à ce qu’il s’échappe.#
+#Devinez comment nous vivons nos vies.#
+1 0 1 0 0 #• Nom?#
+#Stuart.#
+1 0 2 0 0 #• Profession?#
+#Architecte.#
+59 66 3 0 0 #• Paul est mort...#
+#Paul était un talent si rare, et c’était dommage d’entendre que vous saviez qu’il était mort dans cette grotte.#
+66 0 4 0 0 #• Vivre une vie?#
+#Le plus important maintenant est de réorganiser la patrie.#
+1 0 5 1 0 #• Au revoir.#
+#Nous vous reverrons.#

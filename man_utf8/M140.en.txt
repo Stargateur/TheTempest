@@ -1,0 +1,19 @@
+
+
+
+#I will never see my loved ones again in this life.#
+#Please stay for a few days.#
+1 0 1 0 0 #• Name?#
+#Isabella.#
+1 59 2 0 1 3 #• Loved ones?#
+#They were arrested, the bridge was blown up, and I don't think it's going to be possible to see each other again in this life.#
+0 59 3 0 0 #• Blow up?#
+#Although the bridge was blown up, there may be a glimmer of hope if the construction drawings of the original design can be found.#
+59 60 4 0 0 #• Find the construction drawings now!#
+#You don't know if the construction drawing you find is the one, or ask someone older to look at it.#
+60 65 5 0 0 #• How many days to stay?#
+#In order to celebrate the success of the bridge, stay for a few days, and then go to the rescue after the renovation is completed.#
+65 0 6 0 0 #• How many days to stay?#
+#Thank you! We should thank you for saving our whole village.#
+1 0 7 1 0 #• Goodbye.#
+#Good bye.#

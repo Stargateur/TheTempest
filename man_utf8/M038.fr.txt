@@ -1,0 +1,11 @@
+
+
+
+#Bienvenue!#
+#C’est le village de Galilée.#
+1 0 1 0 0 #• Nom?#
+#Darcy.#
+1 0 2 0 0 #• Profession?#
+#On m’a ordonné de m’en tenir à mon travail.#
+1 0 3 1 0 #• Au revoir!#
+#Au revoir!#

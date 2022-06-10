@@ -1,0 +1,17 @@
+
+
+
+#Bonjour! Inconfortable là-bas?#
+#Besoin d’une visite?#
+1 0 1 0 1 3 #• Nom?#
+#Je suis l’assistante du Dr Rick, Cecilia.#
+1 42 2 0 0 #• Consulter un médecin?#
+#Le meilleur médecin ici est Raylik.#
+0 42 3 0 1 4 #• Ryik?#
+#Sa femme était morte depuis un moment, et bien sûr il y aurait eu un peu de solitude.#
+0 42 4 0 1 5 #• Solitaire ?#
+#Donc, de temps en temps, je regarde des femmes qui viennent voir un médecin.#
+0 0 5 0 0 #• Patiente?#
+#C’est vrai... Hé? Pourquoi en demandez-vous autant?.#
+1 0 6 1 0 #• Au revoir.#
+#Allez directement chez un médecin pour obtenir des soins médicaux.#

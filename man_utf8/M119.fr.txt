@@ -1,0 +1,35 @@
+
+
+
+#Mon garçon, quel vent t’a soufflé dans notre ville sous-marine?#
+#Les gens ordinaires doivent avoir la capacité d’atteindre les cieux pour me voir!#
+1 0 1 0 0 #• Nom?#
+#Vous ne semblez pas être en mesure de demander mon nom. Mais je suis magnanime de nature, alors j’ai épargné votre petite vie, alors je vais écouter attentivement maintenant! Le nom du roi était « Cough » Paul Etiroski. Clobusia, ouf ! Je veux le lire d’un seul souffle, mais je suis vraiment fatigué.#
+1 0 2 0 0 #• Profession?#
+#Regardez vos gens sont toujours intelligents, mais comment poser des questions stupides? Ne ressemble-t-on pas à un roi ?#
+1 0 3 0 1 4 #• Ville sous-marine?#
+#C’est bizarre, n’est-ce pas ! C’est grâce à l’enchantement magique de la Perle de Vénus que les gens peuvent vivre ici si librement.#
+0 55 4 0 1 5 #• Perle de Vénus ?#
+#La légende raconte que si une belle femme venait à la palourde géante de rêve où Vénus est née, la palourde géante chanterait pour elle et lui donnerait la perle de Vénus qui brillait d’un éclat violet profond en cadeau, mais malheureusement un si beau trésor est maintenant tombé entre les mains du vilain Karabang.#
+0 55 5 0 2 6 7 #• Calabon est-il venu ici aussi?#
+#Il a creusé un passage secret de The Rock Island à mon royaume, et par le pouvoir de la magie noire, il a pris la Perle de Vénus, sinon, pourquoi enlèverais-je la fille pour épouser mon fils?#
+0 55 6 0 0 #• Passage secret ?#
+#Vous êtes probablement descendu de là aussi, n’est-ce pas? Le passage secret est glissant et il est difficile de retourner sur l’île de Telok à partir de là.#
+0 52 7 0 1 8 #• Qu’en est-il des filles?#
+#Allez-vous aider le vieil homme à sauver la petite fille? Ne sois pas bête. L’Enchantement a rétréci de plus en plus depuis que la Perle de Vénus a été prise, et tout le royaume compte maintenant sur elle pour prendre une autre Perle de Vénus de la Palourde Géante de Rêve! Sinon, le royaume sous-marin dormirait dans ce vaste océan pour toujours!#
+0 52 8 0 1 9 #• Acceptera-t-elle d’y aller?#
+#C’est pourquoi elle l’a forcée à épouser mon fils! Devenant princesse, je ne peux naturellement pas rester à l’écart de la question de l’ascension et de la chute du royaume, bien sûr, je sais aussi que c’est mal de la persécuter, mais c’est aussi inévitable! Sinon......#
+0 52 9 2 2 10 11 #• A moins de quoi ?#
+#À moins que vous ne puissiez récupérer la Perle de Vénus. Si vous pouvez le récupérer, la fille et vous pouvez retourner atterrir ensemble, mais... Êtes-vous prêt à prendre ce risque?#
+0 52 10 49 0 #• Volontaire.#
+#C’est vrai. Ensuite, prenez cette clé d’argent pour ouvrir la pièce près de ma chambre, il y a un passage à l’intérieur qui est la seule sortie de la ville sous-marine, et si vous trouvez vraiment la perle de Vénus, entrez dans la ville sous-marine par ce passage.#
+0 52 11 0 0 #• Réticent.#
+#Oubliez-le, mais il est difficile de sortir d’ici.#
+2 55 12 2 2 13 14 #• Compétences célestes?#
+#Il n’y a pas beaucoup de gens qui ont la capacité de venir dans la ville sous-marine! C’est juste! Avez-vous récupéré la Perle de Vénus ? Je savais que le Ciel ne traiterait pas une si bonne personne comme moi mal, haha...#
+0 55 13 48 0 #• Récupérez-le.#
+#C’est génial que vous ne vous attendiez pas à trouver la Perle de Vénus si rapidement! Hahahahaha! Vous avez pris la clé d’or, et la fille a été enfermée dans le manoir à l’extérieur du palais, et je tiens maintenant ma promesse que vous pouvez l’emmener hors de la ville sous-marine avec vous. Hahahahaha! Mes perles de bébé sont enfin de retour!#
+0 55 14 0 0 #• Je ne l’ai pas encore trouvé!#
+#Hélas! ... Il semble que je vais commencer à me préparer pour le mariage...#
+1 0 15 1 0 #• Au revoir.#
+#Si seulement il y avait quelque chose de nouveau dans le monde extérieur! N’oubliez pas de revenir et de me le dire à nouveau!#

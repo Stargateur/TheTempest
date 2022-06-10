@@ -1,0 +1,15 @@
+
+
+
+#Big brother, thank you! We can wake up from our dreams.#
+#Big brother, thank you! We can wake up from our dreams.#
+72 0 1 0 0 #• Name?#
+#My name is Chirinda.#
+72 74 2 0 1 3 #• Dreams?#
+#I dreamed that my mother and I would be locked up in the cellar forever.#
+0 74 3 0 1 4 #• Cellar?#
+#One night when I was sleeping, my mother suddenly woke me up, and with a large number of aunts and many of my friends in the village, I ran to the cellar of uncle blacksmith's house to hide, I didn't like it, it was so dark!#
+0 0 4 0 0 #• And then what?#
+#I don't remember, my mother told me to go to sleep quickly, and I fell asleep!#
+1 0 5 1 0 #• Goodbye.#
+#Bye!#

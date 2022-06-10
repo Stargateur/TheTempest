@@ -1,0 +1,19 @@
+
+
+
+#Do you need me to serve you?#
+#What else is needed?#
+1 0 1 0 0 #• Name?#
+#Midas.#
+1 0 2 0 0 #• Occupation?#
+#I am the owner of this inn.#
+1 0 3 2 2 5 6 #• Accommodation.#
+#It only costs 200 yuan to stay here for a night, okay?#
+1 0 4 3 0 #• Buy groceries.#
+#Pick it slowly!#
+0 0 5 15 0 #• Willing.#
+#Good luck with your dreams!#
+0 0 6 0 0 #• Unwilling.#
+#Thank you!#
+1 0 7 1 0 #• Goodbye.#
+#Thank you for the visit.#

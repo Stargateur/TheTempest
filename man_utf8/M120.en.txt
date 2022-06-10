@@ -1,0 +1,17 @@
+
+
+
+#You're here for my wedding.#
+#Ruo Diqian is really a rare good girl, that is, she has a bad temper.#
+1 0 1 0 0 #• Name?#
+#The Name "Meshika" given to me by the Father sounds majestic enough!#
+1 0 2 0 0 #• Occupation?#
+#I am the only son of the Father, and my power is above ten thousand people under one man.#
+1 55 3 0 0 #• Wedding?#
+#The preparation is almost over, but this little girl just won't agree, ahem! What grievances do you have to marry me, you can enjoy all the glory and wealth, and no one else can ask for it.#
+2 55 4 0 0 #• Ruo Di Qian?#
+#I don't see that she has a beautiful face, otherwise in terms of background and family lineage, the prince and nobleman will lose her. Feed! Help me persuade her, pull a dead face all day long, what is it!#
+55 0 5 0 0 #• Ruo Di Qian?#
+#Don't mention it! My dreams have all been destroyed for you, and although the Pearl of Venus is a treasure of the kingdom, you should not exchange it for my wife-to-be!#
+1 0 6 1 0 #• Goodbye.#
+#Well, there you go! ...#

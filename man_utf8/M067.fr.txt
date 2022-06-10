@@ -1,0 +1,19 @@
+
+
+
+#Oui! Il y a eu beaucoup de patients ces derniers temps.#
+#Y a-t-il encore de la douleur?#
+1 0 1 0 0 #• Nom?#
+#Je m’appelle Ammari.#
+1 0 2 0 0 #• Profession?#
+#Me! C’est spécifiquement pour le traitement de ces personnes.#
+1 0 3 9 0 #• Dépendance thérapeutique.#
+#Traitement de l’empoisonnement 20 yuans. *Veuillez sélectionner une personne pour le traitement!#
+1 0 4 7 0 #• Dé-pétrification.#
+#Ascenseur pétrochimique 100 yuans. *Veuillez sélectionner une personne pour le traitement!#
+1 0 5 10 0 #• Résurrection.#
+#Les frais de résurrection sont de 200 yuans, veuillez sélectionner un partenaire.#
+1 0 6 3 0 #• Acheter des médicaments?#
+#Ce sont tous des médicaments qui sont souvent utilisés, alors pourquoi acheter la même chose?#
+1 0 7 1 0 #• Au revoir.#
+#Au revoir.#

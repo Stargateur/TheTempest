@@ -1,0 +1,17 @@
+
+
+
+#I used to hunt in Mount Proli.#
+#There are many wild animals in the near future.#
+72 0 1 0 0 #• Name?#
+#Ernst.#
+72 0 2 0 0 #• Occupation?#
+#Hunter.#
+72 73 3 0 0 #• Proly Hills?#
+#Originally, Mount Prolli was connected to the Dwarven St. Kelly Mountains, but after that earthquake, it was separated from Mount St. Kelly in the south.#
+73 0 4 0 1 5 #• Wild animals?#
+#I've heard that some animals have been summoned by Kate to become more powerful ghost creatures, so you have to be careful.#
+73 0 5 0 0 #• Kate?#
+#Hum! I think Kate was brought in by the newly moved Barthonians, maybe those people were sent by Kate!#
+1 0 6 1 0 #• Goodbye.#
+#Good bye.#

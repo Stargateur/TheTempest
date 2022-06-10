@@ -1,0 +1,21 @@
+
+
+
+#La récolte de cette année n’est pas bonne!#
+#Il n’y a pas d’autre affaire à faire et je veux changer de carrière.#
+1 0 1 0 0 #• Nom?#
+#Je suis juste un gars rugueux, Kinsas, et c’est une mauvaise réputation.#
+1 0 2 0 0 #• Profession?#
+#Ce n’est pas un travail spécial, c’est juste une variété de coton.#
+1 29 3 0 1 4 #• Récolte?#
+#Lorsque la récolte du coton est meilleure, vous pouvez stocker du coton pour le vendre.#
+0 29 4 2 2 5 6 #• Vendre du coton?#
+#C’est le type de coton le plus léger, depuis que vous êtes venu ici, même si vous êtes bon à 1 000 yuans, voulez-vous l’acheter?#
+0 29 5 30 0 #• Acheter.#
+#J’espère que vous avez une valeur d’usage en l’emportant avec vous.#
+0 29 6 0 0 #• Non acheté.#
+#Vous ne connaissez vraiment pas les marchandises, revenez vers moi quand vous en avez besoin!#
+2 0 7 0 0 #• Changement de carrière?#
+#Regardez mon champ de coton, c’est tout simplement une variété rare dans le monde, mais il n’y a pas beaucoup de gens qui connaissent les produits, et le business n’est pas facile à faire!#
+1 0 8 1 0 #• Au revoir!#
+#Au revoir!#

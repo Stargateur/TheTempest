@@ -1,0 +1,17 @@
+
+
+
+#Being a fisherman's wife requires a lot of courage.#
+#That beautiful girl didn't know what was going on now.#
+1 0 1 0 0 #• Name?#
+#Emma.#
+1 0 2 0 0 #• Occupation?#
+#Housewife.#
+1 2 3 0 0 #• Fisherman's wife?#
+#I'm Jeff Daniel's wife, and sometimes I think he's too nosy, and it's better to keep a little bit of a mouth shut for the sake of my own livelihood.#
+2 55 4 0 0 #• Girls?#
+#Now I'm locked up in a mansion!#
+55 0 5 0 0 #• Girls?#
+#Unexpectedly, the king showed mercy this time and released the little girl.#
+1 0 6 1 0 #• Goodbye.#
+#I hope you are all the best.#

@@ -1,0 +1,15 @@
+
+
+
+#Ce n’est que maintenant que j’ai su que tant de choses s’étaient passées.#
+#Merci pour tout ce que vous avez fait.#
+1 0 1 0 0 #• Nom?#
+#Crowe.#
+1 0 2 0 0 #• Profession?#
+#Les petits designers ne suffisent pas à s’inquiéter, Paul est le maître!#
+1 66 3 0 0 #• Tant de choses ?#
+#Maître Paul est mort tragiquement, nous avons tous été sauvés, et c’est une grande chance dans le malheur de pouvoir retourner dans notre patrie, merci à tous!#
+66 0 4 0 0 #• Grand bienfaiteur ?#
+#J’espère que ce que Fellini a fait pour vous répondra à vos besoins de vengeance, allez.#
+1 0 5 1 0 #• Au revoir.#
+#Votre jour de succès n’est pas loin.#

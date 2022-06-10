@@ -1,0 +1,13 @@
+
+
+
+#Besoin que je vous donne un conseil de conscience?#
+#Besoin que je vous donne un conseil de conscience?#
+1 0 1 0 0 #• Nom?#
+#Les gens m’appellent Ukulélé.#
+1 0 2 0 0 #• Profession?#
+#Regardez mon équipement et vous savez que je suis un homme bon qui défend le manoir!#
+1 0 3 0 0 #• Conseils de conscience.#
+#Il y a beaucoup de monstres en dehors du village, la plupart d’entre eux seront cachés pendant la journée, si vous voulez vous précipiter sur la route est plus sûr, une fois que les monstres sortent la nuit, j’ai peur que ce soit plus gênant.#
+1 0 4 1 0 #• Au revoir!#
+#Au revoir.#

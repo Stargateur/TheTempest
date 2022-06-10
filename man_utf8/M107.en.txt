@@ -1,0 +1,17 @@
+
+
+
+#Although I run a weapons store, I don't want to see bloody battles!#
+#Martial arts need to be practiced more diligently.#
+1 0 1 0 0 #• Name?#
+#Marcus Purbins.#
+1 0 2 0 0 #• Occupation?#
+#I am the owner of a weapons store.#
+1 0 3 3 0 #• Buy weapons?#
+#Please select the same.#
+1 0 4 4 0 #• Buy armor?#
+#Please select the same.#
+1 0 5 8 0 #• Sell used goods.#
+#Let me see what you have to sell.#
+1 0 6 1 0 #• Goodbye.#
+#Good bye.#

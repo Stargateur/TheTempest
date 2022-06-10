@@ -1,0 +1,17 @@
+
+
+
+#Je suis la femme de Bailey et je peux organiser ma maison.#
+#Vous voulez visiter ma maison?#
+1 0 1 0 0 #• Nom?#
+#Iris.#
+1 0 2 0 0 #• Profession?#
+#Je ne suis qu’une femme au foyer.#
+1 32 3 0 1 4 #• Bailey?#
+#Mon mari! Non seulement il est occupé dans les affaires et gentil, mais notre famille est également aisée, et il a aussi la bonne habitude de tenir un journal!#
+0 32 4 0 0 #• Journal intime?#
+#C’est sa vie privée, alors je n’irai pas jeter un coup d’œil, sans compter que je ne sais pas où il se cache.#
+105 0 5 0 0 #• Visitez!#
+#Il n’y a rien à regarder à la maison, mais je suis vraiment reconnaissant que vous ayez sauvé toute notre famille, tout est blâmé sur mon mari cupide, pour le bien de notre famille, s’il vous plaît ne le poursuivez plus.#
+1 0 6 1 0 #• Au revoir!#
+#Ayez le temps de vous asseoir à la maison.#

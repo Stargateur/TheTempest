@@ -1,0 +1,29 @@
+
+
+
+#Hé! Êtes-vous ici pour chasser?#
+#Est-ce que ça se passe bien ces derniers temps?#
+1 0 1 0 0 #• Nom?#
+#Hagi Han kang.#
+1 0 2 0 0 #• Profession?#
+#Gagnez votre vie en chassant.#
+1 20 3 0 1 4 #• La chasse?#
+#Je pensais que vous étiez ici pour chasser, et vous avez regardé à droite, était-ce une forêt épaisse? Il y a beaucoup de proies qui y habitent, et nous l’appelons tous la Forêt-Noire.#
+0 20 4 0 2 5 10 #• Forêt-Noire?#
+#Puits! Mais depuis que les voleurs avaient pris la Forêt-Noire comme habitation, nous avions essayé de ne pas nous en approcher, et la Galilée ne pouvait pas y aller maintenant.#
+0 20 5 0 2 11 6 #• Voleurs!#
+#Il prétendait être le Roi Démon de la Forêt-Noire, bien qu’il ne ferait de mal à personne, mais il a pillé beaucoup de bijoux en or et en argent avec un physique fort, je ne sais pas si le personnage qui a volé le livre tout à l’heure est lui?#
+0 20 6 0 1 7 #• Des livres?#
+#Il a été laissé par mes ancêtres, et il venait d’être volé, et mon fils a vu une silhouette partir rapidement et immédiatement poursuivie après elle.#
+0 20 7 0 1 8 #• Fils.#
+#Mon fils, Dyvis, était grand et vêtu d’un costume de chasse, et il craignait d’être seul pour courir après les voleurs de livres, car récemment il y avait eu un terrible Karabang.#
+0 20 8 0 1 9 #• Karabang.#
+#Un gobelin au comportement étrange qui habitait autrefois une grotte de baleine, je ne savais pas grand-chose de lui, mais le simple fait de voir le regard maléfique sous ses sourcils était effrayant.#
+0 20 9 0 0 #• Grotte des baleines.#
+#C’est un trou sans fond dans la partie sud de la Forêt-Noire.#
+0 0 10 0 0 #• Galilée?#
+#Une belle ville dans la moitié orientale de la Forêt-Noire. Maintenant, peu importe la quantité de proies chassées, elles ne peuvent être vendues qu’à la Kabbale.#
+0 0 11 0 0 #• Roi Démon de la Forêt-Noire?#
+#J’avais infiltré son repaire, mais dès que je suis entré, il est sorti de la porte secrète et a dû fuir rapidement.#
+1 0 12 1 0 #• Au revoir.#
+#Bon voyage.#

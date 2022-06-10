@@ -1,0 +1,25 @@
+
+
+
+#Avez-vous déjà été dans de nombreux pays?#
+#Quelle ville peut vous faire vous attarder?#
+1 0 1 0 0 #• Nom?#
+#Wengert.#
+1 0 2 0 1 3 #• Profession?#
+#Je suis un voyageur.#
+0 72 3 0 2 4 5 #• Voyageurs?#
+#Eh bien, je viens de rentrer du village de Proli il y a quelque temps, et c’est misérable!#
+0 72 4 0 0 #• Village de Proli?#
+#J’avais entendu dire que quelqu’un à Prolli connaissait un passage mystérieux, mais tous les gens là-bas semblaient avoir perdu leur âme, et leurs yeux éparpillés ne pouvaient pas me dire de secrets. Pas étonnant que certaines personnes l’appellent le Village du Sommeil.#
+0 72 5 0 2 6 7 #• Misérable?#
+#Silence! Ne vous laissez pas entendre par les sbires de Kate, j’ai entendu dire que Prolli sera comme ça tout le chef-d’œuvre de Kate!#
+0 72 6 0 0 #• Kate?#
+#Il y a quelques mois, il a personnellement dirigé une grande armée pour attaquer Prolli la nuit, et il ne savait pas quel était le gros problème? On lui a en fait demandé de monter sur le cheval lui-même, et en quelques jours, quelqu’un a découvert que Prolli était devenu ce qu’il était maintenant.#
+0 65 7 0 2 8 9 #• Des sbires ?#
+#Le Magicien de Sang de Gnostic et le Directeur de la Prison de Bartenon, la Banshee aux Cheveux de Serpent, sont tous deux les bras droits de Kate. J’ai entendu dire qu’il y avait un sorcier sur l’île de Yar au sud-ouest de Patnon!#
+0 65 8 0 0 #• Île de Jarr?#
+#J’ai entendu dire que Kate est stationnée là-bas, je pense que personne ne trouvera un moyen de mourir, non?#
+0 66 9 0 0 #• Directeur de prison?#
+#Hélas! Les récidivistes deviennent administrateurs, que pouvons-nous dire?#
+1 0 10 1 0 #• Au revoir.#
+#Prends soin de toi.#

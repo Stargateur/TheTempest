@@ -1,0 +1,13 @@
+
+
+
+#What made you come to me in particular?#
+#Don't bother me.#
+75 0 1 0 0 #• Name?#
+#Kevin Andrew.#
+75 0 2 0 0 #• Occupation?#
+#Guard.#
+75 78 3 0 0 #• Special?#
+#Do you have a special order from General Kate?#
+1 0 4 1 0 #• Goodbye.#
+#Good bye.#

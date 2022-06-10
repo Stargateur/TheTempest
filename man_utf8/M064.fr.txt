@@ -1,0 +1,19 @@
+
+
+
+#Puis-je vous aider?#
+#Né dans un monde troublé, je ne cherche qu’un court réconfort pour mon propre plaisir.#
+1 0 1 0 0 #• Nom?#
+#Je suis Angel et Wells est mon monsieur.#
+1 0 2 0 3 3 5 6 #• Profession?#
+#De temps en temps, aidez mon mari à voir le magasin, sinon faites le ménage, de sorte que j’espère porter ce bonnet argenté et aller en voyage à Tahari avec Wells.#
+0 0 3 0 1 4 #• Bonnet en argent?#
+#Je l’ai tricoté moi-même avec une ligne de pêche en argent, et tout Jenok est un tel top!#
+0 0 4 0 0 #• Ligne de pêche en argent?#
+#C’est une spécialité du Tashali Sand Bank.#
+0 0 5 0 0 #• Tashali?#
+#C’est un magnifique banc de sable, et le long de la côte sud de Jenok, vous trouverez un chemin d’où vous atteindrez la belle Tassaly.#
+0 0 6 0 0 #• Voyager?#
+#Une fois, j’ai entendu un voyageur dire que la ville sous-marine est un endroit très spécial, et j’espère vraiment le voir.#
+1 0 7 1 0 #• Au revoir!#
+#Au revoir!#

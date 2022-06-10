@@ -1,0 +1,17 @@
+
+
+
+#Il existe une variété d’armes et d’armures sophistiquées, aimeriez-vous le visiter?#
+#Vous voulez acheter de nouveaux produits?#
+1 0 1 0 0 #• Nom?#
+#Louis.#
+1 0 2 0 0 #• Profession?#
+#Je dirige ce magasin d’armes depuis des décennies.#
+1 0 3 3 0 #• Achetez des armes.#
+#Votre chance est si bonne qu’un lot de nouvelles marchandises vient d’arriver récemment.#
+1 0 4 4 0 #• Achetez une armure.#
+#L’effet de défense de ces armures est bon, choisissez la même chose!#
+1 0 5 8 0 #• Vendre des objets.#
+#Laissez-moi voir si vous avez de bons produits à vendre!#
+1 0 6 1 0 #• Au revoir.#
+#S’il y a quelque chose de bon, n’oubliez pas que je l’achèterai à un prix élevé!#

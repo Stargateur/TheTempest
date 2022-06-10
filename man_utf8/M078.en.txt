@@ -1,0 +1,23 @@
+
+
+
+#Although I used to be a master weaver, I haven't done it for a long time now.#
+#Do you want to knit something?#
+1 0 1 0 0 #• Name?#
+#Basco.#
+1 0 2 0 0 #• Occupation?#
+#Help people knit little things.#
+38 87 3 0 1 4 #• A master weaver?#
+#The fishing nets were too big, and I was not in good health, so I could only knit small things like capes.#
+0 39 4 2 2 5 6 #• Weaving Flying Winds?#
+#You have the legendary flying cape instruction manual, which is great! As long as 1200 yuan of wages, I can help you knit a flying cape, do you want to knit?#
+0 0 5 38 0 #• Yes.#
+#It's not easy for you to find these items, so take them in about three days! I should be able to weave it by then.#
+0 0 6 0 0 #• Don't.#
+#Come back when you want to knit!#
+39 106 7 0 0 #• Take a cape.#
+#You're in a hurry too, aren't you? I'll get it out as soon as possible and I'll get it later!#
+106 87 8 20 0 #• Take a cape.#
+#Finally done, I heard that this baby is very magical!#
+1 0 9 1 0 #• Goodbye.#
+#Goodbye.#

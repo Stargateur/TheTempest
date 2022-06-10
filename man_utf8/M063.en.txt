@@ -1,0 +1,31 @@
+
+
+
+#Business has not been good lately, there are no guests, need service?#
+#Want to stay? Or do you want to ask something?#
+1 0 1 0 0 #• Name?#
+#Wells.#
+1 0 2 0 1 3 #• Occupation?#
+#Hostel owner.#
+1 0 3 0 2 4 5 #• Hostel?#
+#Of course! There are fewer guests in the war, but the quality of service is still good.#
+0 32 4 0 0 #• War?#
+#The dwarves thought that our villagers had killed their dwarven king and had declared war on our village.#
+0 0 5 0 1 6 #• Guest?#
+#The guests staying are few, but there are a few special guests.#
+0 32 6 0 1 7 #• Special guests?#
+#Most of the accommodation is out of town, but a few days ago, Bailey rushed to say that he wanted to stay, saying something to avoid the wind and so on, and I didn't understand much.#
+0 32 7 0 0 #• Bailey?#
+#He's from our village, and he's been behaving strangely lately, and he lives in the room on the right, and I haven't had time to clean it yet! If you want to visit, I have no objection.#
+1 0 8 2 2 9 10 #• Accommodation?#
+#If you don't want to stay here, it is difficult to find an inn nearby, and our price is still reasonable for 150 yuan, okay?#
+0 0 9 15 0 #• Good.#
+#Thank you for the visit. Have a nice day!#
+0 0 10 1 0 #• Not good.#
+#Next time, welcome to visit our restaurant again.#
+2 31 11 0 0 #• Ask?#
+#Seeing the key, it must have been left by Bailey accidentally.#
+105 0 12 0 0 #• Ask?#
+#I am glad that you have cleared our grievances for us, and that Heaven will bless you.#
+1 0 13 1 0 #• Goodbye.#
+#Welcome back!#

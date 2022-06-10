@@ -1,0 +1,17 @@
+
+
+
+#Welcome! Is there anything you need?#
+#Here's the weapon pack for your satisfaction!#
+1 0 1 0 0 #• Name?#
+#My name is Wayne and I'm the owner of this shop.#
+1 0 2 0 0 #• Occupation?#
+#Didn't you just say that? It's the owner of this weapon and armor shop.#
+1 0 3 3 0 #• I want to buy weapons.#
+#Pick a handy weapon, monsters have been rampant lately.#
+1 0 4 4 0 #• I want to buy armor.#
+#The armor here is guaranteed to be strong and durable, you want that too?#
+1 0 5 8 0 #• Sell items.#
+#I'll see what you have to say first.#
+1 0 6 1 0 #• Goodbye!#
+#Thank you for coming!#

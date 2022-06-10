@@ -1,0 +1,11 @@
+
+
+
+#This is the main road of the underwater city, does it need to be informed?#
+#Nothing special, don't come to me.#
+1 0 1 0 0 #• Name?#
+#Jacques is Uncle's name, what's up!#
+1 0 2 0 0 #• Occupation?#
+#Such a hard guard work, are you also interested?#
+1 0 3 1 0 #• Goodbye.#
+#Nothing to hang out!#

@@ -1,0 +1,17 @@
+
+
+
+#Thank you for saving me.#
+#Please give me a chance to repay you!#
+1 0 1 0 0 #• Name?#
+#Fellini.#
+1 0 2 0 1 3 #• Occupation?#
+#Although I am also an architect, I am far worse than Paul.#
+0 0 3 0 1 4 #• Paul is dead.#
+#He's dead? Alas! Everyone must be sad to lose Paul... That's right! This badge may be useful to you.#
+0 69 4 65 0 #• Badges?#
+#When we were imprisoned in Parthenon, we dug an escape tunnel, but the exit was a village that could not be accessed by men, so we fled back disappointed. But when digging the secret passage, I found a mysterious badge, and this badge will be handed over to you, maybe it will help you.#
+66 0 5 0 0 #• Reward?#
+#If you want to defeat Kate's big demon, I'm afraid you have to find the right opportunity to attack.#
+1 0 6 1 0 #• Goodbye.#
+#I wish you success!#

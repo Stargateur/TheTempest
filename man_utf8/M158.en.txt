@@ -1,0 +1,25 @@
+
+
+
+#Have you ever been to many countries?#
+#Which city can make you linger?#
+1 0 1 0 0 #• Name?#
+#Wengert.#
+1 0 2 0 1 3 #• Occupation?#
+#I'm a traveler.#
+0 72 3 0 2 4 5 #• Travelers?#
+#Well, I just came back from The Village of Proli a while ago, and it's miserable!#
+0 72 4 0 0 #• Proli Village?#
+#I had heard that someone in Prolli knew a mysterious passage, but all the people there seemed to have lost their souls, and their scattered eyes could not tell me any secrets. No wonder some people call it the Village of Sleep.#
+0 72 5 0 2 6 7 #• Miserable?#
+#Be quiet! Don't be overheard by Kate's minions, I heard that Prolli will be like this all Kate's masterpiece!#
+0 72 6 0 0 #• Kate?#
+#A few months ago he personally led a large army to attack Prolli at night, and he did not know what the big deal was? He was actually asked to go out on the horse himself, and within a few days, someone found out that Prolli had become what he was now.#
+0 65 7 0 2 8 9 #• Minions?#
+#The Blood Wizard of Gnostic and the Director of Bartenon's Prison, the Serpent-Haired Banshee, are both Kate's right-hand men. I heard that there is a wizard in Yar Island southwest of Patnon!#
+0 65 8 0 0 #• Isle of Jarr?#
+#I heard that Kate is stationed there, I think no one will find a way to die, right?#
+0 66 9 0 0 #• Prison Director?#
+#Alas! Repeat offenders become directors, what can we say?#
+1 0 10 1 0 #• Goodbye.#
+#Take care.#

@@ -1,0 +1,17 @@
+
+
+
+#Beau gars! Désolé! Je ne parle pas de vous, je parle de celui qui est mince et bien orienté derrière vous.#
+#Celui qui me manque le plus dans ma vie, c’est Davis.#
+1 0 1 0 0 #• Nom?#
+#Arana.#
+1 73 2 2 2 3 4 #• Se réveiller?#
+#Écoutez Sherlock dire que vous avez sauvé tout le village, grâce à votre aide, n’est-ce pas ! Sherlock veut aussi que je vous emmène à yar Island, et vous êtes là pour cela, non?#
+0 73 3 69 0 #• Oui !#
+#S’il vous plaît, venez avec moi.#
+0 73 4 0 0 #• Nous devons nous préparer à nouveau.#
+#D’accord! Davis, tu vas revenir vers moi, n’est-ce pas ?#
+2 0 5 0 0 #• Nostalgie ?#
+#Ma chérie, viens-tu sortir avec moi?#
+1 0 6 1 0 #• Au revoir.#
+#Laissez-moi vous voir une fois de plus, mon chéri.#

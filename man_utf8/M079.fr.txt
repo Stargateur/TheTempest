@@ -1,0 +1,13 @@
+
+
+
+#Le général Kate était un haut fonctionnaire soutenu par tout le peuple.#
+#Notre capacité à vivre en paix est entièrement un don de Dieu.#
+75 0 1 0 0 #• Nom?#
+#McFarri.#
+75 0 2 0 0 #• Profession?#
+#Je... C’est la suite de Kate, quel est le problème?#
+75 78 3 0 0 #• Kate?#
+#Notre grand général est extraordinaire, et il est un exemple rare et bon.#
+1 0 4 1 0 #• Au revoir.#
+#Au revoir.#

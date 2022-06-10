@@ -1,0 +1,17 @@
+
+
+
+#Je ne suis pas vraiment un homme d’affaires non plus, donc il n’y en a pas beaucoup.#
+#Le prochain voyage en mer devra peut-être voir la création de la météo.#
+1 0 1 0 0 #• Nom?#
+#Petrod.#
+1 0 2 0 0 #• Profession?#
+#Je suis membre d’équipage, et parfois je profite de l’occasion pour aller en mer et apporter des armes ou des armures de l’extérieur pour les vendre.#
+1 0 3 3 0 #• Quelles armes avez-vous ?#
+#Honnêtement, ce sont de très bonnes choses!#
+1 0 4 4 0 #• Je veux acheter une armure.#
+#Ce sont tous de bons produits.#
+1 0 5 8 0 #• Achetez-vous des biens d’occasion?#
+#Bien sûr, laissez-moi voir ce que vous avez.#
+1 0 6 1 0 #• Au revoir.#
+#Au revoir.#

@@ -1,0 +1,15 @@
+
+
+
+#Merci de m’avoir sauvé, je dois me dépêcher et voir mon père!#
+#Merci de m’avoir sauvé la vie.#
+1 0 1 0 0 #• Nom?#
+#Ruo Diqian.#
+55 2 2 0 1 3 #• Père?#
+#La famille doit mourir pour mon entreprise, et je dois aller voir mon père rapidement pour rassurer tout le monde.#
+0 2 3 0 0 #• Soyez prudent !#
+#Merci! Je me souviendrai toujours de toi. Soit dit en passant, si vous avez besoin d’aide, vous pouvez aller voir mon père, qui devrait être au port de ferry sur l’île de Telok maintenant.#
+2 56 4 0 0 #• Vous êtes les bienvenus!#
+#J’espère que tout se passera bien et en douceur, et j’espère que je vous reverrai ce jour-là l’année prochaine...#
+1 0 5 1 0 #• Au revoir.#
+#Au revoir.#

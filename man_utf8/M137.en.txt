@@ -1,0 +1,15 @@
+
+
+
+#Want to see a weapon or armor?#
+#Need anything else?#
+1 0 1 0 0 #• Name?#
+#Shasan.#
+1 0 2 3 0 #• Weapons.#
+#It's all there, just look at it.#
+1 0 3 4 0 #• Armor.#
+#Pick slowly.#
+1 0 4 8 0 #• Sell used goods.#
+#See what good things you have.#
+1 0 5 1 0 #• Goodbye.#
+#Come back when you have time.#

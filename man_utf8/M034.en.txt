@@ -1,0 +1,21 @@
+
+
+
+#This year's harvest has not been good.#
+#It's hard to find a free time to rest, and you'll come to me.#
+1 0 1 0 0 #• Name?#
+#Pimalian.#
+1 0 2 0 1 3 #• Occupation?#
+#Just look at the way I look, working in the sun every day.#
+0 24 3 0 2 4 5 #• Work?#
+#Oh, yes! The farm is very complicated, that's like Jason's good luck!#
+0 24 4 0 1 6 #• Good luck?#
+#Guarding the Trevi Fountain is a fat shortage, both easy and extra money to get.#
+0 24 5 0 1 7 #• Jason?#
+#Are you asking my real friend? Tell you a secret, he is most likely to be bribed, for money, do everything.#
+0 24 6 0 0 #• Extra fast?#
+#It's the money that people put into the Trevi Fountain! Sometimes, he... Forget it, digging up people's privacy is a very bad thing, I went busy.#
+0 24 7 0 0 #• Money?#
+#He was most pleased to see the Wishing Fountain full of gold coins, preferably thousands!#
+1 0 8 1 0 #• Goodbye!#
+#If you have time, help me yak!#

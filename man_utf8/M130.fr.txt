@@ -1,0 +1,15 @@
+
+
+
+#Les donjons ici sont très dangereux, vous portez du matériel en lambeaux... Est-ce pour combler le vide entre les dents des gens?#
+#Encore... Je me suis revu, quel destin !#
+1 0 1 0 0 #• Nom?#
+#Tandy.#
+1 2 2 1 0 #• Est-il acceptable d’aller dans le donjon ensemble?#
+#Vous allez dans les donjons ? Roter... J’attends... Attendre... Attendez que le temps soit meilleur et rejoignez-le, c’est tout, j’irai en premier!#
+2 75 3 0 1 4 #• Est-il acceptable d’aller dans le donjon ensemble?#
+#Ou voulez-vous aller dans le donjon? Roter... Je... J’attends un ami aujourd’hui! Tu descends en premier, ne m’attends pas, vraiment... Ne m’attendez pas!#
+0 75 4 1 0 #• Êtes-vous vraiment réticent à vous joindre?#
+#☆▲＊○φ... Non... Je n’ai pas vu un aventurier aussi ennuyeux, si vous voulez y aller, allez-y seul, ne me traînez pas dans l’eau, s’il vous plaît! Au revoir au revoir!#
+75 0 5 1 0 #• Rejoignez... Équipe... Cinq...#
+#J’ai juré que je ne tuerai pas dans cette vie, s’il vous plaît épargnez-moi, grand héros...#

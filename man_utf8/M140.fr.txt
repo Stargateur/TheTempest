@@ -1,0 +1,19 @@
+
+
+
+#Je ne reverrai plus jamais mes proches dans cette vie.#
+#S’il vous plaît rester quelques jours.#
+1 0 1 0 0 #• Nom?#
+#Isabella.#
+1 59 2 0 1 3 #• Des proches?#
+#Ils ont été arrêtés, le pont a explosé, et je ne pense pas qu’il sera possible de se revoir dans cette vie.#
+0 59 3 0 0 #• Exploser ?#
+#Bien que le pont ait été dynamité, il peut y avoir une lueur d’espoir si les dessins de construction de la conception originale peuvent être trouvés.#
+59 60 4 0 0 #• Trouvez les dessins de construction maintenant!#
+#Vous ne savez pas si le dessin de construction que vous trouvez est celui-là, ou demandez à quelqu’un de plus âgé de le regarder.#
+60 65 5 0 0 #• Combien de jours rester?#
+#Afin de célébrer le succès du pont, restez quelques jours, puis allez à la rescousse une fois la rénovation terminée.#
+65 0 6 0 0 #• Combien de jours rester?#
+#Merci! Nous vous remercions d’avoir sauvé tout notre village.#
+1 0 7 1 0 #• Au revoir.#
+#Au revoir.#

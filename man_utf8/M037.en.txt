@@ -1,0 +1,11 @@
+
+
+
+#This is the village of Galilee.#
+#If nothing else, you'd better not look for me.#
+1 0 1 0 0 #• Name?#
+#My name is Andrew.#
+1 0 2 0 0 #• Occupation?#
+#The work of the guards here depends on a few of us.#
+1 0 3 1 0 #• Goodbye!#
+#Good bye!#

@@ -1,0 +1,19 @@
+
+
+
+#Bonjour, quelle maladie traiter ?#
+#Inconfortable là-bas? Je peux vous aider à voir!#
+1 0 1 0 0 #• Nom?#
+#Je m’appelle Rayrick.#
+1 0 2 0 0 #• Profession?#
+#Je suis un médecin consciencieux.#
+1 0 3 9 0 #• Dépendance thérapeutique.#
+#Traitement de l’empoisonnement 20 yuans. *Veuillez sélectionner une personne pour le traitement!#
+1 0 4 7 0 #• Dé-pétrification.#
+#Ascenseur pétrochimique 100 yuans. *Veuillez sélectionner une personne pour le traitement!#
+1 0 5 10 0 #• Résurrection.#
+#Les frais de résurrection sont de 200 yuans, veuillez sélectionner un partenaire.#
+1 0 6 3 0 #• Acheter des médicaments.#
+#Vous voulez acheter lequel?#
+1 0 7 1 0 #• Au revoir.#
+#Je vous souhaite tout le meilleur!#

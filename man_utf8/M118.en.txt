@@ -1,0 +1,15 @@
+
+
+
+#Thank you for saving me out, I have to hurry up and see my father!#
+#Thank you for saving my life.#
+1 0 1 0 0 #• Name?#
+#Ruo Diqian.#
+55 2 2 0 1 3 #• Father?#
+#The family must be dying for my business, and I have to go to see my father quickly to reassure everyone.#
+0 2 3 0 0 #• Be careful!#
+#Thank you! I will always remember you. By the way, if you need help, you can go to my father, who should be at the ferry port on Telok Island now.#
+2 56 4 0 0 #• You're welcome!#
+#I hope that everything will go smoothly and smoothly, and I hope that I will meet you again on this day next year...#
+1 0 5 1 0 #• Goodbye.#
+#Good bye.#

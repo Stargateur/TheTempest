@@ -1,0 +1,25 @@
+
+
+
+#It's rare to see outsiders here!#
+#You seem to be bothering me, is there anything wrong?#
+1 84 1 12 0 #• Name?#
+#ㄨ△＊○？ ２...#
+1 84 2 12 0 #• Occupation?#
+#ㄨ△＊○？ ２...#
+84 0 3 0 0 #• Name?#
+#I'm Messit.#
+84 0 4 0 0 #• Occupation?#
+#I am the guard of the village of Kabbalah.#
+84 2 5 0 2 8 9 #• Out of town?#
+#You must be from the village of Galilee, right? Not simple! You'll have to go through the treacherous Black Forest!#
+2 0 6 0 0 #• Galilee Village?#
+#It's a small village on the eastern side of the Black Forest!#
+2 0 7 0 0 #• Black Forest?#
+#A ghostly place with thick fog all year round, where only hunters have the courage to hang out.#
+0 0 8 0 0 #• Galilee Village?#
+#Didn't you come from there? It's a small village on the eastern side of the Black Forest!#
+0 0 9 0 0 #• Black Forest?#
+#A ghostly place with thick fog all year round, where only hunters have the courage to hang out.#
+1 0 10 1 0 #• Goodbye.#
+#Good bye.#

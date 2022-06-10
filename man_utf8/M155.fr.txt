@@ -1,0 +1,17 @@
+
+
+
+#Nourrir! Homme! Quel noble travail!#
+#Hé! Vous êtes très haut! Achetez-le maintenant! Si vous ne l’achetez pas, roulez-le!#
+1 0 1 0 0 #• Nom?#
+#Le nom de Lao Tzu était Morive.#
+1 0 2 0 0 #• Profession?#
+#Le grand patron de ce magasin d’armes, c’est moi !#
+1 0 3 3 0 #• Achetez des armes.#
+#Choisissez le vôtre! Donnez de l’argent si vous voulez!#
+1 0 4 4 0 #• Achetez une armure.#
+#Faites-le vous-même! Lao Tzu est très occupé!#
+1 0 5 8 0 #• Vendre des biens d’occasion.#
+#Vous aurez beaucoup à faire!#
+1 0 6 1 0 #• Au revoir.#
+#Roulez !#

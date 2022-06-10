@@ -1,0 +1,17 @@
+
+
+
+#We have been living in Telok Island for many years.#
+#I have a gentle and lovely daughter...#
+1 0 1 0 0 #• Name?#
+#Juliet.#
+1 0 2 0 0 #• Occupation?#
+#My husband is Kunir, and we have been fishing for generations.#
+1 53 3 0 0 #• Telok Island.#
+#Since Karabang occupied the island and converted the old temple into a lair, we have not had a good life.#
+2 55 4 0 0 #• Daughter?#
+#Our family originally only wanted food and clothing, but my poor daughter fell into the clutches of the prince of the undersea city, and I heard that his personality was very cruel. O my poor daughter!#
+55 0 5 0 0 #• Daughter?#
+#Great benefactor, I am so grateful to you for saving my Ruo Di Qian, thank you!#
+1 0 6 1 0 #• Goodbye.#
+#The day of longing for peace came sooner.#

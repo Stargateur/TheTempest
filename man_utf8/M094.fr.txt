@@ -1,0 +1,15 @@
+
+
+
+#Grand frère, merci de m’avoir sauvé la vie!#
+#Bonjour Big Brother.#
+1 0 1 0 0 #• Nom?#
+#Rubis.#
+41 42 2 0 0 #• Rentrez chez vous!#
+#Eh bien, ma sœur sera heureuse de savoir que je vais bien, et je vais la voir rapidement. Et maman...#
+42 90 3 0 0 #• Maman?#
+#Oui! Ma très chère maman est très malade et inquiète pour ma sécurité, maman...#
+90 0 4 0 0 #• Maman?#
+#Maintenant, j’espère juste que maman ira mieux bientôt.#
+1 0 5 1 0 #• Au revoir.#
+#J’espère être de bons amis avec vous.#

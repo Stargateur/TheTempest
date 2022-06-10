@@ -1,0 +1,37 @@
+
+
+
+#Want to ask me for something new?#
+#There seems to be little new news lately.#
+1 0 1 0 0 #• Name?#
+#I'm Danny, and people call me Bag Inquirer.#
+1 32 2 0 1 3 #• Inquire?#
+#Want to know how Prospero lost his throne?#
+0 53 3 0 1 4 #• Losing the throne?#
+#Neglecting the affairs of the kingdom, he lived the life of a hermit entirely, studying a discipline to recuperate his mind, but unexpectedly aroused Antonio's ambitions.#
+0 53 4 0 3 5 6 8 #• Ambition?#
+#Antonio then became arrogant, not only snatching everything his power could expropriate, but also co-opting Kate, who controlled the kingdom's army; The conspiracy, step by step, was realized.#
+0 53 5 0 0 #• Army?#
+#Don't you know that Antonio has already sent a large army to establish a completely own force here?!#
+0 53 6 0 1 7 #• Kate?#
+#The army is led by Kate, who also controls some of the island's elves and evil wizards as assistants.#
+0 53 7 0 1 9 #• Elves?#
+#Not only the elves, but also Karabang, who had been blessed by Prospero, also became his minions and did whatever he wanted.#
+0 32 8 0 0 #• Conspiracy?#
+#When Antonio has fully realized his plot, the island will not be saved.#
+0 79 9 0 0 #• Karabang!#
+#A maverick goblin who lives on The Island of Telok.#
+79 53 10 0 1 11 #• You know Karabang!#
+#What's wrong with a maverick goblin who lives on Telock Island?#
+0 53 11 0 1 12 #• We are on our way to Telok Island!#
+#Lair of Calbon?! Impossible, no one wants to get close there.#
+0 53 12 0 1 13 #• There is no way at all?#
+#I heard that the waterfall east of Saint-Germain is the entrance to Troy Island, but... How do you get to Saint-Germain?#
+0 53 13 0 1 14 #• What does it mean?#
+#In a previous earthquake, the land mass of Saint-Germain sank and shifted, forming a steep cliff and shallow sea that fishing boats could not navigate, so if you were to go to Saint-Germain, unless you would...#
+0 53 14 0 1 15 #• What will it be?#
+#Hahaha... Can fly! Fly down the cliff like a bird. But you still have to defeat the dragon first!"#
+0 53 15 0 0 #• Dragons?#
+#Just stay at Saint-Germain, and advise you to stay away from there!#
+1 0 16 1 0 #• Goodbye.#
+#Come back when you have time!#

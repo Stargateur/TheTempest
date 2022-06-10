@@ -1,0 +1,27 @@
+
+
+
+#Je m’appelle Antiphores, et vous vous êtes enfin réveillés.#
+#Bonjour, y a-t-il quelque chose qui ne va pas chez moi?#
+1 0 1 0 0 #• Nom?#
+#Antiphores.#
+1 0 2 0 0 #• Profession?#
+#Je ne suis qu’un pêcheur.#
+1 11 3 0 2 4 6 #• Enfin se réveiller?#
+#Quand je pêchais à la plage, je t’ai vu inconscient sur la plage, et je ne sais pas ce qui s’est passé?#
+0 0 4 0 1 5 #• Pêche?#
+#La source de poisson près de l’île Edmer est abondante!#
+0 0 5 0 0 #• Île d’Edmer?#
+#En fait, il faut dire que c’est un archipel, mais ce fantôme à l’origine isolé de Prospero a été occupé par des forces inconnues et est devenu dangereux.#
+0 11 6 0 1 7 #• Bord de mer ?#
+#Vous n’avez pas vu d’autres copains près de votre coma, mais vous avez trouvé un livre, était-ce le vôtre ?#
+0 11 7 0 1 8 #• Des livres?#
+#C’était comme s’il s’agissait d’un livre de magie, et je connaissais l’une des magies qui pouvaient communiquer avec n’importe qui, et c’était ce que Prospero possédait.#
+0 11 8 2 2 9 10 #• Communication?#
+#Ce genre de magie semble s’appeler un sort de translittération! Quand le livre magique sera ouvert, la magie sera libérée, et nous, les pêcheurs, ne sommes pas capables de comprendre ces choses, si vous en avez besoin, nous vous le donnerons?#
+0 11 9 11 0 #• Bien.#
+#J’espère que vous utiliserez ce pouvoir divin pour sauver cet archipel. C’est juste! Vous n’êtes pas familier avec cela lorsque vous arrivez ici, alors dirigez-vous vers le sud le long de la côte jusqu’au village de Kabbale et tentez votre chance!#
+0 12 10 0 0 #• Pas bon.#
+#Si vous ne le voulez vraiment pas, ne le forcez pas, revenez vers moi quand vous en avez besoin.#
+1 0 11 1 0 #• Au revoir.#
+#Il y aura une période plus tard.#

@@ -1,0 +1,15 @@
+
+
+
+#Si vous êtes là pour aider à combattre, c’est très bien.#
+#Je suis occupé! C’est normal de ne pas jouer avec moi.#
+1 0 1 0 0 #• Nom?#
+#Banard.#
+1 0 2 0 0 #• Profession?#
+#Ce genre de robe, vous savez en un coup d’œil que vous êtes un garde, alors pourquoi demander plus.#
+1 105 3 0 0 #• Se battre?#
+#Fais attention! Les étrangers sont sous surveillance, alors ne soyez pas surpris pendant la guerre!#
+105 0 4 0 0 #• Occupé?#
+#Merci d’avoir emporté nos charges, le chef du village vous a-t-il remercié ?#
+1 0 5 1 0 #• Au revoir!#
+#Au revoir.#

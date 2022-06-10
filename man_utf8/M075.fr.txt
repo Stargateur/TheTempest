@@ -1,0 +1,21 @@
+
+
+
+#La vie des pêcheurs n’est pas bonne.#
+#Récemment, il y a eu beaucoup moins de bancs de poissons.#
+1 0 1 0 0 #• Nom?#
+#Beccaano Ouest.#
+1 0 2 0 1 3 #• Profession?#
+#Un pêcheur qui vit près de ses filets.#
+0 38 3 0 2 4 5 #• Des filets de pêche?#
+#Héhé! J’ai utilisé la ligne de pêche la plus dure comme matériau pour le filet de pêche et j’ai troublé la tisserande sur la rive nord-est pour la tisser.#
+0 38 4 2 2 6 7 #• Ligne de pêche?#
+#Cette ligne de pêche en argent est faite de matériaux extrêmement rares, donc le prix est plus cher, une paire de 1900 yuans, en avez-vous besoin?#
+0 39 5 0 0 #• Weaver Girl?#
+#Vous ne savez pas? La technique de tissage de Basco est superbe. Peu importe les vêtements, les filets de pêche, les engins de pêche, les capes, les chapeaux, tous sont ce pour quoi elle est douée.#
+0 39 6 37 0 #• Oui.#
+#Je pense que vous connaîtrez les avantages après l’avoir acheté.#
+0 39 7 0 0 #• Rien.#
+#Bien sûr, vous ne pouvez pas croire mes paroles, mais vous pouvez demander à quelqu’un d’autre!#
+1 0 8 1 0 #• Au revoir.#
+#La prochaine fois, nous irons pêcher de nuit ensemble.#

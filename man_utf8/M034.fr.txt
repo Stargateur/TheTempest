@@ -1,0 +1,21 @@
+
+
+
+#La récolte de cette année n’a pas été bonne.#
+#Il est difficile de trouver un temps libre pour se reposer, et vous viendrez à moi.#
+1 0 1 0 0 #• Nom?#
+#Pimalian.#
+1 0 2 0 1 3 #• Profession?#
+#Il suffit de regarder mon apparence, de travailler au soleil tous les jours.#
+0 24 3 0 2 4 5 #• Travail?#
+#Oh oui! La ferme est très compliquée, c’est comme la chance de Jason!#
+0 24 4 0 1 6 #• Bonne chance?#
+#Garder la fontaine de Trevi est une pénurie de graisse, à la fois facile et de l’argent supplémentaire à obtenir.#
+0 24 5 0 1 7 #• Jason?#
+#Demandez-vous à mon vrai ami? Dites-vous un secret, il est le plus susceptible d’être soudoyé, pour de l’argent, faites tout.#
+0 24 6 0 0 #• Extra rapide?#
+#C’est l’argent que les gens mettent dans la fontaine de Trevi! Parfois, il... Oubliez ça, déterrer la vie privée des gens est une très mauvaise chose, je suis allé occupé.#
+0 24 7 0 0 #• De l’argent?#
+#Il était très heureux de voir la fontaine à souhaits pleine de pièces d’or, de préférence des milliers!#
+1 0 8 1 0 #• Au revoir!#
+#Si vous avez le temps, aidez-moi yak!#

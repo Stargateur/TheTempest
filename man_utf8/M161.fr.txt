@@ -1,0 +1,19 @@
+
+
+
+#Il n’y a que les femmes qui peuvent passer, les hommes s’il vous plaît prenez du recul et parlez.#
+#Qu’est-ce qui ne va pas? Quelque chose ne va pas!#
+1 81 1 72 0 #• Nom?#
+#Fanny Sare.#
+1 81 2 72 0 #• Profession?#
+#Garde.#
+1 81 3 72 0 #• Femmes.#
+#Êtes-vous une femme? Ça ressemble un peu et pas tout à fait.#
+81 0 4 0 0 #• Nom?#
+#Fanny Sare.#
+81 0 5 0 0 #• Profession?#
+#Garde.#
+81 0 6 0 0 #• Quelque chose ne va pas.#
+#Maintenant, il y a une énergie spéciale qui me fait me sentir détendu et heureux.#
+1 0 7 1 0 #• Au revoir.#
+#Au revoir.#

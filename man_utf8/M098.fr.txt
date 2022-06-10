@@ -1,0 +1,17 @@
+
+
+
+#Besoin de moi pour vous présenter un meilleur produit?#
+#Qu’aimeriez-vous acheter d’autre?#
+1 0 1 0 0 #• Nom?#
+#Gabriela Passy.#
+1 0 2 0 0 #• Profession?#
+#J’étais un samouraï errant, et après ma retraite, j’ai ouvert ce magasin d’armes pour faire une petite entreprise.#
+1 0 3 3 0 #• Achetez des armes.#
+#Au nom d’un samouraï, je vous assure que ce sont d’excellentes qualités et que vous ne les regretterez jamais.#
+1 0 4 4 0 #• Achetez une armure.#
+#Essayez ces armures, elles sont géniales!#
+1 0 5 8 0 #• Vendre des biens d’occasion.#
+#Laissez-moi voir quelles bonnes choses vous avez.#
+1 0 6 1 0 #• Au revoir.#
+#Au revoir.#

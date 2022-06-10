@@ -1,0 +1,17 @@
+
+
+
+#Il fait beau ici!#
+#Les champs de coton ont été détruits !#
+1 0 1 0 0 #• Nom?#
+#Julianne.#
+1 0 2 0 1 3 #• Profession?#
+#Toutes sortes de coton.#
+0 0 3 0 1 5 #• Coton?#
+#Nos champs de coton produisent le matériau de vêtement le plus léger.#
+2 0 4 0 0 #• Destruction ?#
+#Voilà! Quand nous sommes sortis pour acheter des graines de coton, quand nous sommes rentrés à la maison, le champ de coton était sale, et le voisin a dit que nous avions vu deux personnes se faufiler dans le quartier, mais heureusement rien ne manquait.#
+0 0 5 0 0 #• Matériel vestimentaire?#
+#On dit qu’il existe une sorte de vêtement qui doit être recouvert de la couche de coton la plus légère.#
+1 0 6 1 0 #• Au revoir!#
+#Il y aura une période après cela!#

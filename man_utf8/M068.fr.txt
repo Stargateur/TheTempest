@@ -1,0 +1,19 @@
+
+
+
+#Avez-vous tué notre grand roi nain ?#
+#La grotte des Nains est le territoire de nos nains, s’il vous plaît ne pas entrer sans permission.#
+1 0 1 0 0 #• Nom?#
+#Mallord.#
+1 32 2 0 0 #• Profession?#
+#Je suis un vagabond au chômage, mais pour la mort du Roi Nain, je dois payer le prix pour le village de Jenok.#
+1 32 3 0 0 #• Roi nain ?#
+#Il y a quelques jours à peine, Bailey du village de Jenok a dit qu’il avait été témoin du meurtre du roi nain dans leur village, et heureusement il y avait un homme si juste, sinon le roi nain serait mort d’une manière inconnue!#
+0 0 4 0 0 #• Territoire?#
+#Bien sûr, afin de résister à l’invasion d’autres tribus, tout le monde a un secret relativement inconnu dans sa maison, qui ne peut pas être dit aux autres.#
+105 33 5 0 0 #• Grotte des Nains?#
+#Le malentendu entre nous et le village de Jenok a enfin été résolu, merci beaucoup! Je crois que le nain vous remerciera sûrement avec un cadeau généreux.#
+105 0 6 0 0 #• Entrée non autorisée?#
+#Vous êtes notre bienfaiteur et pouvez certainement aller et venir à votre guise.#
+1 0 7 1 0 #• Au revoir.#
+#Ayez le temps de jouer.#

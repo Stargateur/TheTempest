@@ -1,0 +1,13 @@
+
+
+
+#Avez-vous déjà vu mon bon ami?#
+#Le renard dans la grotte du sud ne savait pas s’il était parti, alors il voulait y jouer à nouveau.#
+1 0 1 0 1 2 #• Nom?#
+#Je m’appelle Baez, et Silo et Paru sont de bons amis à moi, et nous avions l’habitude de nous faufiler à l’extérieur du village pour jouer.#
+0 0 2 0 1 3 #• En dehors du village ?#
+#Vous savez, il y a une grotte à l’arrière de la montagne, et quand nous passions un bon moment, tout à coup, il y avait un renard qui pleurait de l’intérieur de la grotte, si effrayant!#
+0 0 3 0 0 #• Renard ?#
+#Ouf... Les cris nous ont effrayés et nous ont poussés à nous enfuir désespérément, et ma mère a dit que c’était un renard argenté à neuf queues qui enlèverait des enfants.#
+1 0 4 1 0 #• Au revoir!#
+#La prochaine fois que vous voulez prendre le sucre et me demander de le manger!#

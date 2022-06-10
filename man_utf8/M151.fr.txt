@@ -1,0 +1,17 @@
+
+
+
+#Laissez-moi voir si vous êtes mal à l’aise là-bas.#
+#Avez-vous besoin de moi pour vous guérir ?#
+1 0 1 0 0 #• Nom?#
+#Demark.#
+1 0 2 0 0 #• Profession?#
+#La position du médecin est d’espérer que tout le monde est en sécurité.#
+1 0 3 9 0 #• Dépendance thérapeutique.#
+#Traitement de l’empoisonnement 20 yuans. *Veuillez sélectionner une personne pour le traitement!#
+1 0 4 7 0 #• Dé-pétrification.#
+#Ascenseur pétrochimique 100 yuans. *Veuillez sélectionner une personne pour le traitement!#
+1 0 5 10 0 #• Résurrection.#
+#Les frais de résurrection sont de 200 yuans, veuillez sélectionner un partenaire.#
+1 0 6 1 0 #• Au revoir!#
+#Soyez prudent sur la route.#

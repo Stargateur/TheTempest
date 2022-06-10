@@ -1,0 +1,19 @@
+
+
+
+#Hey! You're from there, and the bridge to the outside is long broken!#
+#I wish everything was the same as in the past!#
+1 0 1 0 0 #• Name?#
+#Quake Foster.#
+1 59 2 0 1 3 #• Bridge?#
+#Whew... When I think of the bridge, I think of my father, who is an architect, but he was caught by the bad guys.#
+0 59 3 0 0 #• Bad guys?#
+#They said they would help some great general build a royal city, and when they left, they blew up the bridge, and now there are only a few old and weak women and children left.#
+59 60 4 0 0 #• Construction drawings found!#
+#I didn't expect you to find the construction drawings, so hurry up and find Christie.#
+60 65 5 0 0 #• Same?#
+#Good things to do to the end, please help us to save the family okay?#
+65 0 6 0 0 #• Same?#
+#We can be reunited, thanks to you.#
+1 0 7 1 0 #• Goodbye.#
+#Good bye.#

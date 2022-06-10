@@ -1,0 +1,15 @@
+
+
+
+#Hey! I'm a good friend of Baez's.#
+#Want to take me to play?#
+1 0 1 0 0 #• Name?#
+#Everybody calls me Paru.#
+1 0 2 0 2 3 4 #• Baez?#
+#It's Silo's neighbor!#
+0 0 3 0 0 #• Neighbors.#
+#A few of us used to sneak outside the village to play.#
+0 16 4 0 0 #• Silo?#
+#He had a fun clockwork toy, but it was lost, and we were all sad.#
+1 0 5 1 0 #• Goodbye.#
+#Have fun remember to tell me!#

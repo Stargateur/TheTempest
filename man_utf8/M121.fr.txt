@@ -1,0 +1,19 @@
+
+
+
+#Ces jours-ci, leur père et leur fils sont très occupés.#
+#Ayez le temps de rester quelques jours de plus et venez à notre mariage royal ensemble.#
+1 0 1 0 0 #• Nom?#
+#Jonard.#
+1 0 2 0 0 #• Profession?#
+#En tant que reine de la ville sous-marine, cet honneur dépendait de la culture.#
+1 55 3 0 2 4 5 #• Occupé?#
+#Oh oui! Mon fils espiègle était sur le point d’épouser une bonne fille, et la crise dans la ville sous-marine a finalement été levée. Le double bonheur est à la porte, bien sûr, vous devez célébrer Luo!#
+0 55 4 0 0 #• Célébrer?#
+#C’est juste que la fille ne semble pas être très disposée, et elle a dit que nous avions forcé le baiser.#
+0 55 5 0 0 #• Crise dans la ville sous-marine?#
+#Ce n’est plus une menace, si vous voulez mieux savoir, parlez au roi, peut-être qu’il vous le dira.#
+55 0 6 0 0 #• Le mariage a-t-il toujours lieu?#
+#Aujourd’hui une joie et une inquiétude, heureux de trouver la perle bien-aimée de Vénus, inquiet que mon fils ait perdu une grande opportunité, les bonnes filles sont vraiment difficiles à trouver, surtout mon fils est gâté, le tempérament n’est pas très bon.#
+1 0 7 1 0 #• Au revoir.#
+#Il y aura une période plus tard.#

@@ -1,0 +1,15 @@
+
+
+
+#Big brother, thank you for saving my life!#
+#Hello Big Brother.#
+1 0 1 0 0 #• Name?#
+#Ruby.#
+41 42 2 0 0 #• Go home!#
+#Well, my sister will be happy to know that I'm okay, and I'm going to see her quickly. And Mom...#
+42 90 3 0 0 #• Mom?#
+#Ay! My dearest mom is very sick and worried about my safety, Mom...#
+90 0 4 0 0 #• Mom?#
+#Now I just hope Mom is better soon.#
+1 0 5 1 0 #• Goodbye.#
+#Hope to be good friends with you.#

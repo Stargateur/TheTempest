@@ -1,0 +1,17 @@
+
+
+
+#Hello! The island is well worth the adventure.#
+#Can I help you?#
+1 0 1 0 0 #• Name?#
+#My name is Vincent, and I go around making a home.#
+1 0 2 0 1 3 #• Occupation?#
+#Originally in business, now travel around the world.#
+0 0 3 0 1 4 #• Getting around?#
+#As soon as you arrive at the island, you will find monsters everywhere, and there is a place to be very careful.#
+0 0 4 0 1 5 #• What place?#
+#In the swamp south of the forest, many people dare not approach, because if they are not careful, they will fall into the purple mud.#
+0 0 5 0 0 #• Purple quagmire?#
+#I heard that it is called a gray cream poison area, and if you accidentally touch it, you will poison people.#
+1 0 6 1 0 #• Goodbye.#
+#Be careful not to get poisoned.#

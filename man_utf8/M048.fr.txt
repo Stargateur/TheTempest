@@ -1,0 +1,19 @@
+
+
+
+#Vous voulez entendre mes éloges pour le monde?#
+#Profitez d’une vie poétique avec moi!#
+1 0 1 0 0 #• Nom?#
+#Je m’appelle Tom Witt.#
+1 2 2 0 0 #• Profession?#
+#Je suis le poète qui aime cette petite île, tombe amoureux d’elle et est prêt à tout accepter...#
+1 2 3 0 0 #• Éloges?#
+#Parfois, des milliers d’instruments tintants gazouillent dans mes oreilles; Parfois, quand je me réveille pour la première fois d’un long sommeil, j’entends une sonate et je m’endors...#
+2 0 4 0 1 5 #• Poétique ?#
+#Dans le rêve, les nuages ont ouvert la porte et d’innombrables trésors se sont déversés sur moi; Quand je me suis réveillé, je n’ai pas pu m’empêcher de pleurer...#
+0 0 5 0 0 #• Pleurer?#
+#Comme je veux retourner à un si beau rêve, mais après la tempête, ce n’est pas calme, mais l’invasion de démons, triste! ∼#
+2 0 6 0 0 #• La vie?#
+#Ma vie est pleine de poésie.#
+1 0 7 1 0 #• Au revoir.#
+#La porte de mon cœur est ouverte au Saint Seigneur, bénis-toi !#

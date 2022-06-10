@@ -1,0 +1,13 @@
+
+
+
+#This is Tlock Island, how did you get to this island?!#
+#This is The Island of Tlock.#
+1 0 1 0 0 #• Name?#
+#Franks.#
+1 53 2 0 0 #• Occupation?#
+#After Karabang occupied this place, the work was not the same.#
+53 0 3 0 0 #• Occupation?#
+#Now that I'm free, isn't it all the same job? Hahaha...#
+1 0 4 1 0 #• Goodbye.#
+#Good bye!#

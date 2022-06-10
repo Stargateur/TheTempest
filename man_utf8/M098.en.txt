@@ -1,0 +1,17 @@
+
+
+
+#Need me to introduce you to a better product?#
+#What else would you like to buy?#
+1 0 1 0 0 #• Name?#
+#Gabriela Passy.#
+1 0 2 0 0 #• Occupation?#
+#I used to be a wandering samurai, and after I retired, I opened this weapons shop to do a small business.#
+1 0 3 3 0 #• Buy weapons.#
+#In the name of a samurai, I assure you that these are excellent qualities and that you will never regret them.#
+1 0 4 4 0 #• Buy armor.#
+#Try these armors, they're great!#
+1 0 5 8 0 #• Sell used goods.#
+#Let me see what good things you have.#
+1 0 6 1 0 #• Goodbye.#
+#Good bye.#

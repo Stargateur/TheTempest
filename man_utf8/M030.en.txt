@@ -1,0 +1,13 @@
+
+
+
+#This is the village of Kabbalah.#
+#This is the village of Kabbalah.#
+1 0 1 0 0 #• Name?#
+#I'm Danny.#
+1 0 2 0 1 3 #• Occupation?#
+#I'm patrolling the village, you're going to inquire about it, aren't you?#
+0 0 3 0 0 #• Any news?#
+#In the northeast of the village, the forest is dense, there are many powerful monsters, and there is a thousand-year-old giant tree near there, and there are several people guarding there, and no one knows what is hidden inside.#
+1 0 4 1 0 #• Goodbye!#
+#But to protect yourself.#

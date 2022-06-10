@@ -1,0 +1,13 @@
+
+
+
+#It's an island owned by men.#
+#Power and dignity are hard-won.#
+75 0 1 0 0 #• Name?#
+#Tetoro.#
+75 0 2 0 0 #• Occupation?#
+#The work of the guards is very important.#
+75 78 3 0 0 #• Men's Island?#
+#The king of the island is none other than Kate.#
+1 0 4 1 0 #• Goodbye.#
+##

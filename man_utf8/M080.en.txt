@@ -1,0 +1,33 @@
+
+
+
+#Alas... Why is there so much trouble every day?#
+#Don't ask me the truth every day!#
+1 0 1 0 0 #• Name?#
+#Bailey.#
+1 0 2 0 1 5 #• Occupation?#
+#In order to make money, I often go out to do business.#
+1 105 3 0 1 4 #• Trouble?#
+#Don't you know that the pain of being an eyewitness, being interrogated every day, is really not peaceful.#
+0 105 4 0 1 8 #• Eyewitness?#
+#When I see... That person... Oh! It's from this village, but I don't want to be named... He killed the Dwarf King, and the scene was really unbearable.#
+0 105 5 0 1 6 #• Earn money?#
+#It's not easy to make money now, how can you live without a little extra income?#
+0 105 6 0 0 #• Additional income?#
+#... Card... No... Never mind! This is my personal privacy why should I tell you?#
+2 105 7 0 1 9 #• The truth?#
+#The truth is... Forgive me for not being able to tell you the truth, people in the jianghu, involuntarily, so far, don't pursue it anymore, okay?#
+0 105 8 0 0 #• Killed the Dwarf King?#
+#Right... It could be... No... Anyway, some Jenok killed, can't be wrong...#
+0 105 9 0 0 #• Accountability?#
+#Don't waste your spirits!#
+115 105 10 87 1 11 #• Your diary?#
+#Day... Diary, how did you find it? This..., alas... All right! That being the case, I'll tell you the truth...#
+0 0 11 0 1 12 #• The truth?#
+#Here's the thing... On that day I heard the sound of a fight in the woods while I was on business, and I hid in the grass and saw a monkey-like monster terrorizing the Dwarf King, hoping that he would gather Dwarven soldiers to attack Prosphelo's son, and the Dwarf King refused to take revenge and died under the arrows. * I was about to run away in shock, but I didn't expect to be caught by The Minions of Karabang.#
+0 0 12 0 1 13 #• Why didn't he kill you?#
+#Because he wanted me to spread rumors that the Enoch had killed the dwarf king, I would not have agreed, but he threatened to kill my wife and children, and I had no choice but to agree. In fact, these days, my heart is also very painful, and I have always wanted to tell the truth, but ...#
+0 0 13 0 0 #• Just what?#
+#Never mind... None of this mattered anymore, I would explain the truth to the Dwarf Queen, and I would have no face here, and after the explanation I would leave with my wife and children.#
+1 0 14 1 0 #• Goodbye.#
+#Good bye.#

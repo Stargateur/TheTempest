@@ -1,0 +1,17 @@
+
+
+
+#Vous êtes ici pour mon mariage.#
+#Ruo Diqian est vraiment une bonne fille rare, c’est-à-dire qu’elle a un mauvais caractère.#
+1 0 1 0 0 #• Nom?#
+#Le nom « Meshika » que m’a donné le Père sonne assez majestueux !#
+1 0 2 0 0 #• Profession?#
+#Je suis le fils unique du Père, et mon pouvoir est au-dessus de dix mille personnes sous un seul homme.#
+1 55 3 0 0 #• Mariage?#
+#La préparation est presque terminée, mais cette petite fille ne sera tout simplement pas d’accord, ahem! Quels griefs avez-vous pour m’épouser, vous pouvez profiter de toute la gloire et de la richesse, et personne d’autre ne peut le demander.#
+2 55 4 0 0 #• Ruo Di Qian?#
+#Je ne vois pas qu’elle ait un beau visage, sinon en termes d’origine et de lignée familiale, le prince et le noble la perdront. Nourrir! Aidez-moi à la persuader, tirez un visage mort toute la journée, qu’est-ce que c’est!#
+55 0 5 0 0 #• Ruo Di Qian?#
+#Ne le mentionnez pas! Mes rêves ont tous été détruits pour vous, et bien que la Perle de Vénus soit un trésor du royaume, vous ne devriez pas l’échanger contre ma future femme !#
+1 0 6 1 0 #• Au revoir.#
+#Eh bien, voilà! ...#

@@ -1,0 +1,17 @@
+
+
+
+#Bienvenue! Y a-t-il quelque chose dont vous avez besoin?#
+#Voici le pack d’armes pour votre satisfaction !#
+1 0 1 0 0 #• Nom?#
+#Je m’appelle Wayne et je suis le propriétaire de cette boutique.#
+1 0 2 0 0 #• Profession?#
+#N’avez-vous pas simplement dit cela? C’est le propriétaire de ce magasin d’armes et d’armures.#
+1 0 3 3 0 #• Je veux acheter des armes.#
+#Choisissez une arme pratique, les monstres ont été endémiques ces derniers temps.#
+1 0 4 4 0 #• Je veux acheter une armure.#
+#L’armure ici est garantie d’être solide et durable, vous le voulez aussi?#
+1 0 5 8 0 #• Vendre des objets.#
+#Je vais d’abord voir ce que vous avez à dire.#
+1 0 6 1 0 #• Au revoir!#
+#Merci d’être venu!#

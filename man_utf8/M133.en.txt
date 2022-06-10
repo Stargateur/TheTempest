@@ -1,0 +1,15 @@
+
+
+
+#I can return to the garden in this life, and I am grateful to you as a benefactor.#
+#You gave us the opportunity to return to our hometown.#
+1 0 1 0 0 #• Name?#
+#Lonnesesia.#
+1 0 2 0 0 #• Occupation?#
+#We are a group of architects taken captive by Azlusik.#
+1 66 3 0 0 #• Returning home?#
+#Thank you for giving us the opportunity to return to the garden, although you have a heavy responsibility, but don't forget to come back to see our friends when you have time.#
+66 0 4 0 0 #• Back home?#
+#Thank you, not only for the completion of our cross-sea bridge, but also for giving us the opportunity to spend time with our families, although you have a heavy responsibility, do not forget to come back to see these old friends.#
+1 0 5 1 0 #• Goodbye.#
+#Come to my house and sit down.#

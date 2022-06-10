@@ -1,0 +1,19 @@
+
+
+
+#Le voilà! Rien d’amusant.#
+#Le voilà! Rien d’amusant.#
+1 0 1 0 0 #• Nom?#
+#Ample.#
+1 0 2 0 1 3 #• Rien d’amusant ?#
+#Ramasser des coquillages au bord de la mer était notre seul jeu.#
+0 0 3 0 1 4 #• C’est un peu ennuyeux en effet.#
+#Les adultes s’ennuient davantage, travaillent toute la journée et ne veulent pas faire attention à nous.#
+0 0 4 0 1 5 #• Travail?#
+#Que ce soit en sacrifice ou en allant pêcher, la chose la plus en colère est de contrôler nos actions.#
+0 0 5 0 1 6 #• Mesures réglementaires?#
+#Surtout dans la zone de la cascade, ils ont tous dit qu’il était dangereux de ne pas aller à l’eau, je n’ai pas écouté, et par conséquent, j’ai trouvé un petit secret!#
+0 0 6 0 0 #• Des petits secrets ?#
+#Avez-vous découvert le passage secret du mur de montagne au sud de la cascade? Ce passage secret est très intéressant.#
+1 0 7 1 0 #• Au revoir.#
+#La prochaine fois, je vous emmènerai à quelque chose de plus excitant.#

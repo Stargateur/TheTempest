@@ -1,0 +1,13 @@
+
+
+
+#This island is dangerous, don't hang around.#
+#Lots of toxic areas.#
+1 0 1 0 0 #• Name?#
+#Crowe.#
+1 0 2 0 0 #• Occupation?#
+#It's hard to watch here, there's nothing, it's desolate.#
+20 0 3 0 0 #• Toxic area?#
+#It is difficult for ordinary people to pass unless you can undo its poisonous curse and let the green grass grow from the barren land.#
+1 0 4 1 0 #• Goodbye!#
+#May God bless you.#

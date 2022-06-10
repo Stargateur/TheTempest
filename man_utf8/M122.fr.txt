@@ -1,0 +1,11 @@
+
+
+
+#C’est la route principale de la ville sous-marine, a-t-elle besoin d’être informée?#
+#Rien de spécial, ne venez pas à moi.#
+1 0 1 0 0 #• Nom?#
+#Jacques est le nom de l’oncle, quoi de neuf!#
+1 0 2 0 0 #• Profession?#
+#Un travail de garde aussi dur, êtes-vous également intéressé?#
+1 0 3 1 0 #• Au revoir.#
+#Rien à traîner!#

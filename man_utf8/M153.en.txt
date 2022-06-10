@@ -1,0 +1,11 @@
+
+
+
+#Looking for me? ...#
+#No special circumstances, don't disrupt my work.#
+1 0 1 0 0 #• Name?#
+#Lucille.#
+1 0 2 0 0 #• Occupation?#
+#I have an important task at hand, and I can hardly tell you.#
+1 0 3 1 0 #• Goodbye.#
+#Good bye.#

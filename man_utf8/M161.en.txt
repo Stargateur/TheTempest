@@ -1,0 +1,19 @@
+
+
+
+#It is only women who can pass, men please step back and speak.#
+#What's wrong? Something's wrong!#
+1 81 1 72 0 #• Name?#
+#Fanny Sare.#
+1 81 2 72 0 #• Occupation?#
+#Guard.#
+1 81 3 72 0 #• Women.#
+#Are you a woman? Looks a bit like and not quite.#
+81 0 4 0 0 #• Name?#
+#Fanny Sare.#
+81 0 5 0 0 #• Occupation?#
+#Guard.#
+81 0 6 0 0 #• Something is wrong.#
+#Now there is a special energy that makes me feel relaxed and happy.#
+1 0 7 1 0 #• Goodbye.#
+#Good bye.#

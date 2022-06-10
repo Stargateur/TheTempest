@@ -1,0 +1,19 @@
+
+
+
+#Hello, I'm Jordon's wife, sit down and chat!#
+#When I was idle, I talked to Conalie.#
+1 0 1 0 0 #• Name?#
+#Irima.#
+1 0 2 0 0 #• Occupation?#
+#I used to open the hotel, and I was naturally the hostess.#
+1 62 3 0 1 5 #• Chat?#
+#I heard that George, who is looking for someone to compare with his bodyguard, is really a rich upstart.#
+2 0 4 0 0 #• Connery?#
+#She was also a poor woman, unable to marry the person she loved, and Brav was a wooden man, if I had snatched my lover back.#
+0 0 5 0 1 6 #• Bodyguard?#
+#It's that Kate's henchman, the Blood Wizard! He wears a mask with a badge all day long, and no one has ever seen his true face.#
+0 0 6 0 0 #• Badges?#
+#It is said to be the source of his mana, and I don't know if this is true.#
+1 0 7 1 0 #• Goodbye.#
+#Good bye.#

@@ -1,0 +1,15 @@
+
+
+
+#Je peux retourner au jardin dans cette vie, et je vous suis reconnaissant en tant que bienfaiteur.#
+#Vous nous avez donné l’occasion de retourner dans notre ville natale.#
+1 0 1 0 0 #• Nom?#
+#Lonnesesia.#
+1 0 2 0 0 #• Profession?#
+#Nous sommes un groupe d’architectes capturés par Azlusik.#
+1 66 3 0 0 #• Retour à la maison?#
+#Merci de nous donner l’occasion de retourner au jardin, bien que vous ayez une lourde responsabilité, mais n’oubliez pas de revenir voir nos amis quand vous avez le temps.#
+66 0 4 0 0 #• De retour à la maison?#
+#Merci, non seulement pour l’achèvement de notre pont maritime, mais aussi pour nous avoir donné l’occasion de passer du temps avec nos familles, bien que vous ayez une lourde responsabilité, n’oubliez pas de revenir voir ces vieux amis.#
+1 0 5 1 0 #• Au revoir.#
+#Venez chez moi et asseyez-vous.#

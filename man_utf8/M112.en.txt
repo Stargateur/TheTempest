@@ -1,0 +1,15 @@
+
+
+
+#May I ask you a question, sir?#
+#My father asked me to read the book and said it was good for me!#
+1 0 1 0 0 #• Name?#
+#Diane Ryder.#
+1 2 2 0 1 3 #• Questions?#
+#How can we have a world of desirables?#
+0 0 3 0 0 #• The world to which you are looking?#
+#There is a book of utopias that mentions all kinds of desirable worlds, and I believe it must be an interesting book.#
+2 0 4 0 0 #• Books?#
+#This is Shakespeare's tome, which deals with all aspects of social life and the human spirit, and such exquisite and vast insight and life experience must make all kinds of characters come alive on his stage, I have only read a few, and I still don't quite understand his profound meaning.#
+1 0 5 1 0 #• Goodbye.#
+#Have more time to practice spiritual life.#

@@ -1,0 +1,17 @@
+
+
+
+#Handsome guy! I'm sorry! I'm not talking about you, I'm talking about the slender, well-faced one behind you.#
+#The one I miss the most in my life is Davis.#
+1 0 1 0 0 #• Name?#
+#Arana.#
+1 73 2 2 2 3 4 #• Wake up?#
+#Listen to Sherlock say that you saved the whole village, thanks to your help, right! Sherlock also wants me to take you to yar Island, and you are here for this, right?#
+0 73 3 69 0 #• Yes!#
+#Please come with me.#
+0 73 4 0 0 #• We have to prepare again.#
+#All right! Davis, you're going to come back to me, right?#
+2 0 5 0 0 #• Nostalgia?#
+#My sweetheart, are you coming to date me?#
+1 0 6 1 0 #• Goodbye.#
+#Let me see you one more time, my darling.#

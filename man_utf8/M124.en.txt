@@ -1,0 +1,13 @@
+
+
+
+#The other day the king caught a little sister and came back!#
+#Hello! Big Brother!#
+1 0 1 0 0 #• Name?#
+#Morrison.#
+1 55 2 0 1 3 #• Little sister?#
+#A very beautiful sister yo! So pitiful, locked up in that big house.#
+0 0 3 0 0 #• Why?#
+#Because to... Well... Mom said that you can't talk about this matter casually, you still have to ask others.#
+1 0 4 1 0 #• Goodbye.#
+#Bye!#

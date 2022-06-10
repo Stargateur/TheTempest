@@ -1,0 +1,95 @@
+
+
+
+#Would you like a drink? Belch.. This wine is really good.#
+#Can I help you?#
+1 14 1 0 0 #• Name?#
+#Ask my name? Thomas, haven't you heard of such a loud name?#
+13 14 2 0 1 3 #• Occupation?#
+#Speaking of my history, I am afraid that I will scare you, I was once a Konoe samurai of the kingdom, that is not an ordinary samurai!#
+0 0 3 0 1 4 #• Konoe Samurai? Are you sure?#
+#Hey? You... You! Prince Pete?! Didn't expect you to come to Edmer Island!.#
+0 0 4 2 2 5 6 #• Recognize me?#
+#Belch... Drink a little more, I beg you to forgive me for the disrespect I have just done, Your Majesty the Prince, I have heard that Antonio has rebelled again, and I hereby swear with the loyalty of a samurai that I will follow you until the day of the successful restoration, and hope that His Majesty the Prince will give me the opportunity to follow you?#
+0 0 5 17 0 #• Good.#
+#That's great! I will definitely put Antonio in the Kingdom Prison!.#
+0 0 6 0 0 #• Not good.#
+#What a pity.#
+14 15 7 0 0 #• Is there anything strange going on in the village?#
+#I often hear villagers talk about tourists who are often attacked by monsters on the south side of the village, and maybe we should go and see it.#
+15 16 8 0 0 #• What is the purpose of this toy?#
+#Yes! When I was a child, I used to play with this kind of toy, and I didn't know which child's it belonged to, and he must have been very sad.#
+16 18 9 0 0 #• What to do again?#
+#Isn't there a magic book? We can try it out.#
+18 23 10 0 0 #• Nice scenery in the neighborhood?#
+#I've never been to this place before, and I heard there's a Trevi Fountain here!#
+23 24 11 0 0 #• Did you find anything?#
+#Where is the village chief of the village of Galilee unknowingly locked up?#
+24 28 12 0 0 #• What's next?#
+#Let's go to the village chief! The banyan tree demon hasn't found it yet!#
+79 29 13 0 0 #• How about doing something again?#
+#Go to Telok Island to save the boy Froms! This flying cloak instruction manual must be returned to him!#
+30 105 14 0 0 #• Things are a little strange?#
+#The murder was quite bizarre, and I think the dwarf village and Enok had to go for a walk.#
+105 33 15 0 0 #• The truth is out.#
+#Let's confront Bailey before we inform the Dwarf Queen, lest they really kill Jenok!#
+33 34 16 0 0 #• Let's go back to Jenok!#
+#The village chief must have appreciated us!#
+34 38 17 0 0 #• What's next?#
+#Save Davis!#
+38 39 18 0 0 #• What's next?#
+#Let's find someone to "weave" these materials!#
+39 87 19 0 0 #• What's next?#
+#Your Majesty the Prince, the weaver said it would take three days to finish it!#
+87 103 20 0 0 #• The cloak is finally done.#
+#Ha! Ha! With this flying cape, even if you fall to the bottom of a high cliff, you can't die!#
+40 41 21 0 0 #• What else is there to do?#
+#We just promised the little girl that we were going to save her brother!#
+41 42 22 0 0 #• Finally killed the witch!#
+#Let's go find his sister!"#
+45 50 23 0 0 #• Let's get to Tlock Island!#
+#Well, I can't spare the Karaban guy this time!#
+52 53 24 0 0 #• Calabon will be amazed!#
+#Hum! This time, he must be beaten to the point of chaos, so that he will not have a chance to do anything!#
+56 61 25 0 0 #• We've got to get to save Ariel!#
+#Well! He's been in Tree Cave Prison long enough!#
+59 60 26 0 0 #• Find the construction drawings now!#
+#It seems that the engineer has been killed, so let's take the map back to the village and give it to them!#
+60 65 27 0 0 #• Let's go to Parthenon!#
+#Well! Those designers are there!#
+83 71 28 0 0 #• Prolli has been saved!#
+#Well, let's go find Snyder first!#
+71 72 29 0 0 #• Let's go to the altar!#
+#Well, let's go!#
+74 91 30 0 0 #• How do I get in?#
+#Well... Davis may be able to ask how from the village!#
+76 75 31 0 0 #• I didn't expect invisibility to work!#
+#Well... Let's take a look around!#
+75 77 32 0 0 #• Finally beat The Gypsy!#
+#Well... Let's go find the owner of the weapons store first, and then go to the stone wall in the west of the village!#
+0 0 33 2 2 34 35 #• Do you really want to join the team?#
+#It will be my greatest honor!#
+0 0 34 17 0 #• Good.#
+#Ha ha! That's great! I will definitely put Antonio in the Kingdom Prison!.#
+0 0 35 0 0 #• Not good.#
+#What a pity.#
+0 13 36 2 2 42 43 #• Do you really want to join the team?#
+#It will be my greatest honor!#
+0 0 37 0 0 #• Good.#
+#But, Your Majesty, you have to pay for my wine before I can get out of here in a dignified manner!#
+0 0 38 0 0 #• Not good.#
+#What a pity.#
+1 13 39 0 1 40 #• Occupation?#
+#Speaking of my history, I am afraid that I will scare you, I was once a Konoe samurai of the kingdom, that is not an ordinary samurai!#
+0 0 40 0 1 41 #• Konoe Samurai? Are you sure?#
+#Hey? You... You! Prince Pete?! Didn't expect you to come to Edmer Island!.#
+0 0 41 2 2 42 43 #• Recognize me?#
+#Belch... Drink a little more, I beg you to forgive me for the disrespect I have just done, Your Majesty the Prince, I have heard that Antonio has rebelled again, and I hereby swear with the loyalty of a samurai that I will follow you until the day of the successful restoration, and hope that His Majesty the Prince will give me the opportunity to follow you?#
+0 0 42 0 0 #• Good.#
+#But, Your Majesty, you have to pay for my wine before I can get out of here in a dignified manner!#
+0 0 43 0 0 #• Not good.#
+#What a pity.#
+1 14 44 1 0 #• Goodbye.#
+#I'll be here at any time waiting for your call!"#
+14 0 45 1 0 #• Hmmm! Let's get on our way."#
+#That's right! We have to hurry!#

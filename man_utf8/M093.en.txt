@@ -1,0 +1,29 @@
+
+
+
+#Why do we encounter such a thing?#
+#Hopefully, the world isn't as bad as I thought it would be.#
+1 0 1 0 1 6 #• Name?#
+#I am Lolia of Aqua Village.#
+1 41 2 0 1 3 #• Help?#
+#My brother... Whew... He was about to be sucked out of his blood by that terrible witch.#
+0 41 3 2 0 #• Witch?#
+#It is the Wadel Witch, who wants to use the blood of a virgin boy to strengthen her mana, please save my poor brother!#
+41 42 4 0 1 5 #• The world is not going to be too bad.#
+#Our brother and sister thank you for saving your life, without you, we really don't know what will happen.#
+0 107 5 88 0 #• How did you get here?#
+#We went to the coast nearby to look for seaweeds for my mother's illness, and in order to thank you for your life-saving grace, the mussel beads found in the sea are given to you, which is my little care.#
+0 41 6 0 1 7 #• Water Village.#
+#The village of water is a very mysterious place, and no one can lead the way.#
+0 0 7 0 0 #• Lead the way!#
+#I'm sorry! I would love to help you, but I don't have time, I have to save my brother first!#
+41 42 8 0 1 9 #• Water Village.#
+#If you want to go to the village of water, I can lead the way.#
+107 42 9 41 0 #• Lead the way!#
+#That's no problem, please come with me!#
+42 50 10 0 0 #• Mother?#
+#Our mother's illness still hasn't gotten better, so how can Heaven treat us like this?#
+45 0 11 0 0 #• Keys?#
+#The two keys that my mother mentioned, I heard the bookstore owner mention, maybe he can help you!#
+1 0 12 1 0 #• Goodbye.#
+#Good bye.#

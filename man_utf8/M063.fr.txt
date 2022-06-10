@@ -1,0 +1,31 @@
+
+
+
+#Les affaires n’ont pas été bonnes ces derniers temps, il n’y a pas d’invités, besoin de service?#
+#Vous voulez rester? Ou voulez-vous demander quelque chose?#
+1 0 1 0 0 #• Nom?#
+#Wells.#
+1 0 2 0 1 3 #• Profession?#
+#Propriétaire de l’auberge.#
+1 0 3 0 2 4 5 #• Auberge?#
+#Bien sûr! Il y a moins d’invités dans la guerre, mais la qualité du service est toujours bonne.#
+0 32 4 0 0 #• La guerre ?#
+#Les nains pensaient que nos villageois avaient tué leur roi nain et avaient déclaré la guerre à notre village.#
+0 0 5 0 1 6 #• Invité?#
+#Les invités séjournant sont peu nombreux, mais il y a quelques invités spéciaux.#
+0 32 6 0 1 7 #• Invités spéciaux?#
+#La plupart des logements sont à l’extérieur de la ville, mais il y a quelques jours, Bailey s’est précipité pour dire qu’il voulait rester, disant quelque chose pour éviter le vent et ainsi de suite, et je n’ai pas compris grand-chose.#
+0 32 7 0 0 #• Bailey?#
+#Il vient de notre village, et il se comporte étrangement ces derniers temps, et il vit dans la pièce à droite, et je n’ai pas encore eu le temps de la nettoyer! Si vous voulez visiter, je n’ai pas d’objection.#
+1 0 8 2 2 9 10 #• Hébergement?#
+#Si vous ne voulez pas rester ici, il est difficile de trouver une auberge à proximité, et notre prix est toujours raisonnable pour 150 yuans, d’accord?#
+0 0 9 15 0 #• Bien.#
+#Merci pour votre visite. Bonne journée!#
+0 0 10 1 0 #• Pas bon.#
+#La prochaine fois, bienvenue à visiter à nouveau notre restaurant.#
+2 31 11 0 0 #• Demander?#
+#En voyant la clé, elle a dû être laissée par Bailey accidentellement.#
+105 0 12 0 0 #• Demander?#
+#Je suis heureux que vous ayez éclairci nos griefs pour nous, et que le Ciel vous bénisse.#
+1 0 13 1 0 #• Au revoir.#
+#Bienvenue!#

@@ -1,0 +1,19 @@
+
+
+
+#Grand frère, voudriez-vous s’il vous plaît venir?#
+#Nos journées étaient un peu plus difficiles.#
+1 0 1 0 0 #• Nom?#
+#Cloporte.#
+1 88 2 0 1 3 #• Qu’est-ce qui ne va pas?#
+#S’il vous plaît regardez mon pied, il semble être incapable de marcher.#
+0 0 3 0 1 4 #• Vous ne pouvez pas marcher?#
+#Oh oui... Si douloureux, semble être tordu à... Aidez-moi à voir!#
+0 0 4 67 0 #• Le pied va bien, mais une main de plus!#
+#Roter... Nous... Nous n’avons pas d’autre choix que de le faire! Les journées sont trop dures !#
+2 0 5 0 0 #• Amer?#
+#Oh oui! Mais peu importe à quel point c’est amer, mon père et moi ne survivrons plus à trois mains!#
+88 2 6 0 0 #• Qu’est-ce qui ne va pas?#
+#Je vous dis secrètement Oh, il y a beaucoup de voleurs près d’ici, vous devez faire attention!#
+1 0 7 1 0 #• Au revoir.#
+#Au revoir, grand ami.#

@@ -1,0 +1,15 @@
+
+
+
+#I am Arnold's wife, and our fishing line is very famous!#
+#The Thashali Sand Bank is a place to be nostalgic.#
+1 0 1 0 0 #• Name?#
+#Melinda.#
+1 0 2 0 0 #• Occupation?#
+#You also know how the fisherman's life will be.#
+1 38 3 0 0 #• Fishing line?#
+#Tashali's specialty is silver fishing thread, which is a fine fabric.#
+1 2 4 0 0 #• Arnold?#
+#My husband had to wait for months to come back every time he went to sea, and if he didn't rely on a small business, he really couldn't survive.#
+1 0 5 1 0 #• Goodbye.#
+#Have time to relax by the sea!#

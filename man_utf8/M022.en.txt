@@ -1,0 +1,15 @@
+
+
+
+#Welcome to our shop, what do you need?#
+#Is there anything you need?#
+1 0 1 0 0 #• Name?#
+#Daniel.#
+1 0 2 0 0 #• Occupation?#
+#I've been running this arms and armor store for a long time.#
+1 0 3 3 0 #• What weapons do you sell?#
+#Our armament is excellent and is a good equipment for hunting.#
+1 0 4 4 0 #• I would like to buy some armor.#
+#These leather-made armor packs satisfy you.#
+1 0 5 1 0 #• Goodbye.#
+#Come back when you need it.#

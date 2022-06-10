@@ -1,0 +1,15 @@
+
+
+
+#I'm Ariel, thank you for bringing me out.#
+#Honorable Master, Ariel is at your disposal.#
+1 0 1 0 0 #• Name?#
+#Ariel.#
+61 58 2 2 2 4 5 #• You don't have to be polite.#
+#I have been locked up here for a long time, you have saved me, in order to repay your salvation, I will always follow you, and what will be commanded in the future, Ariel is willing to do her best to complete.#
+2 0 3 0 0 #• Commanded.#
+#Great host! What's the command?#
+1 2 4 1 0 #• Azluksi?#
+#I know there is a secret cave with access to the world of Azlux, please come with me.#
+2 0 5 1 0 #• Goodbye.#
+#Good bye.#

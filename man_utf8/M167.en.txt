@@ -1,0 +1,45 @@
+
+
+
+#I've been waiting for this day for a long time, Prince Pett.#
+#I've been living in seclusion here for a long time.#
+2 0 1 0 0 #• Name?#
+#Snyder.#
+2 0 2 0 1 3 #• Occupation?#
+#I was a village magician before Kate came to Proli Village.#
+0 71 3 0 1 4 #• Kate!?#
+#He came looking for the badge...#
+0 71 4 0 1 5 #• Badges?#
+#Legend has it that the person with the three badges of mana, credibility, and morality will become the king of magic! A true magician! All those wonderful and mysterious magic will be deeply embedded in his soul, and he will never need those bulky magic books again! For the abundant power that filled the void was waiting for his call at any time. And just to get this power, Kate blew up the Azluksi Bridge...#
+0 71 5 0 1 6 #• Blowing up bridges?#
+#Well, Kate is worried that the lost badge of credibility will be taken out of the island! So he blew up the bridge!#
+0 71 6 0 1 7 #• Lost credibility badges?#
+#At that time, he had found the mana badge and handed it over to the Blood Wizard of Gnostic for safekeeping, and then he found out that the moral badge was in Proli, and he also knew that the badge of credibility was lost in Patnon, so Kate also captured many architects in Azluksi while swinging his army on Proli, pretending to build a royal city in Patnon, in fact, this was just to facilitate his minions to find the last badge in Patnon!#
+0 71 7 0 1 8 #• Swing proli?#
+#I'll never forget that night, Kate came to Prolli with an army and asked us to hand over our badges, and in the light of the fire, the villagers fought everywhere, but who stopped Kate? In the cellar where we were last guarded, Kate smiled darkly and appeared out of the darkness...#
+0 71 8 0 1 9 #• And then what?#
+#He used the Heart-Conquering Technique to take away the souls of the villagers, and Proli suddenly became a sleeping village in a deep nightmare, but I was spared, but this was the beginning of the disaster! ...#
+0 71 9 0 1 10 #• The beginning of a disaster?#
+#He stripped me of all my strength and forced me to ask me where my badge was, haha! Truth cannot succumb to brutality! The army then searched the whole village, even the cellar was full of his minions, Kate finally ordered the soldiers to exile me to this place, and just as the soldiers were about to drag me away, Kate gave me something...#
+0 71 10 0 1 11 #• One thing?#
+#The Heart of Life, the Heart of Life, which contained the souls of the villagers in the whole village, laughed and mocked me that even if I had the Heart of Life, I would not be able to save the lives of the villagers.#
+0 71 11 0 1 12 #• Can't salvage?#
+#Only the King of Magic can reverse this insoluble spell! So, Your Majesty the Prince, I hope you will get those three badges one step ahead of Kate. When you find the three badges, please come back here and wake up the villagers of Prolli, who will certainly be of great help to you!#
+0 71 12 0 1 13 #• Where is the moral badge?#
+#Hidden in the secret door on the first floor of the Cellar of Prolli, you can find the entrance to the cellar in the blacksmith's house.#
+0 71 13 0 0 #• Secret Door?#
+#Well! You'll have to find a different staircase from the second floor back to the first floor, and you'll find the badge after a brick wall secret door!#
+83 71 14 68 1 15 #• Badges are found!#
+#Please show me the three badges! ... Oh, my God! Prophecy... The prophecy was granted... "The King of Magic will be reborn in the Land of Sleep in the Rainbow..." Haha! No matter how much it is! This is the Heart of Life that was used to collect souls in the first place, and it is given to you, the true magician. Please place these four items on the altar, and the villagers will wake up.#
+71 72 15 0 0 #• Altar?#
+#The altar is in the south here, put the mana badge in the north space, the credibility badge in the east space, the moral badge in the western space, the heart of life on the space south of the altar, and your power will change all this.#
+72 0 16 0 0 #• Sleep Village!#
+#I didn't expect you to really do it, and now this sleeping village will probably become a historical term.#
+1 2 17 0 2 18 19 #• How do you know my identity?#
+#The royal imprint on the back of your hand says it all!#
+0 0 18 0 0 #• Name?#
+#Snyder.#
+0 0 19 0 1 3 #• Occupation?#
+#I was a village magician before Kate came to Proli Village.#
+1 0 20 1 0 #• Goodbye.#
+#There will be a period later.#

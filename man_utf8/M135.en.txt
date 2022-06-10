@@ -1,0 +1,15 @@
+
+
+
+#Only now did I know that so many things had happened.#
+#Thank you for all that you have done.#
+1 0 1 0 0 #• Name?#
+#Crowe.#
+1 0 2 0 0 #• Occupation?#
+#Little designers are not enough to worry about, Paul is the master!#
+1 66 3 0 0 #• So many things?#
+#Master Paul died tragically, we were all rescued, and it is a great fortune in misfortune to be able to return to our homeland, thank you all!#
+66 0 4 0 0 #• Great benefactor?#
+#I hope that what Fellini has done for you will meet your needs for revenge, come on.#
+1 0 5 1 0 #• Goodbye.#
+#Your day of success is not far away.#

@@ -1,0 +1,23 @@
+
+
+
+#Hello, need me to serve you?#
+#What do I need? Still want to ask for directions?#
+1 0 1 0 0 #• Name?#
+#I'm Ino, the owner of this shop, and I'm right to have something to do with me!#
+1 0 2 2 2 5 6 #• Accommodation.#
+#In our high-end suite with superior equipment, it only costs 80 yuan to stay a night, okay?#
+1 0 3 3 0 #• Shopping.#
+#We sell groceries, so let's take a few things with you!#
+2 38 4 0 1 7 #• Ask for directions.#
+#To the right of the village is a cotton field, followed by snow-capped mountains.#
+0 0 5 15 0 #• Good.#
+#Have a nice day!#
+0 0 6 0 0 #• Don't.#
+#As happy as you like, it doesn't matter!#
+0 53 7 0 1 8 #• Snowy mountains?#
+#Although the mountain is not large, it also blocks the traffic to the east, and can only be bypassed by boat.#
+0 53 8 0 0 #• By boat?#
+#The ferry port was under the cotton field, but the boatman was lazy, and it was not uncommon to find him.#
+1 0 9 1 0 #• Goodbye.#
+#Thank you for coming!#

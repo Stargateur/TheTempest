@@ -1,0 +1,17 @@
+
+
+
+#Merci de nous avoir sauvés.#
+#Il n’est pas facile de trouver de vrais matériaux de construction maintenant.#
+1 0 1 0 0 #• Nom?#
+#Dangelet.#
+1 0 2 0 0 #• Profession?#
+#Architecte.#
+1 66 3 0 1 4 #• Construire une ville royale ?#
+#Pensez-vous que nous sommes prêts à venir ici et à construire la ville royale? Pas encore persécuté.#
+0 66 4 0 1 5 #• Persécution ?#
+#Lorsque nous avons utilisé les meilleurs matériaux de construction pour aider Prospero à construire un château magique, c’était à cause de son gouvernement bienveillant, et aujourd’hui Kate, qui veut construire une bonne ville royale pour lui? Nous préférerions être enfermés ici pour le reste de notre vie plutôt que de rendre service à ce démon.#
+0 0 5 0 1 6 #• Renzheng?#
+#Pour rembourser Prospero, nous ferons de notre mieux pour vous aider.#
+1 0 6 1 0 #• Au revoir.#
+#Mon bienfaiteur, je vous souhaite le meilleur !#

@@ -1,0 +1,23 @@
+
+
+
+#I am staying at this hotel temporarily.#
+#I am staying at this hotel temporarily.#
+1 0 1 0 0 #• Name?#
+#If you were to ask for my real name, I would only be able to tell you my current name, Isaac.#
+1 24 2 0 0 #• Staying at a hotel temporarily?#
+#Because there was a war in my hometown, I lived here for the time being, and I didn't think that this village was not very stable, and I wouldn't tell you too much unless I was sure that it was a good person.#
+24 32 3 0 1 4 #• Staying at a hotel temporarily?#
+#I heard that you rescued the village chief, and you are really the hero of this village.#
+0 32 4 0 1 5 #• Hero?#
+#Oh, yes! Since you are a righteous man, I tell you, I am from the village of Enok, and the other day we clashed with the dwarves next door.#
+0 32 5 0 2 6 7 #• Conflict?#
+#Well! The Dwarves lived in the Cave of the Dwarves in Mount St. Kelly, and the two villages were peaceful until the Dwarven King was killed. After the incident, it was rumored that it was a poisoner under the people in my village, and no one knew who the murderer was, so in order to avoid being blamed, he walked and fled.#
+0 32 6 0 0 #• Who is the real culprit?#
+#Who would admit that he was the murderer, who dared to assert without evidence, anyway, the people in our village were killed.#
+0 32 7 95 0 #• Dwarven Cave?#
+#To get to the Dwarven Cave to cross the snowy mountain, your only way is to take a boat, after going ashore and heading north, you can see a St. Kelly Hill, there are many dwarven guards, it should be the entrance to the Dwarven Cave.#
+32 0 8 0 0 #• The truth is out.#
+#I am so grateful to you for being able to find out the truth! How could someone as kind as we kill the dwarf king, and after a while I would go back to my hometown, thank you so much.#
+1 0 9 1 0 #• Goodbye.#
+#There will be a period after that!#

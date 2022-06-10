@@ -1,0 +1,13 @@
+
+
+
+#Qui vous a envoyé ici?#
+#Y a-t-il un laissez-passer?#
+1 0 1 0 0 #• Nom?#
+#Micro.#
+1 0 2 0 0 #• Profession?#
+#Ne dérangez pas, le travail des gardes est une question de vie humaine.#
+47 0 3 0 0 #• Laissez-passer?#
+#C’est la grotte des baleines, il est préférable de ne pas entrer.#
+1 0 4 1 0 #• Au revoir!#
+#Au revoir!#

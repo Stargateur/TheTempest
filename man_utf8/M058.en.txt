@@ -1,0 +1,13 @@
+
+
+
+#This is a forbidden area.#
+#Nothing to do don't get near here!#
+1 0 1 0 0 #• Name?#
+#Rosen.#
+1 0 2 0 0 #• Occupation?#
+#Standing guard here, of course, you should not leave without permission.#
+1 53 3 0 0 #• Forbidden areas?#
+#He was appointed by Uncle Karabang to supervise the post.#
+1 0 4 1 0 #• Goodbye!#
+#Don't look for me.#

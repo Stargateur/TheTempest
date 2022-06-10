@@ -1,0 +1,17 @@
+
+
+
+#Feed! Man! What a noble job!#
+#Hey! You're very up! Buy it now! If you don't buy it, roll it!#
+1 0 1 0 0 #• Name?#
+#Lao Tzu's name was Morive.#
+1 0 2 0 0 #• Occupation?#
+#The big boss of this weapons store is me!#
+1 0 3 3 0 #• Buy weapons.#
+#Pick your own! Give money if you want!#
+1 0 4 4 0 #• Buy armor.#
+#Do it yourself! Lao Tzu is very busy!#
+1 0 5 8 0 #• Sell used goods.#
+#You'll have a great deal!#
+1 0 6 1 0 #• Goodbye.#
+#Roll on!#

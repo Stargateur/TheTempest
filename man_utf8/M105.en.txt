@@ -1,0 +1,23 @@
+
+
+
+#There are probably very few works in the world that can be called perfect.#
+#I hope to be able to carve some of the best in the world.#
+1 0 1 0 0 #• Name?#
+#Hajik.#
+1 0 2 0 1 3 #• Occupation?#
+#Carver.#
+0 0 3 0 2 4 5 #• Engraving?#
+#My most proud work is the rough stone carving, but occasionally I also carve some exquisite pieces, such as jade carvings, wood carvings, and even mussel beads I can carve Wei Miao Wei Xiao.#
+0 44 4 0 0 #• Proud of the work?#
+#When I stopped before "The Birth of Venus," I had to marvel that my work was a stroke of genius.#
+0 44 5 2 2 6 7 #• Mussel beads?#
+#This mussel bead can be carved into a key, but it requires superior patience and superb technology, the mussel beads are handed over to me to ensure that you can carve out your ideal key, and only charge you 2500 yuan, okay?#
+0 44 6 46 0 #• Okay.#
+#It will be done soon, you wait, I'll do it right away... Well! Almost done... All right! It's a perfect key, take it!#
+0 44 7 0 0 #• Not good.#
+#I heard that you saved the children in the village, so I am willing to put down my body and carve this meaningless work for you, next time don't blame me for not helping.#
+2 0 8 0 0 #• A masterpiece?#
+#There seems to be little creative inspiration lately.#
+1 0 9 1 0 #• Goodbye.#
+#Come back and visit my masterpiece when you have time.#

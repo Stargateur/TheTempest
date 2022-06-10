@@ -1,0 +1,95 @@
+
+
+
+#Voulez-vous un verre? Roter.. Ce vin est vraiment bon.#
+#Puis-je vous aider?#
+1 14 1 0 0 #• Nom?#
+#Demander mon nom? Thomas, n’as-tu pas entendu parler d’un nom aussi fort ?#
+13 14 2 0 1 3 #• Profession?#
+#En parlant de mon histoire, j’ai peur de vous faire peur, j’étais autrefois un samouraï Konoe du royaume, ce n’est pas un samouraï ordinaire!#
+0 0 3 0 1 4 #• Konoe Samouraï? Es-tu sûr?#
+#Hé? Vous... Vous! Prince Pete?! Je ne m’attendais pas à ce que vous veniez à Edmer Island!.#
+0 0 4 2 2 5 6 #• Me reconnaître?#
+#Roter... Buvez un peu plus, je vous prie de me pardonner pour le manque de respect que je viens de faire, Votre Majesté le Prince, j’ai entendu dire qu’Antonio s’est rebellé à nouveau, et je jure par la présente avec la loyauté d’un samouraï que je vous suivrai jusqu’au jour de la restauration réussie, et j’espère que Sa Majesté le Prince me donnera l’occasion de vous suivre?#
+0 0 5 17 0 #• Bien.#
+#C’est super! Je vais certainement mettre Antonio dans la prison du royaume!.#
+0 0 6 0 0 #• Pas bon.#
+#Quel dommage.#
+14 15 7 0 0 #• Y a-t-il quelque chose d’étrange qui se passe dans le village?#
+#J’entends souvent les villageois parler des touristes qui sont souvent attaqués par des monstres du côté sud du village, et peut-être devrions-nous aller le voir.#
+15 16 8 0 0 #• Quel est le but de ce jouet?#
+#Oui! Quand j’étais enfant, je jouais avec ce genre de jouet, et je ne savais pas à quel enfant il appartenait, et il devait être très triste.#
+16 18 9 0 0 #• Que faire à nouveau?#
+#N’y a-t-il pas un livre magique ? Nous pouvons l’essayer.#
+18 23 10 0 0 #• Beau paysage dans le quartier?#
+#Je ne suis jamais allé à cet endroit auparavant, et j’ai entendu dire qu’il y avait une fontaine de Trevi ici!#
+23 24 11 0 0 #• Avez-vous trouvé quelque chose?#
+#Où est enfermé sans le savoir le chef du village de Galilée ?#
+24 28 12 0 0 #• Quelle est la prochaine étape?#
+#Allons voir le chef du village ! Le démon du banian ne l’a pas encore trouvé!#
+79 29 13 0 0 #• Que diriez-vous de refaire quelque chose?#
+#Allez sur l’île de Telok pour sauver le garçon Froms! Ce manuel d’instructions de cape volante doit lui être retourné!#
+30 105 14 0 0 #• Les choses sont un peu étranges?#
+#Le meurtre était assez bizarre, et je pense que le village nain et Enok ont dû aller se promener.#
+105 33 15 0 0 #• La vérité est sortie.#
+#Affrontons Bailey avant d’informer la Reine Naine, de peur qu’ils ne tuent vraiment Jenok !#
+33 34 16 0 0 #• Revenons à Jenok!#
+#Le chef du village a dû nous apprécier!#
+34 38 17 0 0 #• Quelle est la prochaine étape?#
+#Sauvez Davis !#
+38 39 18 0 0 #• Quelle est la prochaine étape?#
+#Trouvons quelqu’un pour « tisser » ces matériaux !#
+39 87 19 0 0 #• Quelle est la prochaine étape?#
+#Votre Majesté le Prince, le tisserand a dit qu’il faudrait trois jours pour le terminer!#
+87 103 20 0 0 #• Le manteau est enfin terminé.#
+#Ha! Ha! Avec cette cape volante, même si vous tombez au pied d’une haute falaise, vous ne pouvez pas mourir!#
+40 41 21 0 0 #• Qu’y a-t-il d’autre à faire?#
+#Nous avons juste promis à la petite fille que nous allions sauver son frère!#
+41 42 22 0 0 #• Enfin tué la sorcière!#
+#Allons chercher sa sœur! »#
+45 50 23 0 0 #• Allons à Tlock Island!#
+#Eh bien, je ne peux pas épargner le gars de Karaban cette fois!#
+52 53 24 0 0 #• Calabon sera émerveillé !#
+#Bourdonner! Cette fois, il doit être battu jusqu’au chaos, afin qu’il n’ait aucune chance de faire quoi que ce soit!#
+56 61 25 0 0 #• Nous devons sauver Ariel!#
+#Puits! Il est dans la prison de Tree Cave depuis assez longtemps!#
+59 60 26 0 0 #• Trouvez les dessins de construction maintenant!#
+#Il semble que l’ingénieur ait été tué, alors ramenons la carte au village et donnons-la à eux!#
+60 65 27 0 0 #• Allons au Parthénon !#
+#Puits! Ces designers sont là !#
+83 71 28 0 0 #• Prolli a été sauvé !#
+#Eh bien, allons d’abord trouver Snyder!#
+71 72 29 0 0 #• Allons à l’autel!#
+#Eh bien, allons-y!#
+74 91 30 0 0 #• Comment puis-je entrer?#
+#Puits... Davis pourra peut-être demander comment du village!#
+76 75 31 0 0 #• Je ne m’attendais pas à ce que l’invisibilité fonctionne!#
+#Puits... Jetons un coup d’œil autour de nous!#
+75 77 32 0 0 #• Enfin battre The Gypsy!#
+#Puits... Allons d’abord trouver le propriétaire du magasin d’armes, puis allons au mur de pierre à l’ouest du village!#
+0 0 33 2 2 34 35 #• Voulez-vous vraiment rejoindre l’équipe?#
+#Ce sera mon plus grand honneur !#
+0 0 34 17 0 #• Bien.#
+#Ha ha! C’est super! Je vais certainement mettre Antonio dans la prison du royaume!.#
+0 0 35 0 0 #• Pas bon.#
+#Quel dommage.#
+0 13 36 2 2 42 43 #• Voulez-vous vraiment rejoindre l’équipe?#
+#Ce sera mon plus grand honneur !#
+0 0 37 0 0 #• Bien.#
+#Mais, Votre Majesté, vous devez payer pour mon vin avant que je puisse sortir d’ici d’une manière digne!#
+0 0 38 0 0 #• Pas bon.#
+#Quel dommage.#
+1 13 39 0 1 40 #• Profession?#
+#En parlant de mon histoire, j’ai peur de vous faire peur, j’étais autrefois un samouraï Konoe du royaume, ce n’est pas un samouraï ordinaire!#
+0 0 40 0 1 41 #• Konoe Samouraï? Es-tu sûr?#
+#Hé? Vous... Vous! Prince Pete?! Je ne m’attendais pas à ce que vous veniez à Edmer Island!.#
+0 0 41 2 2 42 43 #• Me reconnaître?#
+#Roter... Buvez un peu plus, je vous prie de me pardonner pour le manque de respect que je viens de faire, Votre Majesté le Prince, j’ai entendu dire qu’Antonio s’est rebellé à nouveau, et je jure par la présente avec la loyauté d’un samouraï que je vous suivrai jusqu’au jour de la restauration réussie, et j’espère que Sa Majesté le Prince me donnera l’occasion de vous suivre?#
+0 0 42 0 0 #• Bien.#
+#Mais, Votre Majesté, vous devez payer pour mon vin avant que je puisse sortir d’ici d’une manière digne!#
+0 0 43 0 0 #• Pas bon.#
+#Quel dommage.#
+1 14 44 1 0 #• Au revoir.#
+#Je serai ici à tout moment en attendant votre appel! »#
+14 0 45 1 0 #• Hmmm! Mettons-nous en route.#
+#C’est juste! Il faut se dépêcher !#

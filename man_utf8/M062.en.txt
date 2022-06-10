@@ -1,0 +1,23 @@
+
+
+
+#Hero, thank you for saving your life!#
+#Life-saving hero, what's the matter?#
+1 0 1 0 1 5 #• Name?#
+#I'm Joe Louis from the Dwarven Cave.#
+1 0 2 0 0 #• Occupation?#
+#I usually live by doing some business.#
+30 0 3 0 0 #• A lifesaver?#
+#When I met that fierce white bear, I almost lost my life, if you hadn't come to relieve the crisis, my old life would have been long gone.#
+0 32 4 0 1 7 #• Bailey?#
+#He was a good friend of mine in the village of Yunok, but he had been very strange lately, often restless, and had recently stayed in a hotel in Wales, so maybe you could visit him.#
+0 32 5 0 1 8 #• Dwarven Cave?#
+#We dwarves have always lived in the caves of the dwarves, and we have always lived a peaceful life without controversy until our dwarven king is killed.#
+105 0 6 0 0 #• Grateful?#
+#People in both of our villages have to thank you, the great benefactor, especially the dwarves in our village, for finding the real murderer for our dwarf king.#
+0 32 7 0 0 #• Visit him?#
+#Wells is a nice guy and Berley must have a special reason to stay there.#
+0 32 8 0 1 4 #• The Dwarf King was killed?#
+#It's a tragedy, but I can't believe that it will be the poisoner of the village of Enoch, but this is from Berley's mouth, which makes people believe it! ...#
+1 0 9 1 0 #• Goodbye.#
+#Good bye.#

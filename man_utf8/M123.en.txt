@@ -1,0 +1,13 @@
+
+
+
+#The landscape of the royal palace is rare in the world.#
+#The nearby trench is bottomless.#
+1 0 1 0 0 #• Name?#
+#Emmer Jones.#
+1 0 2 0 0 #• Occupation?#
+#Just a guard, a small role.#
+1 55 3 0 0 #• Palace view?#
+#In order to prepare for the prince's "overlord" wedding, the palace was magnificently arranged.#
+1 0 4 1 0 #• Goodbye.#
+#I'm busy, don't come with me!#

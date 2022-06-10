@@ -1,0 +1,23 @@
+
+
+
+#I don't think there is anyone in this world who can beat my bodyguard.#
+#The neat fights are really heart-warming.#
+1 0 1 0 0 #• Name?#
+#George.#
+1 0 2 0 0 #• Occupation?#
+#I'm the richest man here, I don't need any work, I just wait every day to collect money.#
+1 67 3 2 2 4 5 #• Bodyguard?#
+#The Blood Wizard is a super-sorcery wizard, and he and Witch Wadel are twins. So many people have come up to compete and lost at his hands, if you can defeat him, the treasure in my cellar, you can take as much as you like, will you?#
+0 62 4 64 0 #• Willing.#
+#Ha! There are good dramas to watch again. Go down from that secret passage, beware! Many people died as a result.#
+0 62 5 0 0 #• Unwilling.#
+#Then give the opportunity to someone else.#
+62 0 6 0 1 7 #• Are you satisfied?#
+#You... You are... GLP... Pater......???#
+0 0 7 0 0 #• How do you know?#
+#No... No, I don't know anything, you take all those treasures!#
+1 62 8 1 0 #• Goodbye.#
+#Great adventurers! Don't back down on my little challenge! Hahaha...#
+62 0 9 1 0 #• Goodbye.#
+#Belch...... You guys... Don't you want to stay a few more days?#

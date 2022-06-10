@@ -1,0 +1,29 @@
+
+
+
+#My father had been missing for a long time and didn't know when he would be seen.#
+#The world of Azluksi does not know when peace will be regained.#
+1 0 1 0 0 #• Name?#
+#Matthi.#
+1 0 2 0 1 3 #• Father?#
+#My father's name was Paul and he was a famous architect.#
+0 0 3 0 2 5 4 #• Paul?#
+#The father was an honest man, that day the demon captured all the architects in the village, only the father escaped in time, I don't know if he is good now?#
+0 59 4 0 1 7 #• Escape?#
+#At that time, people were panicked, and his father said that he would rather die than build a city for the devil, so he escaped from the village at night.#
+0 60 5 0 0 #• Architect?#
+#Yes, the village's cross-sea bridge is from my father's hand.#
+65 0 6 0 0 #• Calm?#
+#Since those uncles and uncles returned from afar, the village has finally returned to calm.#
+0 65 7 0 1 8 #• Demons?#
+#It was Kate at Patnon.#
+0 65 8 0 2 9 10 #• Kate?#
+#After the kingdom coup, Kate occupied the island of Jarre in the south of Gnostic. He also released the most vicious prisoners of the Bentenon underground prison for his call, and no one knows why this brutal general came to Edmer Island.#
+0 65 9 0 0 #• Bartholnon?#
+#Patnon's underground prison is famous, but I heard that Kate was going to build another royal city there, and the villagers who were taken away were probably there!#
+0 65 10 0 1 11 #• Prisoners?#
+#Some of the villains who are supposed to stay in prison for the rest of their lives, fortunately, most of them have followed Kate to Yar Island.#
+0 65 11 0 0 #• Isle of Jarr?#
+#No boatman has dared to go there since Kate was stationed there, are you going... Conspiracy...#
+1 0 12 1 0 #• Goodbye.#
+#I wish you early success.#

@@ -1,0 +1,13 @@
+
+
+
+#General Kate was a high-ranking official supported by all the people.#
+#Our ability to live in peace is entirely a gift from God.#
+75 0 1 0 0 #• Name?#
+#McFarri.#
+75 0 2 0 0 #• Occupation?#
+#I... It's Kate's retinue, what's the matter?#
+75 78 3 0 0 #• Kate?#
+#Our great general is extraordinary, and he is a rare and good example.#
+1 0 4 1 0 #• Goodbye.#
+#Good bye.#

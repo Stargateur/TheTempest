@@ -1,0 +1,17 @@
+
+
+
+#The beasts outside are all fierce and cruel, and you'd better have all the equipment to go out.#
+#Need something else?#
+72 0 1 0 0 #• Name?#
+#Howard.#
+72 0 2 0 0 #• Occupation?#
+#The owner of my small arms shop!#
+72 0 3 3 0 #• Buy weapons.#
+#See if there is a product that satisfies you.#
+72 0 4 4 0 #• Buy armor.#
+#Please feel free to visit.#
+72 0 5 8 0 #• Sell used goods.#
+#What do you have to sell?#
+1 0 6 1 0 #• Goodbye.#
+#There is something that needs to come back to me.#

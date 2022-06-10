@@ -1,0 +1,25 @@
+
+
+
+#S’il vous plaît, ne me tuez pas, d’accord?#
+#Je suis un petit elfe des arbres.#
+19 24 1 0 1 2 #• Tuez-moi?#
+#Notre sort est assez pitoyable.#
+0 24 2 0 2 3 4 #• Rencontres?#
+#Je venais de m’échapper du village devant moi.#
+0 0 3 0 0 #• Village?#
+#C’est la ville thermale du village de Galilée.#
+0 0 4 0 2 5 6 #• Évasion ?#
+#Cela ne fait pas de mal de vous le dire, ils sont tous contrôlés par Karaban.#
+0 53 5 0 0 #• Karabang?#
+#C’est le monstre né de la méchante sorcière Sekracus, trois points comme un homme, sept points comme un singe.#
+0 53 6 0 0 #• Contrôle?#
+#Ils ont été forcés de piller les biens des villageois et de contrôler leurs mouvements.#
+1 26 7 0 0 #• Profession?#
+#Je suis une dryade et Ariel est notre leader.#
+1 0 8 0 0 #• Nom?#
+#Je m’appelle Kiki.#
+53 0 9 0 0 #• Elfes?#
+#J’ai entendu dire que vous avez battu Karabang, ce qui est incroyable.#
+1 0 10 1 0 #• Au revoir.#
+#Soyez prudent sur la route.#

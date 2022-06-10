@@ -1,0 +1,17 @@
+
+
+
+#There are a variety of sophisticated weapons and armor, would you like to visit it?#
+#Want to buy some new products?#
+1 0 1 0 0 #• Name?#
+#Louis.#
+1 0 2 0 0 #• Occupation?#
+#I've been running this weapons store for decades.#
+1 0 3 3 0 #• Buy weapons.#
+#Your luck is so good that a batch of new goods has just arrived recently.#
+1 0 4 4 0 #• Buy armor.#
+#The defense effect of these armor is good, choose the same!#
+1 0 5 8 0 #• Sell items.#
+#Let me see if you have any good goods to sell!#
+1 0 6 1 0 #• Goodbye.#
+#If there is something good, don't forget that I will buy it at a high price!#

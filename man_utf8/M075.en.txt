@@ -1,0 +1,21 @@
+
+
+
+#The fishermen's life is not good.#
+#Recently, there have been many fewer schools of fish.#
+1 0 1 0 0 #• Name?#
+#West Beccaano.#
+1 0 2 0 1 3 #• Occupation?#
+#A fisherman who lives by his nets.#
+0 38 3 0 2 4 5 #• Fishing nets?#
+#Hehe! I used the toughest fishing line as the material for the fishing net, and troubled the weaver girl on the northeast shore to weave it.#
+0 38 4 2 2 6 7 #• Fishing line?#
+#This silver fishing line is made of extremely rare materials, so the price is more expensive, a pair of 1900 yuan, do you need it?#
+0 39 5 0 0 #• Weaver Girl?#
+#Don't you know? Basco's weaving technique is superb. No matter what clothes, fishing nets, fishing gear, capes, hats, all of them are what she is good at.#
+0 39 6 37 0 #• Yes.#
+#I think you'll know the benefits after buying it.#
+0 39 7 0 0 #• Nothing.#
+#Sure, you can not believe my words, but you can ask someone else!#
+1 0 8 1 0 #• Goodbye.#
+#Next time we go night fishing together.#

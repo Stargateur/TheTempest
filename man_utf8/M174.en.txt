@@ -1,0 +1,17 @@
+
+
+
+#To replenish your stamina, it's best to rest here for a while before we go.#
+#Our restaurant has a comfortable environment, I think you will like it.#
+72 0 1 0 0 #• Name?#
+#Macray.#
+72 0 2 0 0 #• Occupation?#
+#The neighborhood is the most comfortable for my hostel.#
+72 0 3 2 2 4 5 #• Accommodation?#
+#Stay here for 500 yuan a night, okay?#
+0 0 4 15 0 #• Okay.#
+#Have a nice day.#
+0 0 5 0 0 #• Not good.#
+#Never mind.#
+1 0 6 1 0 #• Goodbye.#
+#Welcome back again.#

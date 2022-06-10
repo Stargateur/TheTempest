@@ -1,0 +1,35 @@
+
+
+
+#Boy, what wind blew you into our undersea city?#
+#Ordinary people must have the ability to reach the heavens to see me!#
+1 0 1 0 0 #• Name?#
+#You don't seem to be in a position to ask for my name. But I'm magnanimous by nature, so I spared your little life, so I'll listen carefully now! The king's name was "Cough" Paul Etiroski. Clobusia, whew! I want to read it in one breath, but I'm really tired.#
+1 0 2 0 0 #• Occupation?#
+#Look at your people are still smart, but how to ask stupid questions? Don't I look like a king?#
+1 0 3 0 1 4 #• Underwater City?#
+#It's weird, isn't it! It is all thanks to the magical enchantment of the Pearl of Venus that people can live here so freely.#
+0 55 4 0 1 5 #• Pearl of Venus?#
+#Legend has it that if a beautiful woman came to the dream giant clam where Venus was born, the giant clam would chant for her and give her the pearl of Venus that shone with a deep purple brilliance as a gift, but unfortunately such a beautiful treasure now fell into the hands of the ugly Karabang.#
+0 55 5 0 2 6 7 #• Has Calabon been here too?#
+#He dug a secret passage from The Rock Island to my kingdom, and by the power of the dark magic, he took the Pearl of Venus, if not, why would I kidnap the girl to marry my son?#
+0 55 6 0 0 #• Secret passage?#
+#You probably came down from there, too, right? The secret passage is slippery, and it is difficult to return to Telok Island from there.#
+0 52 7 0 1 8 #• What about girls?#
+#Are you going to help the old man save the little girl? Don't be silly. The Enchantment has shrunk smaller and smaller since the Pearl of Venus was taken, and the whole kingdom is now counting on her to take another Pearl of Venus from the Dream Giant Clam! Otherwise, the underwater kingdom would be sleeping in this vast ocean forever!#
+0 52 8 0 1 9 #• Will she agree to go?#
+#That's why she forced her to marry my son! Becoming a princess, I naturally can't stay out of the matter about the rise and fall of the kingdom, of course, I also know that it is wrong to persecute her, but this is also unavoidable! Unless......#
+0 52 9 2 2 10 11 #• Unless what?#
+#Unless you can get the Pearl of Venus back. If you can get it back, the girl and you can go back to land together, but... Are you willing to take this risk?#
+0 52 10 49 0 #• Willing.#
+#It's true. Then take this silver key to open the room near my bedchamber, there is a passage inside which is the only exit from the underwater city, and if you really find the Pearl of Venus, then enter the underwater city through that passage.#
+0 52 11 0 0 #• Unwilling.#
+#Forget it, but it's hard to get out of here.#
+2 55 12 2 2 13 14 #• Heavenly skills?#
+#There are not many people who have the ability to come to the underwater city! That's right! Have you retrieved the Pearl of Venus? I knew that Heaven would not treat such a good person as me badly, haha...#
+0 55 13 48 0 #• Get it back.#
+#It's great that you didn't expect you to find the Pearl of Venus so quickly! Hahahahaha! You took the golden key, and the girl was locked up in the mansion outside the palace, and I now keep my promise that you can take her out of the underwater city with you. Hahahahaha! My baby beads are finally back!#
+0 55 14 0 0 #• Haven't found it yet!#
+#Alas! ... It seems that I will start preparing for the wedding...#
+1 0 15 1 0 #• Goodbye.#
+#If only there was anything new in the outside world! Remember to come back and tell me again!#

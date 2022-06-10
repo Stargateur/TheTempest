@@ -1,0 +1,17 @@
+
+
+
+#Bien que je dirige un magasin d’armes, je ne veux pas voir de batailles sanglantes!#
+#Les arts martiaux doivent être pratiqués avec plus de diligence.#
+1 0 1 0 0 #• Nom?#
+#Marcus Purbins.#
+1 0 2 0 0 #• Profession?#
+#Je suis propriétaire d’un magasin d’armes.#
+1 0 3 3 0 #• Acheter des armes?#
+#Veuillez sélectionner la même chose.#
+1 0 4 4 0 #• Acheter une armure?#
+#Veuillez sélectionner la même chose.#
+1 0 5 8 0 #• Vendre des biens d’occasion.#
+#Laissez-moi voir ce que vous avez à vendre.#
+1 0 6 1 0 #• Au revoir.#
+#Au revoir.#

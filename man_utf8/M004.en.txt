@@ -1,0 +1,27 @@
+
+
+
+#What method did you use to crack my spells?"#
+#Want to know something?#
+1 0 1 0 0 #• Name?#
+#My name is Cyrus.#
+1 61 2 0 2 3 5 #• Occupation?#
+#Some people call us banyan tree demons, but we are actually the little tree elves of Warwick Mountain, if only our leader Ariel had not been captured.#
+0 61 3 0 1 4 #• Warwick Mountain?#
+#Warwick Mountain stretches between the village of Kabbalah and Azluksi, blocking the passage between them, but it is a paradise for the elves of all races!#
+0 61 4 0 0 #• Azluksi?#
+#Only Ariel has been there, and I'm sure he'll be happy to tell you when we get him out of prison.#
+0 28 5 0 1 6 #• Ariel?#
+#Although he was a more human-like half-elf, the elves of All Warwick were very supportive of him, and a few months ago, he was imprisoned in tree cave prison for rebelling against The orders of Karabon.#
+0 28 6 2 2 7 8 #• Karabang?#
+#Karabang has kidnapped Ariel and blackmailed us into bullying the people in the village, but we don't want to, but the goblin in Karabang is really too vicious, he has many treacherous tricks, he wants people to submit to his threat, if you want to get rid of him, please let me help you, okay?#
+0 28 7 29 0 #• Good.#
+#It was so nice! I know that the Tree Cave Prison where Ariel is imprisoned has a special magic seal, and only by obtaining the magic crystal of Karabon can it be teleported into it, so we must first defeat Karabang.#
+0 28 8 0 0 #• Not good.#
+#If you think that one person's strength can deal with this demon, you are too arrogant.#
+57 61 9 0 1 10 #• Magic Crystal.#
+#The Magic Crystal is a pass to enter the Tree Cave Prison, and we are going to rescue Ariel.#
+0 0 10 0 0 #• Tree Hole Prison?#
+#Just to the northeast of the village of Kabbalah.#
+1 0 11 1 0 #• Goodbye.#
+#Good bye.#

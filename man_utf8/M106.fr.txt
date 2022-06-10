@@ -1,0 +1,19 @@
+
+
+
+#L’avez-vous remarqué? Le travail manuel de mon maître est vraiment exquis, et je soupire vraiment à moi-même.#
+#Si je veux devenir un sculpteur aussi bon qu’un maître, je dois beaucoup perfectionner.#
+1 0 1 0 0 #• Nom?#
+#Minsuri.#
+1 0 2 0 0 #• Profession?#
+#Je suis un étudiant de Maître Hajikistan.#
+1 44 3 0 1 5 #• Maître?#
+#La technique la plus célèbre du Village de l’Eau est la sculpture, et notre maître Hajik est un pionnier dans l’art de la sculpture.#
+1 2 4 0 0 #• Auto-infligé?#
+#Il peut créer des œuvres passionnantes pour de petites choses telles que la sculpture de jade.#
+0 44 5 0 0 #• Hajik?#
+#Bien qu’il n’aide pas souvent les gens à sculpter des œuvres, tant que vous êtes sincère, je crois qu’il ne vous embarrassera pas.#
+2 0 6 0 0 #• Combien affiner?#
+#Vous voyez si mes compétences récentes se sont un peu améliorées, ce sont mes dernières œuvres.#
+1 0 7 1 0 #• Au revoir.#
+#Donnez un bon nom à mon nouveau travail!#

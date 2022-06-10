@@ -1,0 +1,17 @@
+
+
+
+#Our short life turned out to be a dream...#
+#Our short life turned out to be a dream...#
+1 0 1 0 0 #• Name?#
+#Nam.#
+1 0 2 0 0 #• Occupation?#
+#Poet.#
+1 32 3 0 1 4 #• A short life?#
+#I don't know when I'll be caught by Karabang, and even if I'm not caught, life is just as short.#
+0 53 4 0 0 #• Karabang?#
+#He said... Obey my boundless command of mana, and the long-sleepers in the tomb will also be awakened, the tomb door will open, and the ghosts will run out...#
+1 0 5 0 0 #• Dreams?#
+#Dreams are completely wrong, absurd, compound, but at the same time correct, unmistakable, true... If what you dream about is illusory..., what about the real world, what is true? What is fake?#
+1 0 6 1 0 #• Goodbye!#
+#Stop actively pursuing nihilistic dreams.#

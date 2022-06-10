@@ -1,0 +1,35 @@
+
+
+
+#Dépêchez-vous et voyez l’excitation! George et leur famille avaient un autre bon spectacle à regarder.#
+#Oh? Vous êtes toujours en vie et en bonne santé! C’est rare !#
+1 0 1 0 0 #• Nom?#
+#Psica.#
+1 0 2 0 1 3 #• Profession?#
+#Je venais d’emménager du Parthénon avec ma mère et je ne trouvais pas encore de travail.#
+0 62 3 0 1 4 #• Bartholnon?#
+#Il y a maintenant des voleurs rampants partout, et les villageois ont déménagé presque de la même manière!#
+0 62 4 0 1 5 #• Des voleurs déchaînés ?#
+#Ce sont les prisonniers de ces prisons ! Il y a aussi des sorciers maléfiques.#
+0 62 5 0 0 #• Pourquoi en est-il ainsi?#
+#J’ai entendu dire que c’était l’ordre d’un général du royaume, et Dieu sait pourquoi il y avait un ordre aussi inexplicable.#
+1 2 6 0 1 7 #• Bon drame?#
+#Vous ne savez pas? Beaucoup de samouraïs qui pensaient qu’ils étaient forts se sont précipités chez George pour rivaliser avec son garde du corps, et il a été dit que le gagnant pouvait déplacer tous ses trésors! Mais......#
+0 62 7 0 1 8 #• Mais quoi ? @#
+#Cependant, le garde du corps était le sorcier de sang qui s’était déchaîné à Patnon quelques années plus tôt, et il a ensuite été emprisonné par Prospero dans une prison magique. Mais maintenant qu’il a été libéré par le général et qu’il est venu ici pour servir de garde du corps de George, je soupçonne que George a un lien avec le général!#
+0 62 8 0 0 #• Crochets?#
+#Sinon, pourquoi le Bentenon stérile serait-il sauté par les poulets et les chiens, alors que le riche Gnostique resterait si calme?#
+2 62 9 0 0 #• De nouvelles nouvelles?#
+#Pas encore, je vais vous le dire !#
+62 71 10 0 1 11 #• De nouvelles nouvelles?#
+#Oui! J’ai mangé un pigeon hier!#
+0 71 11 0 1 12 #• Pigeons?#
+#Les pigeons voyageurs que George a relâchés avaient bon goût, mais les nouvelles n’étaient pas très bonnes.#
+0 71 12 0 1 13 #• Message?!#
+#Vous voyez. « M. Kay: Le poisson a mangé le cuisinier et est reparti avec le cadeau! » Cette note a été envoyée la nuit où vous avez vaincu le Magicien du Sang, et quoi d’autre!#
+0 71 13 0 1 14 #• Aussi?#
+#Vous regardez les deux « M. Kay: Il y avait quelques poissons qui ont nagé récemment, et ils sont en fait venus de l’autre côté! » « M. Kay : Le cuisinier vérifie si le poisson vient de la mer. »#
+0 71 14 0 0 #• Il semble que vous ayez mangé pas mal de pigeons.#
+#Il semble que dès que vous entrez dans le village, vous serez ciblé. Prends soin de toi! Je ne sais pas qui vous êtes, mais je suis sûr que vous ne lâcherez pas les méchants, non? Allez!#
+1 0 15 1 0 #• Au revoir.#
+#Si vous avez le temps de revenir me voir, je crois qu’il y a encore beaucoup de complots dans ce village !#

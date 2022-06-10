@@ -1,0 +1,29 @@
+
+
+
+#Mon père avait disparu depuis longtemps et ne savait pas quand on le verrait.#
+#Le monde d’Azluksi ne sait pas quand la paix sera retrouvée.#
+1 0 1 0 0 #• Nom?#
+#Matthi.#
+1 0 2 0 1 3 #• Père?#
+#Mon père s’appelait Paul et c’était un architecte célèbre.#
+0 0 3 0 2 5 4 #• Paul?#
+#Le père était un homme honnête, ce jour-là le démon a capturé tous les architectes du village, seul le père s’est échappé à temps, je ne sais pas s’il est bon maintenant?#
+0 59 4 0 1 7 #• Évasion ?#
+#À cette époque, les gens étaient paniqués et son père a dit qu’il préférait mourir plutôt que de construire une ville pour le diable, alors il s’est échappé du village la nuit.#
+0 60 5 0 0 #• Architecte?#
+#Oui, le pont maritime du village est de la main de mon père.#
+65 0 6 0 0 #• Calme?#
+#Depuis que ces oncles et ces oncles sont revenus de loin, le village est enfin revenu au calme.#
+0 65 7 0 1 8 #• Démons?#
+#C’était Kate à Patnon.#
+0 65 8 0 2 9 10 #• Kate?#
+#Après le coup d’État du royaume, Kate occupa l’île de Jarre dans le sud de Gnostic. Il a également libéré les prisonniers les plus vicieux de la prison souterraine de Bentenon pour son appel, et personne ne sait pourquoi ce général brutal est venu sur l’île d’Edmer.#
+0 65 9 0 0 #• Bartholnon?#
+#La prison souterraine de Patnon est célèbre, mais j’ai entendu dire que Kate allait y construire une autre ville royale, et les villageois qui ont été emmenés étaient probablement là!#
+0 65 10 0 1 11 #• Prisonniers?#
+#Certains des méchants qui sont censés rester en prison pour le reste de leur vie, heureusement, la plupart d’entre eux ont suivi Kate à Yar Island.#
+0 65 11 0 0 #• Île de Jarr?#
+#Aucun batelier n’a osé s’y rendre depuis que Kate y était stationnée, allez-vous... Conspiration...#
+1 0 12 1 0 #• Au revoir.#
+#Je vous souhaite beaucoup de succès.#

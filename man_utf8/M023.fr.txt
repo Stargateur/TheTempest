@@ -1,0 +1,15 @@
+
+
+
+#Bonjour! Je suis l’épouse du chef du village.#
+#Vous ne vous avez pas vu depuis longtemps, comment ça va ces derniers temps ?#
+1 0 1 0 0 #• Nom?#
+#Je m’appelle Jessey.#
+1 0 2 0 1 3 #• Profession?#
+#Habituellement, aidez mon mari à organiser des documents ou à faire face à certaines choses.#
+0 0 3 0 1 4 #• Des choses ?#
+#Mon mari en sait beaucoup sur les choses dans le village et lui pose des questions.#
+0 0 4 0 0 #• Le nom du mari?#
+#Il s’appelait Madero.#
+1 0 5 1 0 #• Au revoir.#
+#Asseyez-vous quand vous avez le temps.#
