@@ -4,9 +4,9 @@
 #What's so important?#
 #Welcome to Kabbalah Village.#
 1 84 1 12 0 #• Name?#
-#…×△＊○？２…#
+#...×△*○?2...#
 1 84 2 12 0 #• Occupation?#
-#…×△＊○？２…#
+#...×△*○?2...#
 84 0 3 0 0 #• Name?#
 #I'm Pirid, is there anything wrong with me? I'm very busy.#
 84 0 4 0 0 #• Occupation?#

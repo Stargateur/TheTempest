@@ -12,7 +12,7 @@
 2 0 4 0 1 5 #• Poétique ?#
 #Dans le rêve, les nuages ont ouvert la porte et d’innombrables trésors se sont déversés sur moi; Quand je me suis réveillé, je n’ai pas pu m’empêcher de pleurer...#
 0 0 5 0 0 #• Pleurer?#
-#Comme je veux retourner à un si beau rêve, mais après la tempête, ce n’est pas calme, mais l’invasion de démons, triste! ∼#
+#Comme je veux retourner à un si beau rêve, mais après la tempête, ce n’est pas calme, mais l’invasion de démons, triste!#
 2 0 6 0 0 #• La vie?#
 #Ma vie est pleine de poésie.#
 1 0 7 1 0 #• Au revoir.#
